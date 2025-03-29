@@ -1,0 +1,36 @@
+# Code Citations
+
+## License: MIT
+https://github.com/almond-hydroponics/almond-re/tree/3ee7d3b82ee81a531103fe106e64bd1252d49047/src/typings/scss.d.ts
+
+```
+.d.ts
+declare module '*.css' {
+  const content: { [className: string]: string };
+  export default content;
+}
+
+declare module '*.scss' {
+  const content: { [className: string]: string };
+  export default content;
+```
+
+
+## License: unknown
+https://github.com/Rock-n-Block/refinery-finance-frontend/tree/ada7101e3b9285253fb402611f376f05b8858979/src/types/assets.d.ts
+
+```
+' {
+  const content: { [className: string]: string };
+  export default content;
+}
+
+declare module '*.scss' {
+  const content: { [className: string]: string };
+  export default content;
+}
+
+declare module '*.svg' {
+  const
+```
+
