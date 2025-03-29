@@ -15,12 +15,15 @@
     "@docusaurus/core": "^3.5.2",
     "@docusaurus/preset-classic": "^3.5.2",
     "@docusaurus/theme-mermaid": "^3.5.2",
-    "@mdx-js/react": "^3.1.0",
     "@easyops-cn/docusaurus-search-local": "^0.48.5",
+    "@mdx-js/react": "^3.1.0",
+    "@types/react": "^18.3.20",
     "by-node-env": "^2.0.1",
     "clsx": "^2.1.1",
-    "react-dom": "18.3.1",
+    "d3-scale": "^4.0.2",
+    "next": "^15.2.4",
     "react": "^18.3.1",
+    "react-dom": "18.3.1",
     "yaml-loader": "^0.8.1"
   },
   "resolutions": {},
@@ -38,5 +41,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/d3-scale": "^4.0.9",
+    "@types/next": "^8.0.7"
   }
 }
