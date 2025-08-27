@@ -1,0 +1,33 @@
+{
+  "permalink": "/blog/2020/09/30/customViewChanges",
+  "source": "@site/blog/2020-09-30-customViewChanges.md",
+  "title": "Lovelace: Custom View Layouts",
+  "description": "Custom Element developers can now create Custom View Layouts that users can load and use!",
+  "date": "2020-09-30T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.85,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Zack Barett",
+      "url": "https://github.com/zsarnett",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Zack Barett",
+    "authorURL": "https://github.com/zsarnett",
+    "authorTwitter": "zsarnett",
+    "title": "Lovelace: Custom View Layouts"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Lazy-loading more-info controls",
+    "permalink": "/blog/2020/10/02/lazyMoreInfo"
+  },
+  "nextItem": {
+    "title": "Improving Python's speed by 40% when running Home Assistant",
+    "permalink": "/blog/2020/07/13/alpine-python"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "permalink": "/blog/2020/05/14/entity-class-names",
+  "source": "@site/blog/2020-05-14-entity-class-names.md",
+  "title": "Entity class names",
+  "description": "Ever wondered when implementing entities for our entity integrations why you had to extend BinarySensorDevice and not BinarySensorEntity? Wonder no longer, as we have addressed the situation in Home Assistant 0.110 by renaming all classes that incorrectly had Device in their name. The old classes are still around but will log a warning when used.",
+  "date": "2020-05-14T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.85,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Paulus Schoutsen",
+      "url": "https://github.com/balloob",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Paulus Schoutsen",
+    "authorURL": "https://github.com/balloob",
+    "authorTwitter": "balloob",
+    "title": "Entity class names"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Lovelace: getCardSize can now be async",
+    "permalink": "/blog/2020/06/01/getCardSize"
+  },
+  "nextItem": {
+    "title": "Custom icon sets",
+    "permalink": "/blog/2020/05/09/custom-iconsets"
+  }
+}

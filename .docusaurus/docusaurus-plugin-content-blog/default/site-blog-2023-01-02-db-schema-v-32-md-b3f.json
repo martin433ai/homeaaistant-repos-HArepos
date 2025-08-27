@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2023/01/02/db-schema-v32",
+  "source": "@site/blog/2023-01-02-db-schema-v32.md",
+  "title": "Database schema v32 updates",
+  "description": "For Home Assistant Core 2023.2 the database schema has changed.",
+  "date": "2023-01-02T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.25,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "J. Nick Koston",
+      "url": "https://github.com/bdraco",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "J. Nick Koston",
+    "authorURL": "https://github.com/bdraco",
+    "title": "Database schema v32 updates"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Bluetooth updates for 2023.2 and later",
+    "permalink": "/blog/2023/01/12/bluetooth-adapters"
+  },
+  "nextItem": {
+    "title": "Multi-pan temporarily disabled",
+    "permalink": "/blog/2022/12/08/multi-pan-rollback"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "asyncio_categorizing_functions",
+  "title": "Categorizing functions",
+  "description": "A piece of work within Home Assistant is represented by a function that will be invoked. It will either run inside our event loop or inside our thread pool, depending on if it is async safe.",
+  "source": "@site/docs/asyncio_categorizing_functions.md",
+  "sourceDirName": ".",
+  "slug": "/asyncio_categorizing_functions",
+  "permalink": "/docs/asyncio_categorizing_functions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/asyncio_categorizing_functions.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Categorizing functions"
+  },
+  "sidebar": "Misc",
+  "previous": {
+    "title": "Asyncio 101",
+    "permalink": "/docs/asyncio_101"
+  },
+  "next": {
+    "title": "Working with Async",
+    "permalink": "/docs/asyncio_working_with_async"
+  }
+}

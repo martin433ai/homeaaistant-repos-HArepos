@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2024/04/30/store-runtime-data-inside-config-entry",
+  "source": "@site/blog/2024-04-30-store-runtime-data-inside-config-entry.md",
+  "title": "Store runtime data inside the config entry",
+  "description": "Integrations often need to set up and track custom data, such as coordinators, API connections, or code objects. Previously, those were all stored inside hass.data, which made tracking them difficult.",
+  "date": "2024-04-30T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.02,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Marc Mueller",
+      "url": "https://github.com/cdce8p",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Marc Mueller",
+    "authorURL": "https://github.com/cdce8p",
+    "title": "Store runtime data inside the config entry"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Improved typing for hass.data",
+    "permalink": "/blog/2024/05/01/improved-hass-data-typing"
+  },
+  "nextItem": {
+    "title": "Always reload after a successful re-auth flow",
+    "permalink": "/blog/2024/04/25/always-reload-after-successful-reauth-flow"
+  }
+}

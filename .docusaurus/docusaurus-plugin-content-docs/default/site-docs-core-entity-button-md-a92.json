@@ -1,0 +1,28 @@
+{
+  "id": "core/entity/button",
+  "title": "Button entity",
+  "description": "A button entity is an entity that can fire an event / trigger an action towards a device or service but remains stateless from the Home Assistant perspective.",
+  "source": "@site/docs/core/entity/button.md",
+  "sourceDirName": "core/entity",
+  "slug": "/core/entity/button",
+  "permalink": "/docs/core/entity/button",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/entity/button.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Button entity",
+    "sidebar_label": "Button"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Binary sensor",
+    "permalink": "/docs/core/entity/binary-sensor"
+  },
+  "next": {
+    "title": "Calendar",
+    "permalink": "/docs/core/entity/calendar"
+  }
+}

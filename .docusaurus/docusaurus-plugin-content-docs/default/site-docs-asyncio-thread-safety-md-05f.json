@@ -1,0 +1,27 @@
+{
+  "id": "asyncio_thread_safety",
+  "title": "Thread safety with asyncio",
+  "description": "Developing with asyncio requires careful attention to thread safety, as nearly all asyncio objects are not thread-safe. If you are just getting started with asyncio, review Python's documentation on Developing with asyncio for tips to avoid pitfalls.",
+  "source": "@site/docs/asyncio_thread_safety.md",
+  "sourceDirName": ".",
+  "slug": "/asyncio_thread_safety",
+  "permalink": "/docs/asyncio_thread_safety",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/asyncio_thread_safety.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Thread safety with asyncio"
+  },
+  "sidebar": "Misc",
+  "previous": {
+    "title": "Working with Async",
+    "permalink": "/docs/asyncio_working_with_async"
+  },
+  "next": {
+    "title": "Blocking operations with asyncio",
+    "permalink": "/docs/asyncio_blocking_operations"
+  }
+}

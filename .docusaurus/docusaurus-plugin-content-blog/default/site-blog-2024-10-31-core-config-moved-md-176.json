@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2024/10/31/core-config-moved",
+  "source": "@site/blog/2024-10-31-core-config-moved.md",
+  "title": "The core config class has been moved",
+  "description": "Summary of changes",
+  "date": "2024-10-31T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.86,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Erik Montnemery",
+      "url": "https://github.com/emontnemery",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Erik Montnemery",
+    "authorURL": "https://github.com/emontnemery",
+    "title": "The core config class has been moved"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Reauth and reconfigure flows need to be linked to a config entry",
+    "permalink": "/blog/2024/11/04/reauth-reconfigure-entry-id"
+  },
+  "nextItem": {
+    "title": "Changes to the update entity",
+    "permalink": "/blog/2024/10/31/update-entity-changes"
+  }
+}

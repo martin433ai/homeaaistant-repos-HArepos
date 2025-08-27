@@ -1,0 +1,28 @@
+{
+  "id": "core/entity/scene",
+  "title": "Scene entity",
+  "description": "A scene entity is an entity that can reproduce a wanted state for a group of entities. A scene entity can activate the scene towards a group of devices but remains stateless from the Home Assistant perspective.",
+  "source": "@site/docs/core/entity/scene.md",
+  "sourceDirName": "core/entity",
+  "slug": "/core/entity/scene",
+  "permalink": "/docs/core/entity/scene",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/entity/scene.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Scene entity",
+    "sidebar_label": "Scene"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Remote",
+    "permalink": "/docs/core/entity/remote"
+  },
+  "next": {
+    "title": "Select",
+    "permalink": "/docs/core/entity/select"
+  }
+}

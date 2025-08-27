@@ -1,0 +1,27 @@
+{
+  "id": "core/integration-quality-scale/rules/docs-known-limitations",
+  "title": "The documentation describes known limitations of the integration (not to be confused with bugs)",
+  "description": "Reasoning",
+  "source": "@site/docs/core/integration-quality-scale/rules/docs-known-limitations.md",
+  "sourceDirName": "core/integration-quality-scale/rules",
+  "slug": "/core/integration-quality-scale/rules/docs-known-limitations",
+  "permalink": "/docs/core/integration-quality-scale/rules/docs-known-limitations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/integration-quality-scale/rules/docs-known-limitations.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "The documentation describes known limitations of the integration (not to be confused with bugs)"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "The documentation provides automation examples the user can use.",
+    "permalink": "/docs/core/integration-quality-scale/rules/docs-examples"
+  },
+  "next": {
+    "title": "The documentation describes known supported / unsupported devices",
+    "permalink": "/docs/core/integration-quality-scale/rules/docs-supported-devices"
+  }
+}

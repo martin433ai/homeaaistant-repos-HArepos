@@ -1,0 +1,28 @@
+{
+  "id": "core/entity/image",
+  "title": "Image entity",
+  "description": "An image entity can display a static image. Derive a platform entity from homeassistant.components.image.ImageEntity.",
+  "source": "@site/docs/core/entity/image.md",
+  "sourceDirName": "core/entity",
+  "slug": "/core/entity/image",
+  "permalink": "/docs/core/entity/image",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/entity/image.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Image entity",
+    "sidebar_label": "Image"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Humidifier",
+    "permalink": "/docs/core/entity/humidifier"
+  },
+  "next": {
+    "title": "Lawn mower",
+    "permalink": "/docs/core/entity/lawn-mower"
+  }
+}

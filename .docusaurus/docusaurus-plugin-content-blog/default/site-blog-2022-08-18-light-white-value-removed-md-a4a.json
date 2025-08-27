@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2022/08/18/light_white_value_removed",
+  "source": "@site/blog/2022-08-18-light_white_value_removed.md",
+  "title": "LightEntity no longer supports white_value",
+  "description": "LightEntity no longer supports white_value, it's replaced by",
+  "date": "2022-08-18T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.195,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Erik Montnemery",
+      "url": "https://github.com/emontnemery",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Erik Montnemery",
+    "authorURL": "https://github.com/emontnemery",
+    "title": "LightEntity no longer supports white_value"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Globally available HomeAssistant object (hass)",
+    "permalink": "/blog/2022/08/24/globally_accessible_hass"
+  },
+  "nextItem": {
+    "title": "AutomationActionType deprecation for 2022.9",
+    "permalink": "/blog/2022/08/15/automation-action-type-deprecation"
+  }
+}

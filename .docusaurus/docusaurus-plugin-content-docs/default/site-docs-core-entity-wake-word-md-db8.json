@@ -1,0 +1,28 @@
+{
+  "id": "core/entity/wake_word",
+  "title": "Wake word detection entity",
+  "description": "A wake word detection entity allows other integrations or applications to detect wake words (also called hotwords) in an audio stream.",
+  "source": "@site/docs/core/entity/wake_word.md",
+  "sourceDirName": "core/entity",
+  "slug": "/core/entity/wake_word",
+  "permalink": "/docs/core/entity/wake_word",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/entity/wake_word.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Wake word detection entity",
+    "sidebar_label": "Wake word detection"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Valve",
+    "permalink": "/docs/core/entity/valve"
+  },
+  "next": {
+    "title": "Water heater",
+    "permalink": "/docs/core/entity/water-heater"
+  }
+}

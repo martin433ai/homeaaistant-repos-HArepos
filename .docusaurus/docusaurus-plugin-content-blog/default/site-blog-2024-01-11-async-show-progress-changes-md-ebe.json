@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2024/01/11/async-show-progress-changes",
+  "source": "@site/blog/2024-01-11-async-show-progress-changes.md",
+  "title": "Changes to FlowManager.async_show_progress",
+  "description": "FlowHandler.asyncshowprogress has been updated:",
+  "date": "2024-01-11T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.635,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Erik Montnémery",
+      "url": "https://github.com/emontnemery",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Erik Montnémery",
+    "authorURL": "https://github.com/emontnemery",
+    "title": "Changes to FlowManager.async_show_progress"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Deprecate invalid use of sensor unit of measurement and state class",
+    "permalink": "/blog/2024/01/17/deprecate-invalid-sensor-uom-state-class-use"
+  },
+  "nextItem": {
+    "title": "Deprecating all magic numbers for supported features",
+    "permalink": "/blog/2023/12/28/support-feature-magic-numbers-deprecation"
+  }
+}

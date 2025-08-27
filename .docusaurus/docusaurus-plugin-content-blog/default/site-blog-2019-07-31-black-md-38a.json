@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2019/07/31/black",
+  "source": "@site/blog/2019-07-31-black.md",
+  "title": "Adopting Black",
+  "description": "Today we have officially adopted the Python code formatting tool Black. All code has been formatted with Black and all future contributions will be checked to make sure that they have been formatted using Black.",
+  "date": "2019-07-31T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.715,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Paulus Schoutsen",
+      "url": "https://twitter.com/balloob",
+      "imageURL": "/img/profile/paulus.jpg",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Paulus Schoutsen",
+    "authorURL": "https://twitter.com/balloob",
+    "authorImageURL": "/img/profile/paulus.jpg",
+    "authorTwitter": "balloob",
+    "title": "Adopting Black"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Hacktoberfest 2019",
+    "permalink": "/blog/2019/09/27/hacktoberfest"
+  },
+  "nextItem": {
+    "title": "Building All The Things",
+    "permalink": "/blog/2019/07/19/building-all-the-things"
+  }
+}

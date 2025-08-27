@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2020/02/04/new-zwave",
+  "source": "@site/blog/2020-02-04-new-zwave.md",
+  "title": "Update on the Z-Wave integration",
+  "description": "At the State of the Union we introduced that we're working on a new Z-Wave integration. It's based on a new project by the Open Z-Wave project called OZWDaemon and we will communicate with it over MQTT.",
+  "date": "2020-02-04T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.065,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Paulus Schoutsen",
+      "url": "https://twitter.com/balloob",
+      "imageURL": "/img/profile/paulus.jpg",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Paulus Schoutsen",
+    "authorURL": "https://twitter.com/balloob",
+    "authorImageURL": "/img/profile/paulus.jpg",
+    "authorTwitter": "balloob",
+    "title": "Update on the Z-Wave integration"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Changes that can affect custom cards in 0.106",
+    "permalink": "/blog/2020/02/18/106-custom-card-changes"
+  },
+  "nextItem": {
+    "title": "Simple Mode in Home Assistant 1.0",
+    "permalink": "/blog/2019/10/05/simple-mode"
+  }
+}

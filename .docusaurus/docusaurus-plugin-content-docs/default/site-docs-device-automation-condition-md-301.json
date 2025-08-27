@@ -1,0 +1,28 @@
+{
+  "id": "device_automation_condition",
+  "title": "Device conditions",
+  "description": "Device conditions allow a user to check if a certain condition is met. Examples are is a light on or is the floor wet.",
+  "source": "@site/docs/device_automation_condition.md",
+  "sourceDirName": ".",
+  "slug": "/device_automation_condition",
+  "permalink": "/docs/device_automation_condition",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/device_automation_condition.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Device conditions",
+    "sidebar_label": "Conditions"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Triggers",
+    "permalink": "/docs/device_automation_trigger"
+  },
+  "next": {
+    "title": "Actions",
+    "permalink": "/docs/device_automation_action"
+  }
+}

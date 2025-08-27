@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2024/02/28/device-name-translations",
+  "source": "@site/blog/2024-02-28-device-name-translations.md",
+  "title": "Introducing device name translations",
+  "description": "It's now possible to provide translations for device names, including support for",
+  "date": "2024-02-28T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.79,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Erik Montnemery",
+      "url": "https://github.com/emontnemery",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Erik Montnemery",
+    "authorURL": "https://github.com/emontnemery",
+    "title": "Introducing device name translations"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Support for platform translations in separate files will be removed",
+    "permalink": "/blog/2024/03/05/platform_entity_translations_deprecation"
+  },
+  "nextItem": {
+    "title": "Deprecate use of @bind_hass and hass.components",
+    "permalink": "/blog/2024/02/27/deprecate-bind-hass-and-hass-components"
+  }
+}

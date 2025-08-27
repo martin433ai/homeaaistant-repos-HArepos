@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2023/04/13/new_limits_for_add_ons",
+  "source": "@site/blog/2023-04-13-new_limits_for_add_ons.md",
+  "title": "New limits for Supervisor Add-ons",
+  "description": "With Home Assistant OS 10, we update to the latest Docker release 23.0. With the",
+  "date": "2023-04-13T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.925,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Stefan Agner",
+      "url": "https://github.com/agners",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Stefan Agner",
+    "authorURL": "https://github.com/agners",
+    "title": "New limits for Supervisor Add-ons"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Statistics WebSocket API changes",
+    "permalink": "/blog/2023/04/30/statistics_impossible_values"
+  },
+  "nextItem": {
+    "title": "Deprecating Polymer",
+    "permalink": "/blog/2023/04/04/deprecating_polymer"
+  }
+}

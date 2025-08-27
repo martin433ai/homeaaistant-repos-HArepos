@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2023/01/25/sensor_rounding",
+  "source": "@site/blog/2023-01-25-sensor_rounding.md",
+  "title": "Sensor entity can now do rounding of numerical values",
+  "description": "Note:",
+  "date": "2023-01-25T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.26,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Erik Montnemery",
+      "url": "https://github.com/emontnemery",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Erik Montnemery",
+    "authorURL": "https://github.com/emontnemery",
+    "title": "Sensor entity can now do rounding of numerical values"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Intent Responses and Whitespace",
+    "permalink": "/blog/2023/02/03/responses"
+  },
+  "nextItem": {
+    "title": "Future proofing the Conversation integration",
+    "permalink": "/blog/2023/01/24/conversation-updates"
+  }
+}

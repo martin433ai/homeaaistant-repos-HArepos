@@ -1,0 +1,28 @@
+{
+  "permalink": "/blog/2025/01/31/energy-distance-units",
+  "source": "@site/blog/2025-01-31-energy-distance-units.md",
+  "title": "Energy by distance units",
+  "description": "Summary of changes",
+  "date": "2025-01-31T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.63,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "jschlyter",
+      "url": "https://github.com/jschlyter",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "jschlyter",
+    "authorURL": "https://github.com/jschlyter",
+    "title": "Energy by distance units"
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "Relocate dhcp/ssdp/usb/zeroconf ServiceInfo models",
+    "permalink": "/blog/2025/01/15/service-info"
+  }
+}

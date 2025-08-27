@@ -1,0 +1,27 @@
+{
+  "id": "frontend/custom-ui/custom-view",
+  "title": "Custom view layout",
+  "description": "By default Home Assistant will try to show the cards in a masonry layout (like Pinterest). A custom view layout allows developers to override this and define the layout mechanism (like a grid).",
+  "source": "@site/docs/frontend/custom-ui/custom-view.md",
+  "sourceDirName": "frontend/custom-ui",
+  "slug": "/frontend/custom-ui/custom-view",
+  "permalink": "/docs/frontend/custom-ui/custom-view",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/frontend/custom-ui/custom-view.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Custom view layout"
+  },
+  "sidebar": "Frontend",
+  "previous": {
+    "title": "Custom strategies",
+    "permalink": "/docs/frontend/custom-ui/custom-strategy"
+  },
+  "next": {
+    "title": "Creating custom panels",
+    "permalink": "/docs/frontend/custom-ui/creating-custom-panels"
+  }
+}

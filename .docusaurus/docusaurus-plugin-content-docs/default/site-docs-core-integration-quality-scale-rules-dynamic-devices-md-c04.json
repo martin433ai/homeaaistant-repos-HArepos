@@ -1,0 +1,30 @@
+{
+  "id": "core/integration-quality-scale/rules/dynamic-devices",
+  "title": "Devices added after integration setup",
+  "description": "Reasoning",
+  "source": "@site/docs/core/integration-quality-scale/rules/dynamic-devices.md",
+  "sourceDirName": "core/integration-quality-scale/rules",
+  "slug": "/core/integration-quality-scale/rules/dynamic-devices",
+  "permalink": "/docs/core/integration-quality-scale/rules/dynamic-devices",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/integration-quality-scale/rules/dynamic-devices.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Devices added after integration setup",
+    "related_rules": [
+      "stale-devices"
+    ]
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "The documentation describes use cases to illustrate how this integration can be used",
+    "permalink": "/docs/core/integration-quality-scale/rules/docs-use-cases"
+  },
+  "next": {
+    "title": "Entities are assigned an appropriate EntityCategory",
+    "permalink": "/docs/core/integration-quality-scale/rules/entity-category"
+  }
+}

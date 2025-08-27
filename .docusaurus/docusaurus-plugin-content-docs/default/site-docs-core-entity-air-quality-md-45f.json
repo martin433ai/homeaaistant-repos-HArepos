@@ -1,0 +1,28 @@
+{
+  "id": "core/entity/air-quality",
+  "title": "Air quality entity",
+  "description": "Properties",
+  "source": "@site/docs/core/entity/air-quality.md",
+  "sourceDirName": "core/entity",
+  "slug": "/core/entity/air-quality",
+  "permalink": "/docs/core/entity/air-quality",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/entity/air-quality.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Air quality entity",
+    "sidebar_label": "Air quality"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/core/entity"
+  },
+  "next": {
+    "title": "Alarm control panel",
+    "permalink": "/docs/core/entity/alarm-control-panel"
+  }
+}

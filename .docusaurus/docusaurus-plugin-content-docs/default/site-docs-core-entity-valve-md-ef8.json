@@ -1,0 +1,28 @@
+{
+  "id": "core/entity/valve",
+  "title": "Valve entity",
+  "description": "A valve entity controls valve devices such as the water or gas valves in your home. Derive a platform entity from homeassistant.components.valve.ValveEntity.",
+  "source": "@site/docs/core/entity/valve.md",
+  "sourceDirName": "core/entity",
+  "slug": "/core/entity/valve",
+  "permalink": "/docs/core/entity/valve",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/entity/valve.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Valve entity",
+    "sidebar_label": "Valve"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Vacuum",
+    "permalink": "/docs/core/entity/vacuum"
+  },
+  "next": {
+    "title": "Wake word detection",
+    "permalink": "/docs/core/entity/wake_word"
+  }
+}

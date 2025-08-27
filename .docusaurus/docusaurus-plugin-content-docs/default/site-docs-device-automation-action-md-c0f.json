@@ -1,0 +1,28 @@
+{
+  "id": "device_automation_action",
+  "title": "Device actions",
+  "description": "Device actions allow a user to have a device do something. Examples are to turn a light on or open a door.",
+  "source": "@site/docs/device_automation_action.md",
+  "sourceDirName": ".",
+  "slug": "/device_automation_action",
+  "permalink": "/docs/device_automation_action",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/device_automation_action.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Device actions",
+    "sidebar_label": "Actions"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Conditions",
+    "permalink": "/docs/device_automation_condition"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/docs/intent_index"
+  }
+}

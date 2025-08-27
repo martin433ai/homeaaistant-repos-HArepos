@@ -1,0 +1,35 @@
+{
+  "id": "core/integration-quality-scale/rules/unique-config-entry",
+  "title": "Don't allow the same device or service to be able to be set up twice",
+  "description": "Reasoning",
+  "source": "@site/docs/core/integration-quality-scale/rules/unique-config-entry.md",
+  "sourceDirName": "core/integration-quality-scale/rules",
+  "slug": "/core/integration-quality-scale/rules/unique-config-entry",
+  "permalink": "/docs/core/integration-quality-scale/rules/unique-config-entry",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/integration-quality-scale/rules/unique-config-entry.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Don't allow the same device or service to be able to be set up twice",
+    "related_rules": [
+      "config-flow",
+      "test-before-configure",
+      "config-flow-test-coverage",
+      "discovery",
+      "reauthentication-flow",
+      "reconfiguration-flow"
+    ]
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Check during integration initialization if we are able to set it up correctly",
+    "permalink": "/docs/core/integration-quality-scale/rules/test-before-setup"
+  },
+  "next": {
+    "title": "Service actions raise exceptions when encountering failures",
+    "permalink": "/docs/core/integration-quality-scale/rules/action-exceptions"
+  }
+}

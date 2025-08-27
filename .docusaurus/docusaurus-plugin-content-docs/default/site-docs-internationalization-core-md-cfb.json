@@ -1,0 +1,27 @@
+{
+  "id": "internationalization/core",
+  "title": "Backend localization",
+  "description": "Translation strings",
+  "source": "@site/docs/internationalization/core.md",
+  "sourceDirName": "internationalization",
+  "slug": "/internationalization/core",
+  "permalink": "/docs/internationalization/core",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/internationalization/core.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Backend localization"
+  },
+  "sidebar": "Internationalization",
+  "previous": {
+    "title": "Internationalization",
+    "permalink": "/docs/internationalization"
+  },
+  "next": {
+    "title": "Custom integration localization",
+    "permalink": "/docs/internationalization/custom_integration"
+  }
+}

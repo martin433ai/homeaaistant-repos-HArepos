@@ -1,0 +1,27 @@
+{
+  "id": "frontend/custom-ui/creating-custom-panels",
+  "title": "Creating custom panels",
+  "description": "Panels are pages that show information within Home Assistant and can allow controlling it. Panels are linked from the sidebar and rendered full screen. They have real-time access to the Home Assistant object via JavaScript. Examples of panels in the app are dashboards, Map, Logbook and History.",
+  "source": "@site/docs/frontend/custom-ui/creating-custom-panels.md",
+  "sourceDirName": "frontend/custom-ui",
+  "slug": "/frontend/custom-ui/creating-custom-panels",
+  "permalink": "/docs/frontend/custom-ui/creating-custom-panels",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/frontend/custom-ui/creating-custom-panels.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Creating custom panels"
+  },
+  "sidebar": "Frontend",
+  "previous": {
+    "title": "Custom view layout",
+    "permalink": "/docs/frontend/custom-ui/custom-view"
+  },
+  "next": {
+    "title": "Registering resources",
+    "permalink": "/docs/frontend/custom-ui/registering-resources"
+  }
+}

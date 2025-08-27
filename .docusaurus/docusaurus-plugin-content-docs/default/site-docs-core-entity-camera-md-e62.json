@@ -1,0 +1,28 @@
+{
+  "id": "core/entity/camera",
+  "title": "Camera entity",
+  "description": "A camera entity can display images, and optionally a video stream. Derive a platform entity from homeassistant.components.camera.Camera.",
+  "source": "@site/docs/core/entity/camera.md",
+  "sourceDirName": "core/entity",
+  "slug": "/core/entity/camera",
+  "permalink": "/docs/core/entity/camera",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/entity/camera.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Camera entity",
+    "sidebar_label": "Camera"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Calendar",
+    "permalink": "/docs/core/entity/calendar"
+  },
+  "next": {
+    "title": "Climate",
+    "permalink": "/docs/core/entity/climate"
+  }
+}

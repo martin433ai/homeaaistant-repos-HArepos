@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2024/06/12/async_forward_entry_setups",
+  "source": "@site/blog/2024-06-12-async_forward_entry_setups.md",
+  "title": "Forwarding setup to config entry platforms",
+  "description": "Calling hass.configentries.asyncforwardentrysetup is deprecated and will be removed in Home Assistant 2025.6. Instead, await hass.configentries.asyncforwardentrysetups as it can load multiple platforms at once and is more efficient since it does not require a separate import executor job for each platform.",
+  "date": "2024-06-12T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.375,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "J. Nick Koston",
+      "url": "https://github.com/bdraco",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "J. Nick Koston",
+    "authorURL": "https://github.com/bdraco",
+    "title": "Forwarding setup to config entry platforms"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Making http path registration async safe with `async_register_static_paths`",
+    "permalink": "/blog/2024/06/18/async_register_static_paths"
+  },
+  "nextItem": {
+    "title": "Alarm Control Panel Entity code validation",
+    "permalink": "/blog/2024/05/22/alarm_control_panel_validation"
+  }
+}

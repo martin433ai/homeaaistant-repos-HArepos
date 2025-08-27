@@ -1,0 +1,30 @@
+{
+  "id": "core/integration-quality-scale/rules/log-when-unavailable",
+  "title": "If internet/device/service is unavailable, log once when unavailable and once when back connected",
+  "description": "Reasoning",
+  "source": "@site/docs/core/integration-quality-scale/rules/log-when-unavailable.md",
+  "sourceDirName": "core/integration-quality-scale/rules",
+  "slug": "/core/integration-quality-scale/rules/log-when-unavailable",
+  "permalink": "/docs/core/integration-quality-scale/rules/log-when-unavailable",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/integration-quality-scale/rules/log-when-unavailable.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "If internet/device/service is unavailable, log once when unavailable and once when back connected",
+    "related_rules": [
+      "entity-unavailable"
+    ]
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Has an integration owner",
+    "permalink": "/docs/core/integration-quality-scale/rules/integration-owner"
+  },
+  "next": {
+    "title": "Set Parallel updates",
+    "permalink": "/docs/core/integration-quality-scale/rules/parallel-updates"
+  }
+}

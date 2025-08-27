@@ -1,0 +1,23 @@
+{
+  "id": "add-ons/security",
+  "title": "Add-on security",
+  "description": "Home Assistant rates every add-on based on the wanted rights. An add-on with a rating of 6 is very secure. If an add-on has a rating of 1, you shouldn't run this add-on unless you are 100% sure that you can trust the source.",
+  "source": "@site/docs/add-ons/security.md",
+  "sourceDirName": "add-ons",
+  "slug": "/add-ons/security",
+  "permalink": "/docs/add-ons/security",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/add-ons/security.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Add-on security"
+  },
+  "sidebar": "Addons",
+  "previous": {
+    "title": "Create an add-on repository",
+    "permalink": "/docs/add-ons/repository"
+  }
+}

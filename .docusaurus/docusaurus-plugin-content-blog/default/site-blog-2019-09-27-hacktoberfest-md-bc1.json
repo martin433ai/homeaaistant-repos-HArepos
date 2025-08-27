@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2019/09/27/hacktoberfest",
+  "source": "@site/blog/2019-09-27-hacktoberfest.md",
+  "title": "Hacktoberfest 2019",
+  "description": "This year we're again participating in Hacktoberfest. Hacktoberfest is a worldwide event to celebrate open source. If you make four pull request in the month of October, you'll get a free Hacktoberfest t-shirt.",
+  "date": "2019-09-27T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 3.115,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Paulus Schoutsen",
+      "url": "https://twitter.com/balloob",
+      "imageURL": "/img/profile/paulus.jpg",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Paulus Schoutsen",
+    "authorURL": "https://twitter.com/balloob",
+    "authorImageURL": "/img/profile/paulus.jpg",
+    "authorTwitter": "balloob",
+    "title": "Hacktoberfest 2019"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Simple Mode in Home Assistant 1.0",
+    "permalink": "/blog/2019/10/05/simple-mode"
+  },
+  "nextItem": {
+    "title": "Adopting Black",
+    "permalink": "/blog/2019/07/31/black"
+  }
+}

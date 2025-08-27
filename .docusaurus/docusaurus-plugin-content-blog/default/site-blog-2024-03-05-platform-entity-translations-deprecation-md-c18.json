@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2024/03/05/platform_entity_translations_deprecation",
+  "source": "@site/blog/2024-03-05-platform_entity_translations_deprecation.md",
+  "title": "Support for platform translations in separate files will be removed",
+  "description": "The method for integrations to provide translations for states of its entities under other integrations, for example to translate an integration's sensors was changed in November 2022, and support for the old method will be removed in Home Assistant Core 2024.5.0.",
+  "date": "2024-03-05T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.675,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Erik Montnemery",
+      "url": "https://github.com/emontnemery",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Erik Montnemery",
+    "authorURL": "https://github.com/emontnemery",
+    "title": "Support for platform translations in separate files will be removed"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Integrations import in the executor to avoid blocking the event loop",
+    "permalink": "/blog/2024/03/09/import_executor_default"
+  },
+  "nextItem": {
+    "title": "Introducing device name translations",
+    "permalink": "/blog/2024/02/28/device-name-translations"
+  }
+}

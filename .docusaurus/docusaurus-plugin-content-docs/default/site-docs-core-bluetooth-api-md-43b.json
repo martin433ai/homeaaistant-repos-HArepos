@@ -1,0 +1,27 @@
+{
+  "id": "core/bluetooth/api",
+  "title": "Bluetooth APIs",
+  "description": "Subscribing to Bluetooth discoveries",
+  "source": "@site/docs/core/bluetooth/api.md",
+  "sourceDirName": "core/bluetooth",
+  "slug": "/core/bluetooth/api",
+  "permalink": "/docs/core/bluetooth/api",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/bluetooth/api.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Bluetooth APIs"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Fetching Bluetooth data",
+    "permalink": "/docs/core/bluetooth/bluetooth_fetching_data"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/docs/development_checklist"
+  }
+}

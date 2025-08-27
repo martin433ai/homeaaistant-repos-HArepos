@@ -1,0 +1,33 @@
+{
+  "permalink": "/blog/2023/02/28/custom-tile-features",
+  "source": "@site/blog/2023-02-28-custom-tile-features.md",
+  "title": "Custom tile features",
+  "description": "In the Home Assistant Core 2022.3 release, we add custom features for the tile card. If you are a developer of custom cards, you can now build your own features to the tile card instead of building a whole card.",
+  "date": "2023-02-28T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.52,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Paul Bottein",
+      "url": "https://github.com/piitaya",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Paul Bottein",
+    "authorURL": "https://github.com/piitaya",
+    "authorTwitter": "piitaya",
+    "title": "Custom tile features"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Translating the name and attributes of entities",
+    "permalink": "/blog/2023/03/27/entity_name_translations"
+  },
+  "nextItem": {
+    "title": "Deprecated callback signatures for MQTT subscribe removed",
+    "permalink": "/blog/2023/02/21/deprecated-callback-removed"
+  }
+}

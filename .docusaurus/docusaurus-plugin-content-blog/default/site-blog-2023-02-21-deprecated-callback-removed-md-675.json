@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2023/02/21/deprecated-callback-removed",
+  "source": "@site/blog/2023-02-21-deprecated-callback-removed.md",
+  "title": "Deprecated callback signatures for MQTT subscribe removed",
+  "description": "Home Assistant's MQTT integration no longer supports",
+  "date": "2023-02-21T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.54,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Jan Bouwhuis",
+      "url": "https://twitter.com/jbouwh",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Jan Bouwhuis",
+    "authorURL": "https://twitter.com/jbouwh",
+    "title": "Deprecated callback signatures for MQTT subscribe removed"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Custom tile features",
+    "permalink": "/blog/2023/02/28/custom-tile-features"
+  },
+  "nextItem": {
+    "title": "Added support for snapshot testing",
+    "permalink": "/blog/2023/02/20/snapshot-testing"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "core/integration-quality-scale/rules/entity-event-setup",
+  "title": "Entities event setup",
+  "description": "Reasoning",
+  "source": "@site/docs/core/integration-quality-scale/rules/entity-event-setup.md",
+  "sourceDirName": "core/integration-quality-scale/rules",
+  "slug": "/core/integration-quality-scale/rules/entity-event-setup",
+  "permalink": "/docs/core/integration-quality-scale/rules/entity-event-setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/integration-quality-scale/rules/entity-event-setup.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Entities event setup"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "The documentation provides removal instructions",
+    "permalink": "/docs/core/integration-quality-scale/rules/docs-removal-instructions"
+  },
+  "next": {
+    "title": "Entities have a unique ID",
+    "permalink": "/docs/core/integration-quality-scale/rules/entity-unique-id"
+  }
+}

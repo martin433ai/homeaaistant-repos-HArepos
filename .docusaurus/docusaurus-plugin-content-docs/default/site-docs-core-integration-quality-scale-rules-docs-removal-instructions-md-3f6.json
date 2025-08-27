@@ -1,0 +1,27 @@
+{
+  "id": "core/integration-quality-scale/rules/docs-removal-instructions",
+  "title": "The documentation provides removal instructions",
+  "description": "Reasoning",
+  "source": "@site/docs/core/integration-quality-scale/rules/docs-removal-instructions.md",
+  "sourceDirName": "core/integration-quality-scale/rules",
+  "slug": "/core/integration-quality-scale/rules/docs-removal-instructions",
+  "permalink": "/docs/core/integration-quality-scale/rules/docs-removal-instructions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/integration-quality-scale/rules/docs-removal-instructions.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "The documentation provides removal instructions"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "The documentation provides step-by-step installation instructions for the integration, including, if needed, prerequisites",
+    "permalink": "/docs/core/integration-quality-scale/rules/docs-installation-instructions"
+  },
+  "next": {
+    "title": "Entities event setup",
+    "permalink": "/docs/core/integration-quality-scale/rules/entity-event-setup"
+  }
+}

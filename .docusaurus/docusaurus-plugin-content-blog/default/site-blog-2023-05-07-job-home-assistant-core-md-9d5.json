@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/2023/05/07/job-home-assistant-core",
+  "source": "@site/blog/2023-05-07-job-home-assistant-core.md",
+  "title": "Job: Home Assistant Core Developer",
+  "description": "Nabu Casa is seeking a passionate and experienced Python developer to join the Home Assistant core team as a full-time Software Engineer. As a member of our team, you will be responsible for reviewing contributions and developing new features that align with our roadmap.",
+  "date": "2023-05-07T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.245,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Paulus Schoutsen",
+      "url": "https://github.com/balloob",
+      "imageURL": "/img/profile/paulus.jpg",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Paulus Schoutsen",
+    "authorURL": "https://github.com/balloob",
+    "authorImageURL": "/img/profile/paulus.jpg",
+    "title": "Job: Home Assistant Core Developer"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Recent MQTT changes to improve overall performance",
+    "permalink": "/blog/2023/05/21/retained-mqtt-messages-filtered"
+  },
+  "nextItem": {
+    "title": "Statistics WebSocket API changes",
+    "permalink": "/blog/2023/04/30/statistics_impossible_values"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2024/12/26/area-squared-units",
+  "source": "@site/blog/2024-12-26-area-squared-units.md",
+  "title": "New area device class",
+  "description": "Summary of changes",
+  "date": "2024-12-26T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.41,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "mikey0000",
+      "url": "https://github.com/mikey0000",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "mikey0000",
+    "authorURL": "https://github.com/mikey0000",
+    "title": "New area device class"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Relocate dhcp/ssdp/usb/zeroconf ServiceInfo models",
+    "permalink": "/blog/2025/01/15/service-info"
+  },
+  "nextItem": {
+    "title": "Moving to Pydantic v2",
+    "permalink": "/blog/2024/12/21/moving-to-pydantic-v2"
+  }
+}

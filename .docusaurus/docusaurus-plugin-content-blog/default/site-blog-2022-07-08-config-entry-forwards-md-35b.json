@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2022/07/08/config_entry_forwards",
+  "source": "@site/blog/2022-07-08-config_entry_forwards.md",
+  "title": "Waiting for config entry platforms",
+  "description": "Before 2022.8, it was impossible to await config entry platforms forwards without a deadlock if one of the platforms loaded by the config entry was not already loaded.",
+  "date": "2022-07-08T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.345,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "J. Nick Koston",
+      "url": "https://github.com/bdraco",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "J. Nick Koston",
+    "authorURL": "https://github.com/bdraco",
+    "title": "Waiting for config entry platforms"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Adopting a new way to name entities",
+    "permalink": "/blog/2022/07/10/entity_naming"
+  },
+  "nextItem": {
+    "title": "Store is now a Generic class",
+    "permalink": "/blog/2022/07/08/generic-store"
+  }
+}

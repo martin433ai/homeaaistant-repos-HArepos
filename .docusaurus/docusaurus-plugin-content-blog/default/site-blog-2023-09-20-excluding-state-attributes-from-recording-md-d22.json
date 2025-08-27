@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2023/09/20/excluding-state-attributes-from-recording",
+  "source": "@site/blog/2023-09-20-excluding-state-attributes-from-recording.md",
+  "title": "New way of excluding state attributes from recording",
+  "description": "The way in which state attributes are excluded from recording has changed",
+  "date": "2023-09-20T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.43,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Erik Montnémery",
+      "url": "https://github.com/emontnemery",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Erik Montnémery",
+    "authorURL": "https://github.com/emontnemery",
+    "title": "New way of excluding state attributes from recording"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Home Assistant is participating in Hacktoberfest 2023!",
+    "permalink": "/blog/2023/10/01/hacktoberfest-2023"
+  },
+  "nextItem": {
+    "title": "The websocket command entity/source has been modified",
+    "permalink": "/blog/2023/09/12/ws-entity-source-simplified"
+  }
+}

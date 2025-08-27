@@ -1,0 +1,28 @@
+{
+  "id": "core/entity/switch",
+  "title": "Switch entity",
+  "description": "A switch entity turns on or off something, for example a relay. Derive a platform entity from homeassistant.components.switch.SwitchEntity.",
+  "source": "@site/docs/core/entity/switch.md",
+  "sourceDirName": "core/entity",
+  "slug": "/core/entity/switch",
+  "permalink": "/docs/core/entity/switch",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/entity/switch.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Switch entity",
+    "sidebar_label": "Switch"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Speech-to-text",
+    "permalink": "/docs/core/entity/stt"
+  },
+  "next": {
+    "title": "Text",
+    "permalink": "/docs/core/entity/text"
+  }
+}

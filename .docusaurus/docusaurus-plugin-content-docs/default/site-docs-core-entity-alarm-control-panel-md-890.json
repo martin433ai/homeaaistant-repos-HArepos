@@ -1,0 +1,28 @@
+{
+  "id": "core/entity/alarm-control-panel",
+  "title": "Alarm control panel entity",
+  "description": "An alarm control panel entity controls an alarm.  Derive a platform entity from homeassistant.components.alarmcontrolpanel.AlarmControlPanelEntity.",
+  "source": "@site/docs/core/entity/alarm-control-panel.md",
+  "sourceDirName": "core/entity",
+  "slug": "/core/entity/alarm-control-panel",
+  "permalink": "/docs/core/entity/alarm-control-panel",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/entity/alarm-control-panel.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Alarm control panel entity",
+    "sidebar_label": "Alarm control panel"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Air quality",
+    "permalink": "/docs/core/entity/air-quality"
+  },
+  "next": {
+    "title": "Assist satellite",
+    "permalink": "/docs/core/entity/assist-satellite"
+  }
+}

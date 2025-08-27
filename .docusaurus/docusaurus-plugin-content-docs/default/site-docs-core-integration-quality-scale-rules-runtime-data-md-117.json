@@ -1,0 +1,31 @@
+{
+  "id": "core/integration-quality-scale/rules/runtime-data",
+  "title": "Use ConfigEntry.runtime_data to store runtime data",
+  "description": "Reasoning",
+  "source": "@site/docs/core/integration-quality-scale/rules/runtime-data.md",
+  "sourceDirName": "core/integration-quality-scale/rules",
+  "slug": "/core/integration-quality-scale/rules/runtime-data",
+  "permalink": "/docs/core/integration-quality-scale/rules/runtime-data",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/integration-quality-scale/rules/runtime-data.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Use ConfigEntry.runtime_data to store runtime data",
+    "related_rules": [
+      "strict-typing",
+      "test-before-setup"
+    ]
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Entities use has_entity_name = True",
+    "permalink": "/docs/core/integration-quality-scale/rules/has-entity-name"
+  },
+  "next": {
+    "title": "Test a connection in the config flow",
+    "permalink": "/docs/core/integration-quality-scale/rules/test-before-configure"
+  }
+}

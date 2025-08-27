@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2020/05/08/logos-custom-integrations",
+  "source": "@site/blog/2020-05-08-logos-custom-integrations.md",
+  "title": "Logos for custom integrations",
+  "description": "Recently, Home Assistant started to support images & icons for integrations",
+  "date": "2020-05-08T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.635,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Franck Nijhof",
+      "url": "https://twitter.com/frenck",
+      "imageURL": "/img/profile/frenck.png",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Franck Nijhof",
+    "authorURL": "https://twitter.com/frenck",
+    "authorImageURL": "/img/profile/frenck.png",
+    "authorTwitter": "frenck",
+    "title": "Logos for custom integrations"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Instance URL helper",
+    "permalink": "/blog/2020/05/08/instance-url-helper"
+  },
+  "nextItem": {
+    "title": "Translations for custom Lovelace",
+    "permalink": "/blog/2020/04/23/frontend-translations"
+  }
+}

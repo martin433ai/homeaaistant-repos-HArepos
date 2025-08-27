@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2024/03/20/state_reported_timestamp",
+  "source": "@site/blog/2024-03-20-state_reported_timestamp.md",
+  "title": "New state timestamp State.last_reported",
+  "description": "The State object is now always updated and an event is always fired when an integration sets the state of an entity, regardless of any change to the state or a state attribute. This is implemented by adding a new timestamp, State.lastreported and a new event statereported.",
+  "date": "2024-03-20T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.4,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Erik Montnemery",
+      "url": "https://github.com/emontnemery",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Erik Montnemery",
+    "authorURL": "https://github.com/emontnemery",
+    "title": "New state timestamp State.last_reported"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Config Entries can now provide a reconfigure step",
+    "permalink": "/blog/2024/03/21/config-entry-reconfigure-step"
+  },
+  "nextItem": {
+    "title": "Raising exceptions with translations",
+    "permalink": "/blog/2024/03/15/exception-translations"
+  }
+}

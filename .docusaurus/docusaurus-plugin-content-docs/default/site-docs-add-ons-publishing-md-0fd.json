@@ -1,0 +1,27 @@
+{
+  "id": "add-ons/publishing",
+  "title": "Publishing your add-on",
+  "description": "There are two different ways of publishing add-ons. One is to publish pre-built containers to a container registry and the other option is to have users build the containers locally on their Home Assistant instance.",
+  "source": "@site/docs/add-ons/publishing.md",
+  "sourceDirName": "add-ons",
+  "slug": "/add-ons/publishing",
+  "permalink": "/docs/add-ons/publishing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/add-ons/publishing.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Publishing your add-on"
+  },
+  "sidebar": "Addons",
+  "previous": {
+    "title": "Local add-on testing",
+    "permalink": "/docs/add-ons/testing"
+  },
+  "next": {
+    "title": "Presenting your addon",
+    "permalink": "/docs/add-ons/presentation"
+  }
+}

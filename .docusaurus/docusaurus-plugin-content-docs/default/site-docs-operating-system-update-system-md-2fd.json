@@ -1,0 +1,24 @@
+{
+  "id": "operating-system/update-system",
+  "title": "Update system",
+  "description": "Home Assistant Operating System uses RAUC as the update system. RAUC is an image based update system designed for embedded systems. It has support for multiple boot slots thus supporting A/B style update mechanism. The update system integrates with popular bootloaders such as U-Boot but also allows integration with custom boot flows via scripts. It uses X.509 cryptography to sign and verify update bundles.",
+  "source": "@site/docs/operating-system/update-system.md",
+  "sourceDirName": "operating-system",
+  "slug": "/operating-system/update-system",
+  "permalink": "/docs/operating-system/update-system",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/operating-system/update-system.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Update system",
+    "sidebar_label": "Update system"
+  },
+  "sidebar": "OperatingSystem",
+  "previous": {
+    "title": "Deployment",
+    "permalink": "/docs/operating-system/deployment"
+  }
+}

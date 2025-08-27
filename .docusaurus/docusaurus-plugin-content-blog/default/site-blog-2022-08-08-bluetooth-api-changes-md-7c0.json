@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2022/08/08/bluetooth-api-changes",
+  "source": "@site/blog/2022-08-08-bluetooth-api-changes.md",
+  "title": "Bluetooth passive sensor API changes for 2022.9",
+  "description": "For Home Assistant Core 2022.9 we have changed the PassiveBluetoothProcessorCoordinator and PassiveBluetoothDataProcessor bluetooth API's to make PassiveBluetoothProcessorCoordinator responsible for parsing. The coordinator then pushes parsed data to PassiveBluetoothDataProcessor instances.",
+  "date": "2022-08-08T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.98,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "John Carr",
+      "url": "https://github.com/Jc2k",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "John Carr",
+    "authorURL": "https://github.com/Jc2k",
+    "title": "Bluetooth passive sensor API changes for 2022.9"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "AutomationActionType deprecation for 2022.9",
+    "permalink": "/blog/2022/08/15/automation-action-type-deprecation"
+  },
+  "nextItem": {
+    "title": "Device tracker deprecations for 2022.9",
+    "permalink": "/blog/2022/07/29/device-tracker_source-type-deprecation"
+  }
+}

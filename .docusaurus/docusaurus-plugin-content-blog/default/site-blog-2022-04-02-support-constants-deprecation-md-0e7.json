@@ -1,0 +1,33 @@
+{
+  "permalink": "/blog/2022/04/02/support-constants-deprecation",
+  "source": "@site/blog/2022-04-02-support-constants-deprecation.md",
+  "title": "Deprecating all SUPPORT_* constants",
+  "description": "As of Home Assistant Core 2022.5, all SUPPORT_* constants are deprecated,",
+  "date": "2022-04-02T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.885,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Franck Nijhof",
+      "url": "https://twitter.com/frenck",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Franck Nijhof",
+    "authorURL": "https://twitter.com/frenck",
+    "authorTwitter": "frenck",
+    "title": "Deprecating all SUPPORT_* constants"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Local OAuth2 Updates",
+    "permalink": "/blog/2022/04/16/local-oauth2"
+  },
+  "nextItem": {
+    "title": "New features for developers in 2022.4",
+    "permalink": "/blog/2022/03/30/2022.4-new-dev-features"
+  }
+}

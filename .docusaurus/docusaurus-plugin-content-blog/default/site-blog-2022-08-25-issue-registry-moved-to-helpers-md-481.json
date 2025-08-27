@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2022/08/25/issue_registry_moved_to_helpers",
+  "source": "@site/blog/2022-08-25-issue_registry_moved_to_helpers.md",
+  "title": "The issue registry has been moved to homeassistant.helpers",
+  "description": "The issue registry has been moved from homeassistant.components.repairs to homeassistant.helpers and is now loaded together with the other registries very early during bootstrapping, before setup of any integrations.",
+  "date": "2022-08-25T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.185,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Erik Montnemery",
+      "url": "https://github.com/emontnemery",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Erik Montnemery",
+    "authorURL": "https://github.com/emontnemery",
+    "title": "The issue registry has been moved to homeassistant.helpers"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Deprecating media player constants",
+    "permalink": "/blog/2022/09/06/media-player-repeat-mode-deprecation"
+  },
+  "nextItem": {
+    "title": "Globally available HomeAssistant object (hass)",
+    "permalink": "/blog/2022/08/24/globally_accessible_hass"
+  }
+}

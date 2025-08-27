@@ -1,0 +1,33 @@
+{
+  "permalink": "/blog/2023/07/07/action-event-custom-cards",
+  "source": "@site/blog/2023-07-07-action-event-custom-cards.md",
+  "title": "Action event for custom cards",
+  "description": "In the Home Assistant Core 2023.7 release, we introduced hass-action for custom cards.",
+  "date": "2023-07-07T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.59,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Paul Bottein",
+      "url": "https://github.com/piitaya",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Paul Bottein",
+    "authorURL": "https://github.com/piitaya",
+    "authorTwitter": "piitaya",
+    "title": "Action event for custom cards"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Updated to the Vacuum entity integration",
+    "permalink": "/blog/2023/07/10/vacuum-updates"
+  },
+  "nextItem": {
+    "title": "Changes to entity naming",
+    "permalink": "/blog/2023/06/28/entity-name-changes"
+  }
+}

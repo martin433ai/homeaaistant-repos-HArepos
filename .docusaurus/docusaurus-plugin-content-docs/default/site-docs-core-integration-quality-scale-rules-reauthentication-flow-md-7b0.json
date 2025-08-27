@@ -1,0 +1,34 @@
+{
+  "id": "core/integration-quality-scale/rules/reauthentication-flow",
+  "title": "Reauthentication flow",
+  "description": "Reasoning",
+  "source": "@site/docs/core/integration-quality-scale/rules/reauthentication-flow.md",
+  "sourceDirName": "core/integration-quality-scale/rules",
+  "slug": "/core/integration-quality-scale/rules/reauthentication-flow",
+  "permalink": "/docs/core/integration-quality-scale/rules/reauthentication-flow",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/integration-quality-scale/rules/reauthentication-flow.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Reauthentication flow",
+    "related_rules": [
+      "config-flow",
+      "test-before-configure",
+      "config-flow-test-coverage",
+      "test-before-setup",
+      "reconfiguration-flow"
+    ]
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Set Parallel updates",
+    "permalink": "/docs/core/integration-quality-scale/rules/parallel-updates"
+  },
+  "next": {
+    "title": "Above 95% test coverage for all integration modules",
+    "permalink": "/docs/core/integration-quality-scale/rules/test-coverage"
+  }
+}

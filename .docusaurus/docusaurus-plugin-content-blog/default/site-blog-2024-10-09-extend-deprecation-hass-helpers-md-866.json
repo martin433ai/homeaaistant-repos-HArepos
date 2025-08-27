@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/2024/10/09/extend-deprecation-hass-helpers",
+  "source": "@site/blog/2024-10-09-extend-deprecation-hass-helpers.md",
+  "title": "Extend deprecation period of hass.helpers",
+  "description": "On March 30, 2024, we announced the deprecation of the hass.helpers attribute for the Home Assistant 2024.11 release.",
+  "date": "2024-10-09T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.41,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Jan-Philipp Benecke",
+      "url": "https://github.com/jpbede",
+      "imageURL": "https://avatars.githubusercontent.com/u/3989428?s=96&v=4",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Jan-Philipp Benecke",
+    "authorURL": "https://github.com/jpbede",
+    "authorImageURL": "https://avatars.githubusercontent.com/u/3989428?s=96&v=4",
+    "title": "Extend deprecation period of hass.helpers"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "New helpers and best practises for reauth and reconfigure flows",
+    "permalink": "/blog/2024/10/21/reauth-reconfigure-helpers"
+  },
+  "nextItem": {
+    "title": "Deprecating state constants for cover",
+    "permalink": "/blog/2024/10/08/state-constants-cover-deprecation"
+  }
+}

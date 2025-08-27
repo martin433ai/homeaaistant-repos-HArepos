@@ -1,0 +1,28 @@
+{
+  "id": "core/entity/humidifier",
+  "title": "Humidifier entity",
+  "description": "A humidifier entity is a device whose main purpose is to control humidity, i.e. a humidifier or dehumidifier. Derive entity platforms from homeassistant.components.humidifier.HumidifierEntity",
+  "source": "@site/docs/core/entity/humidifier.md",
+  "sourceDirName": "core/entity",
+  "slug": "/core/entity/humidifier",
+  "permalink": "/docs/core/entity/humidifier",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/entity/humidifier.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Humidifier entity",
+    "sidebar_label": "Humidifier"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Fan",
+    "permalink": "/docs/core/entity/fan"
+  },
+  "next": {
+    "title": "Image",
+    "permalink": "/docs/core/entity/image"
+  }
+}

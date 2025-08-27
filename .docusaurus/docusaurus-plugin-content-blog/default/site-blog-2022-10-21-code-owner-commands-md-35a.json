@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2022/10/21/code-owner-commands",
+  "source": "@site/blog/2022-10-21-code-owner-commands.md",
+  "title": "GitHub Commands for Code Owners",
+  "description": "The Home Assistant service hub has been extended by Ludeeus with a new feature: GitHub commands for code owners.",
+  "date": "2022-10-21T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.575,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Paulus Schoutsen",
+      "url": "https://twitter.com/balloob",
+      "imageURL": "/img/profile/paulus.jpg",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Paulus Schoutsen",
+    "authorURL": "https://twitter.com/balloob",
+    "authorImageURL": "/img/profile/paulus.jpg",
+    "authorTwitter": "balloob",
+    "title": "GitHub Commands for Code Owners"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Introducing virtual integrations and differentiating hubs, devices, and services,",
+    "permalink": "/blog/2022/10/24/hubs-devices-services-virtual-integrations"
+  },
+  "nextItem": {
+    "title": "Deprecate IMPERIAL_SYSTEM unit system and linked constants and properties",
+    "permalink": "/blog/2022/10/14/deprecate-unit-system"
+  }
+}

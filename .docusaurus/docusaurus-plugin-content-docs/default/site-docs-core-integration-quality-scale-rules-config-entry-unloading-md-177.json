@@ -1,0 +1,30 @@
+{
+  "id": "core/integration-quality-scale/rules/config-entry-unloading",
+  "title": "Support config entry unloading",
+  "description": "Reasoning",
+  "source": "@site/docs/core/integration-quality-scale/rules/config-entry-unloading.md",
+  "sourceDirName": "core/integration-quality-scale/rules",
+  "slug": "/core/integration-quality-scale/rules/config-entry-unloading",
+  "permalink": "/docs/core/integration-quality-scale/rules/config-entry-unloading",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/integration-quality-scale/rules/config-entry-unloading.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Support config entry unloading",
+    "related_rules": [
+      "entity-event-setup"
+    ]
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Service actions raise exceptions when encountering failures",
+    "permalink": "/docs/core/integration-quality-scale/rules/action-exceptions"
+  },
+  "next": {
+    "title": "The documentation describes all integration configuration options",
+    "permalink": "/docs/core/integration-quality-scale/rules/docs-configuration-parameters"
+  }
+}

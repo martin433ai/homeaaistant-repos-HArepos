@@ -1,0 +1,27 @@
+{
+  "id": "development_catching_up",
+  "title": "Catching up with reality",
+  "description": "If it's taking a while to develop your feature, and you want to catch up with what's in the current Home Assistant dev branch, you can use git rebase. This will pull the latest Home Assistant changes locally, rewind your commits, bring in the latest changes from Home Assistant, and replay all of your commits on top.",
+  "source": "@site/docs/development_catching_up.md",
+  "sourceDirName": ".",
+  "slug": "/development_catching_up",
+  "permalink": "/docs/development_catching_up",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/development_catching_up.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Catching up with reality"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Testing your code",
+    "permalink": "/docs/development_testing"
+  },
+  "next": {
+    "title": "Tips and tricks",
+    "permalink": "/docs/development_tips"
+  }
+}

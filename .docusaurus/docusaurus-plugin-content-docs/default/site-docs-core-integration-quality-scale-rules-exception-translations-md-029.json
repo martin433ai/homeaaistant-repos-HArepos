@@ -1,0 +1,31 @@
+{
+  "id": "core/integration-quality-scale/rules/exception-translations",
+  "title": "Exception messages are translatable",
+  "description": "Reasoning",
+  "source": "@site/docs/core/integration-quality-scale/rules/exception-translations.md",
+  "sourceDirName": "core/integration-quality-scale/rules",
+  "slug": "/core/integration-quality-scale/rules/exception-translations",
+  "permalink": "/docs/core/integration-quality-scale/rules/exception-translations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/integration-quality-scale/rules/exception-translations.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Exception messages are translatable",
+    "related_rules": [
+      "entity-translations",
+      "action-exceptions"
+    ]
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Entities have translated names",
+    "permalink": "/docs/core/integration-quality-scale/rules/entity-translations"
+  },
+  "next": {
+    "title": "Icon translations",
+    "permalink": "/docs/core/integration-quality-scale/rules/icon-translations"
+  }
+}

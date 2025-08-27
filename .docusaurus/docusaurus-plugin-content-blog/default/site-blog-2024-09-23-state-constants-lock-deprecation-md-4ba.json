@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2024/09/23/state-constants-lock-deprecation",
+  "source": "@site/blog/2024-09-23-state-constants-lock-deprecation.md",
+  "title": "Deprecating state constants for lock",
+  "description": "As of Home Assistant Core 2024.10, the constants used to return state in LockEntity are deprecated and replaced by the LockState enum.",
+  "date": "2024-09-23T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.37,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "G Johansson",
+      "url": "https://github.com/gjohansson-ST",
+      "imageURL": "https://avatars.githubusercontent.com/u/62932417?v=4",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "G Johansson",
+    "authorURL": "https://github.com/gjohansson-ST",
+    "authorImageURL": "https://avatars.githubusercontent.com/u/62932417?v=4",
+    "authorTwitter": "GJohansson",
+    "title": "Deprecating state constants for lock"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Deprecating state constants for camera",
+    "permalink": "/blog/2024/09/23/state-constants-camera-deprecation"
+  },
+  "nextItem": {
+    "title": "Extend deprecation period of @bind_hass and hass.components",
+    "permalink": "/blog/2024/09/11/extending-deprecation-hass-components"
+  }
+}

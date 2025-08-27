@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2022/06/14/number_entity_refactoring",
+  "source": "@site/blog/2022-06-14-number_entity_refactoring.md",
+  "title": "Number entity refactoring to support unit conversion",
+  "description": "NumberEntity now supports temperature unit conversion following a similar pattern",
+  "date": "2022-06-14T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.625,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Erik Montnemery",
+      "url": "https://github.com/emontnemery",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Erik Montnemery",
+    "authorURL": "https://github.com/emontnemery",
+    "title": "Number entity refactoring to support unit conversion"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Weather entity refactoring to support unit conversions",
+    "permalink": "/blog/2022/06/27/weather_entity_refactoring"
+  },
+  "nextItem": {
+    "title": "Avoiding reloading config entries while they are setting up",
+    "permalink": "/blog/2022/06/13/unsafe_reloads_during_entry_setup"
+  }
+}

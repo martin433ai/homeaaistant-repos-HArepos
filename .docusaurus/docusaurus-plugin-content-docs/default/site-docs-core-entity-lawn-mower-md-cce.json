@@ -1,0 +1,28 @@
+{
+  "id": "core/entity/lawn-mower",
+  "title": "Lawn mower entity",
+  "description": "Derive entity platforms from homeassistant.components.lawnmower.LawnMowerEntity",
+  "source": "@site/docs/core/entity/lawn-mower.md",
+  "sourceDirName": "core/entity",
+  "slug": "/core/entity/lawn-mower",
+  "permalink": "/docs/core/entity/lawn-mower",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/entity/lawn-mower.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Lawn mower entity",
+    "sidebar_label": "Lawn mower"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Image",
+    "permalink": "/docs/core/entity/image"
+  },
+  "next": {
+    "title": "Light",
+    "permalink": "/docs/core/entity/light"
+  }
+}

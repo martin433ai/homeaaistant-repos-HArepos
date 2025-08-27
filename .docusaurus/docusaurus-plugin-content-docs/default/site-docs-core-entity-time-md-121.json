@@ -1,0 +1,28 @@
+{
+  "id": "core/entity/time",
+  "title": "Time entity",
+  "description": "A time is an entity that allows the user to input a time to an integration. Derive entity platforms from homeassistant.components.time.TimeEntity",
+  "source": "@site/docs/core/entity/time.md",
+  "sourceDirName": "core/entity",
+  "slug": "/core/entity/time",
+  "permalink": "/docs/core/entity/time",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/entity/time.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Time entity",
+    "sidebar_label": "Time"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Text",
+    "permalink": "/docs/core/entity/text"
+  },
+  "next": {
+    "title": "To-do list",
+    "permalink": "/docs/core/entity/todo"
+  }
+}

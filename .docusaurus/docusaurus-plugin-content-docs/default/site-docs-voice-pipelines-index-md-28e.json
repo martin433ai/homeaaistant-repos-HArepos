@@ -1,0 +1,27 @@
+{
+  "id": "voice/pipelines/index",
+  "title": "Assist pipelines",
+  "description": "The Assist pipeline integration runs the common steps of a voice assistant:",
+  "source": "@site/docs/voice/pipelines/index.md",
+  "sourceDirName": "voice/pipelines",
+  "slug": "/voice/pipelines/",
+  "permalink": "/docs/voice/pipelines/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/voice/pipelines/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Assist pipelines"
+  },
+  "sidebar": "Voice",
+  "previous": {
+    "title": "Response Style Guide",
+    "permalink": "/docs/voice/intent-recognition/style-guide"
+  },
+  "next": {
+    "title": "Language leaders",
+    "permalink": "/docs/voice/language-leaders"
+  }
+}

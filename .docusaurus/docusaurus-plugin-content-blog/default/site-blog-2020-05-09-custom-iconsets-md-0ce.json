@@ -1,0 +1,33 @@
+{
+  "permalink": "/blog/2020/05/09/custom-iconsets",
+  "source": "@site/blog/2020-05-09-custom-iconsets.md",
+  "title": "Custom icon sets",
+  "description": "If you are the maintainer of a custom icon set, you might need to update it.",
+  "date": "2020-05-09T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.185,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Bram Kragten",
+      "url": "https://github.com/bramkragten",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Bram Kragten",
+    "authorURL": "https://github.com/bramkragten",
+    "authorTwitter": "bramkragten",
+    "title": "Custom icon sets"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Entity class names",
+    "permalink": "/blog/2020/05/14/entity-class-names"
+  },
+  "nextItem": {
+    "title": "Instance URL helper",
+    "permalink": "/blog/2020/05/08/instance-url-helper"
+  }
+}

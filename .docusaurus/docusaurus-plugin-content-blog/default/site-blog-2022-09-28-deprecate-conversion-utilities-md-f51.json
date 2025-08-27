@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2022/09/28/deprecate-conversion-utilities",
+  "source": "@site/blog/2022-09-28-deprecate-conversion-utilities.md",
+  "title": "Deprecating unit conversion utilities",
+  "description": "As of Home Assistant Core 2022.10, the following utilities are deprecated:",
+  "date": "2022-09-28T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.195,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "epenet",
+      "url": "https://github.com/epenet",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "epenet",
+    "authorURL": "https://github.com/epenet",
+    "title": "Deprecating unit conversion utilities"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Long term statistics now tracks the source entity's unit",
+    "permalink": "/blog/2022/09/29/statistics_refactoring"
+  },
+  "nextItem": {
+    "title": "New sensor device classes",
+    "permalink": "/blog/2022/09/28/new_sensor_device_classes"
+  }
+}

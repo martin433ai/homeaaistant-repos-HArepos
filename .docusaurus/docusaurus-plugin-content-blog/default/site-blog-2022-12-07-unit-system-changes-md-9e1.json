@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2022/12/07/unit_system_changes",
+  "source": "@site/blog/2022-12-07-unit_system_changes.md",
+  "title": "Summary of unit system related changes",
+  "description": "The last few months saw many changes to the supported unit systems, and how numerical sensors are influenced by them. This blog post attempts to summarize the changes.",
+  "date": "2022-12-07T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.97,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Erik Montnemery",
+      "url": "https://github.com/emontnemery",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Erik Montnemery",
+    "authorURL": "https://github.com/emontnemery",
+    "title": "Summary of unit system related changes"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Entity state color changes",
+    "permalink": "/blog/2022/12/07/entity-color-changes"
+  },
+  "nextItem": {
+    "title": "Add  more unit enumerators",
+    "permalink": "/blog/2022/12/05/more-unit-enumerators"
+  }
+}

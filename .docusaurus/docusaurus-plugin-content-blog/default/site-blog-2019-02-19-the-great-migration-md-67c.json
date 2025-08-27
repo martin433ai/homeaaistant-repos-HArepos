@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2019/02/19/the-great-migration",
+  "source": "@site/blog/2019-02-19-the-great-migration.md",
+  "title": "The Great Migration",
+  "description": "Home Assistant is based around components. One type of components is the one that provide an entity abstraction for a type of device, like lights, switches or media players. Historically, to integrate with these abstractions, you would create a platform for this component. If the light component would be light/, the integration would create its platform as light/hue.py. This way, all logic for the lights was kept together.",
+  "date": "2019-02-19T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 2.255,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Paulus Schoutsen",
+      "url": "https://twitter.com/balloob",
+      "imageURL": "/img/profile/paulus.jpg",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Paulus Schoutsen",
+    "authorURL": "https://twitter.com/balloob",
+    "authorImageURL": "/img/profile/paulus.jpg",
+    "authorTwitter": "balloob",
+    "title": "The Great Migration"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Can I Have User Permissions?",
+    "permalink": "/blog/2019/03/11/user-permissions"
+  },
+  "nextItem": {
+    "title": "Deprecating homeassistant.remote",
+    "permalink": "/blog/2018/08/13/deprecating-remote-package"
+  }
+}

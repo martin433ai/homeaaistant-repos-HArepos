@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2022/12/01/entity_translations",
+  "source": "@site/blog/2022-12-01-entity_translations.md",
+  "title": "Translating the state of entities",
+  "description": "The method for integrations to provide translations for states of its entities under other integrations, for example to translate an integration's sensors has changed.",
+  "date": "2022-12-01T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.645,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Erik Montnemery",
+      "url": "https://github.com/emontnemery",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Erik Montnemery",
+    "authorURL": "https://github.com/emontnemery",
+    "title": "Translating the state of entities"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Add  more unit enumerators",
+    "permalink": "/blog/2022/12/05/more-unit-enumerators"
+  },
+  "nextItem": {
+    "title": "Add  more unit enumerators",
+    "permalink": "/blog/2022/11/28/more-unit-enumerators"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "voice/intent-recognition/style-guide",
+  "title": "Response Style Guide",
+  "description": "This document describes the style guide for responses.",
+  "source": "@site/docs/voice/intent-recognition/style-guide.md",
+  "sourceDirName": "voice/intent-recognition",
+  "slug": "/voice/intent-recognition/style-guide",
+  "permalink": "/docs/voice/intent-recognition/style-guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/voice/intent-recognition/style-guide.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Response Style Guide"
+  },
+  "sidebar": "Voice",
+  "previous": {
+    "title": "Contributing sentences",
+    "permalink": "/docs/voice/intent-recognition/contributing"
+  },
+  "next": {
+    "title": "Assist pipelines",
+    "permalink": "/docs/voice/pipelines/"
+  }
+}

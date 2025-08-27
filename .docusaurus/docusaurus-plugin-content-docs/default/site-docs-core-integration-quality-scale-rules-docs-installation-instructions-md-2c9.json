@@ -1,0 +1,27 @@
+{
+  "id": "core/integration-quality-scale/rules/docs-installation-instructions",
+  "title": "The documentation provides step-by-step installation instructions for the integration, including, if needed, prerequisites",
+  "description": "Reasoning",
+  "source": "@site/docs/core/integration-quality-scale/rules/docs-installation-instructions.md",
+  "sourceDirName": "core/integration-quality-scale/rules",
+  "slug": "/core/integration-quality-scale/rules/docs-installation-instructions",
+  "permalink": "/docs/core/integration-quality-scale/rules/docs-installation-instructions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/integration-quality-scale/rules/docs-installation-instructions.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "The documentation provides step-by-step installation instructions for the integration, including, if needed, prerequisites"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "The documentation includes a high-level description of the integration brand, product, or service",
+    "permalink": "/docs/core/integration-quality-scale/rules/docs-high-level-description"
+  },
+  "next": {
+    "title": "The documentation provides removal instructions",
+    "permalink": "/docs/core/integration-quality-scale/rules/docs-removal-instructions"
+  }
+}

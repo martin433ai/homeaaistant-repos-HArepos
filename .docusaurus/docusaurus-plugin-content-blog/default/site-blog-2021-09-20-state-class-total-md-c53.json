@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2021/09/20/state_class_total",
+  "source": "@site/blog/2021-09-20-state_class_total.md",
+  "title": "New sensor state class: total",
+  "description": "Note: This post was edited 2021-10-21 to remove references to total accumulated increases",
+  "date": "2021-09-20T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 3.555,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Erik Montnémery",
+      "url": "https://github.com/emontnemery",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Erik Montnémery",
+    "authorURL": "https://github.com/emontnemery",
+    "title": "New sensor state class: total"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Device configuration URL and entity categories",
+    "permalink": "/blog/2021/10/26/config-entity"
+  },
+  "nextItem": {
+    "title": "Supervisor update",
+    "permalink": "/blog/2021/08/24/supervisor_update"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "dev_101_states",
+  "title": "States",
+  "description": "Home Assistant keeps track of the states of entities in a state machine. The state machine has very few requirements:",
+  "source": "@site/docs/dev_101_states.md",
+  "sourceDirName": ".",
+  "slug": "/dev_101_states",
+  "permalink": "/docs/dev_101_states",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/dev_101_states.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "States"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Events",
+    "permalink": "/docs/dev_101_events"
+  },
+  "next": {
+    "title": "Config",
+    "permalink": "/docs/dev_101_config"
+  }
+}

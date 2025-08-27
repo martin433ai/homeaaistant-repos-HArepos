@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2024/04/13/deprecate_async_track_state_change",
+  "source": "@site/blog/2024-04-13-deprecate_async_track_state_change.md",
+  "title": "Replacing `async_track_state_change` with `async_track_state_change_event`",
+  "description": "asynctrackstatechange is deprecated and will be removed in Home Assistant 2025.5. asynctrackstatechange_event should be used instead.",
+  "date": "2024-04-13T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.725,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "J. Nick Koston",
+      "url": "https://github.com/bdraco",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "J. Nick Koston",
+    "authorURL": "https://github.com/bdraco",
+    "title": "Replacing `async_track_state_change` with `async_track_state_change_event`"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Always reload after a successful re-auth flow",
+    "permalink": "/blog/2024/04/25/always-reload-after-successful-reauth-flow"
+  },
+  "nextItem": {
+    "title": "New notify entity platform",
+    "permalink": "/blog/2024/04/10/new-notify-entity-platform"
+  }
+}

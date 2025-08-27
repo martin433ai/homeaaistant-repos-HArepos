@@ -1,0 +1,23 @@
+{
+  "id": "instance_url",
+  "title": "Getting the instance URL",
+  "description": "In some cases, an integration requires to know the URL of the users' Home",
+  "source": "@site/docs/instance_url.md",
+  "sourceDirName": ".",
+  "slug": "/instance_url",
+  "permalink": "/docs/instance_url",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/instance_url.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Getting the instance URL"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Adding type hints to your code",
+    "permalink": "/docs/development_typing"
+  }
+}

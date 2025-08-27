@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2024/10/22/new-alarm-state-property",
+  "source": "@site/blog/2024-10-22-new-alarm-state-property.md",
+  "title": "New alarm control panel state property and state enum",
+  "description": "As of Home Assistant Core 2024.11, we have introduced the alarm_state property in the AlarmControlPanelEntity. This newly added property should be used instead of directly setting the state property.",
+  "date": "2024-10-22T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.6,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "G Johansson",
+      "url": "https://github.com/gjohansson-ST",
+      "imageURL": "https://avatars.githubusercontent.com/u/62932417?v=4",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "G Johansson",
+    "authorURL": "https://github.com/gjohansson-ST",
+    "authorImageURL": "https://avatars.githubusercontent.com/u/62932417?v=4",
+    "authorTwitter": "GJohansson",
+    "title": "New alarm control panel state property and state enum"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Changes to the update entity",
+    "permalink": "/blog/2024/10/31/update-entity-changes"
+  },
+  "nextItem": {
+    "title": "New helpers and best practises for reauth and reconfigure flows",
+    "permalink": "/blog/2024/10/21/reauth-reconfigure-helpers"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "architecture_components",
+  "title": "Integration architecture",
+  "description": "Home Assistant Core can be extended with integrations. Each integration is responsible for a specific domain within Home Assistant. Integrations can listen for or trigger events, offer actions, and maintain states. Integrations are made up of a component (the base logic) and platforms (bits that integrate with other integrations). Integrations are written in Python and can do all the goodness that Python has to offer. Out of the box, Home Assistant offers a bunch of built-in integrations.",
+  "source": "@site/docs/architecture_components.md",
+  "sourceDirName": ".",
+  "slug": "/architecture_components",
+  "permalink": "/docs/architecture_components",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/architecture_components.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Integration architecture",
+    "sidebar_label": "Integrations"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Core",
+    "permalink": "/docs/architecture/core"
+  },
+  "next": {
+    "title": "Set up development environment",
+    "permalink": "/docs/development_environment"
+  }
+}

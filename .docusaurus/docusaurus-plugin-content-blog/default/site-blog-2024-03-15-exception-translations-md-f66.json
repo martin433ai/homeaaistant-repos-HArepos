@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/2024/03/15/exception-translations",
+  "source": "@site/blog/2024-03-15-exception-translations.md",
+  "title": "Raising exceptions with translations",
+  "description": "Logging exceptions with translation support",
+  "date": "2024-03-15T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.765,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Jan Bouwhuis",
+      "url": "https://github.com/jbouwh",
+      "imageURL": "https://avatars.githubusercontent.com/u/7188918?s=96&v=4",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Jan Bouwhuis",
+    "authorURL": "https://github.com/jbouwh",
+    "authorImageURL": "https://avatars.githubusercontent.com/u/7188918?s=96&v=4",
+    "title": "Raising exceptions with translations"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "New state timestamp State.last_reported",
+    "permalink": "/blog/2024/03/20/state_reported_timestamp"
+  },
+  "nextItem": {
+    "title": "Deprecating `async_run_job` and `async_add_job`",
+    "permalink": "/blog/2024/03/13/deprecate_add_run_job"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2023/03/27/entity_name_translations",
+  "source": "@site/blog/2023-03-27-entity_name_translations.md",
+  "title": "Translating the name and attributes of entities",
+  "description": "It's now possible to translate the name of entities, and this is preferred over hard coding a name in natural language in the Python implementation. Also, entity components provide shared translations, for example, for binary sensor device classes, which should be used to avoid translating the same thing multiple times.",
+  "date": "2023-03-27T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.355,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Erik Montnemery",
+      "url": "https://github.com/emontnemery",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Erik Montnemery",
+    "authorURL": "https://github.com/emontnemery",
+    "title": "Translating the name and attributes of entities"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Calendar best practices",
+    "permalink": "/blog/2023/03/28/calendar_best_practices"
+  },
+  "nextItem": {
+    "title": "Custom tile features",
+    "permalink": "/blog/2023/02/28/custom-tile-features"
+  }
+}

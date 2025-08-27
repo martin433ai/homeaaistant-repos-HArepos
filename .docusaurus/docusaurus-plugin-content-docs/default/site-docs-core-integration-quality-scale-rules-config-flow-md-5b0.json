@@ -1,0 +1,35 @@
+{
+  "id": "core/integration-quality-scale/rules/config-flow",
+  "title": "Integration needs to be able to be set up via the UI",
+  "description": "Reasoning",
+  "source": "@site/docs/core/integration-quality-scale/rules/config-flow.md",
+  "sourceDirName": "core/integration-quality-scale/rules",
+  "slug": "/core/integration-quality-scale/rules/config-flow",
+  "permalink": "/docs/core/integration-quality-scale/rules/config-flow",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/integration-quality-scale/rules/config-flow.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Integration needs to be able to be set up via the UI",
+    "related_rules": [
+      "test-before-configure",
+      "unique-config-entry",
+      "config-flow-test-coverage",
+      "discovery",
+      "reauthentication-flow",
+      "reconfiguration-flow"
+    ]
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Full test coverage for the config flow",
+    "permalink": "/docs/core/integration-quality-scale/rules/config-flow-test-coverage"
+  },
+  "next": {
+    "title": "Dependency transparency",
+    "permalink": "/docs/core/integration-quality-scale/rules/dependency-transparency"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "core/entity/siren",
+  "title": "Siren entity",
+  "description": "A siren entity is a device whose main purpose is to control siren devices like a doorbell or chime. Derive entity platforms from homeassistant.components.siren.SirenEntity",
+  "source": "@site/docs/core/entity/siren.md",
+  "sourceDirName": "core/entity",
+  "slug": "/core/entity/siren",
+  "permalink": "/docs/core/entity/siren",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/entity/siren.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Siren entity",
+    "sidebar_label": "Siren"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Sensor",
+    "permalink": "/docs/core/entity/sensor"
+  },
+  "next": {
+    "title": "Speech-to-text",
+    "permalink": "/docs/core/entity/stt"
+  }
+}

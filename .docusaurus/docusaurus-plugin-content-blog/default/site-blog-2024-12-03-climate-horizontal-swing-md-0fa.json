@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2024/12/03/climate-horizontal-swing",
+  "source": "@site/blog/2024-12-03-climate-horizontal-swing.md",
+  "title": "Climate entity now supports independent horizontal swing",
+  "description": "As of Home Assistant Core 2024.12, we have implemented an independent property and method for controlling horizontal swing in ClimateEntity.",
+  "date": "2024-12-03T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.1,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "G Johansson",
+      "url": "https://github.com/gjohansson-ST",
+      "imageURL": "https://avatars.githubusercontent.com/u/62932417?v=4",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "G Johansson",
+    "authorURL": "https://github.com/gjohansson-ST",
+    "authorImageURL": "https://avatars.githubusercontent.com/u/62932417?v=4",
+    "authorTwitter": "GJohansson",
+    "title": "Climate entity now supports independent horizontal swing"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "New vacuum state property",
+    "permalink": "/blog/2024/12/08/new-vacuum-state-property"
+  },
+  "nextItem": {
+    "title": "Utility function homeassistant.util.dt.utc_to_timestamp is deprecated",
+    "permalink": "/blog/2024/11/28/dt-util-utc-to-timestamp-deprecation"
+  }
+}

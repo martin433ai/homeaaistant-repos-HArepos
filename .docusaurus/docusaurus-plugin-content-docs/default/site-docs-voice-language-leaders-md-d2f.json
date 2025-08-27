@@ -1,0 +1,27 @@
+{
+  "id": "voice/language-leaders",
+  "title": "Language leaders",
+  "description": "Home Assistant is a global project. We want to make sure that everyone can use Home Assistant in their native language. For that reason, we have language leaders for each language to lead the maintenance.",
+  "source": "@site/docs/voice/language-leaders.md",
+  "sourceDirName": "voice",
+  "slug": "/voice/language-leaders",
+  "permalink": "/docs/voice/language-leaders",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/voice/language-leaders.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Language leaders"
+  },
+  "sidebar": "Voice",
+  "previous": {
+    "title": "Assist pipelines",
+    "permalink": "/docs/voice/pipelines/"
+  },
+  "next": {
+    "title": "Contributing your voice",
+    "permalink": "/docs/voice/contributing-your-voice"
+  }
+}

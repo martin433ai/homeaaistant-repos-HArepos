@@ -1,0 +1,28 @@
+{
+  "id": "creating_component_generic_discovery",
+  "title": "Integration with multiple platforms",
+  "description": "Most integrations consist of a single platform. And in that case, it's fine to just define that one platform. However, if you are going to add a second platform, you will want to centralize your connection logic. This is done inside the component (init.py).",
+  "source": "@site/docs/creating_component_generic_discovery.md",
+  "sourceDirName": ".",
+  "slug": "/creating_component_generic_discovery",
+  "permalink": "/docs/creating_component_generic_discovery",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/creating_component_generic_discovery.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Integration with multiple platforms",
+    "sidebar_label": "Multiple platforms"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Platforms",
+    "permalink": "/docs/creating_platform_index"
+  },
+  "next": {
+    "title": "Fetching data",
+    "permalink": "/docs/integration_fetching_data"
+  }
+}

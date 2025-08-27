@@ -1,0 +1,27 @@
+{
+  "id": "core/integration-quality-scale/rules/entity-category",
+  "title": "Entities are assigned an appropriate EntityCategory",
+  "description": "Reasoning",
+  "source": "@site/docs/core/integration-quality-scale/rules/entity-category.md",
+  "sourceDirName": "core/integration-quality-scale/rules",
+  "slug": "/core/integration-quality-scale/rules/entity-category",
+  "permalink": "/docs/core/integration-quality-scale/rules/entity-category",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/integration-quality-scale/rules/entity-category.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Entities are assigned an appropriate EntityCategory"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Devices added after integration setup",
+    "permalink": "/docs/core/integration-quality-scale/rules/dynamic-devices"
+  },
+  "next": {
+    "title": "Entities use device classes where possible",
+    "permalink": "/docs/core/integration-quality-scale/rules/entity-device-class"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2023/07/27/avoiding-unnecessary-callbacks-with-dataupdatecoordinator",
+  "source": "@site/blog/2023-07-27-avoiding-unnecessary-callbacks-with-dataupdatecoordinator.md",
+  "title": "Avoid unnecessary callbacks with DataUpdateCoordinator",
+  "description": "The DataUpdateCoordinator can now reduce unnecessary updates when API data can be compared.",
+  "date": "2023-07-27T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.535,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "J. Nick Koston",
+      "url": "https://github.com/bdraco",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "J. Nick Koston",
+    "authorURL": "https://github.com/bdraco",
+    "title": "Avoid unnecessary callbacks with DataUpdateCoordinator"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Weather entity forecast types",
+    "permalink": "/blog/2023/08/07/weather_entity_forecast_types"
+  },
+  "nextItem": {
+    "title": "The naming of MQTT entities changes to correspond with HA guidelines",
+    "permalink": "/blog/2023/07/21/change-naming-mqtt-entities"
+  }
+}

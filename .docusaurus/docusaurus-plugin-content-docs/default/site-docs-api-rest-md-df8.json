@@ -1,0 +1,27 @@
+{
+  "id": "api/rest",
+  "title": "REST API",
+  "description": "Home Assistant provides a RESTful API on the same port as the web frontend (default port is port 8123).",
+  "source": "@site/docs/api/rest.md",
+  "sourceDirName": "api",
+  "slug": "/api/rest",
+  "permalink": "/docs/api/rest",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/api/rest.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "REST API"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "WebSocket API",
+    "permalink": "/docs/api/websocket"
+  },
+  "next": {
+    "title": "Validate the input",
+    "permalink": "/docs/development_validation"
+  }
+}

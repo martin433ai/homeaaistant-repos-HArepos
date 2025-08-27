@@ -1,0 +1,27 @@
+{
+  "id": "dev_101_events",
+  "title": "Events",
+  "description": "The core of Home Assistant is driven by events. That means that if you want to respond to something happening, you'll have to respond to events. Most of the times you won't interact directly with the event system but use one of the event listener helpers.",
+  "source": "@site/docs/dev_101_events.md",
+  "sourceDirName": ".",
+  "slug": "/dev_101_events",
+  "permalink": "/docs/dev_101_events",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/dev_101_events.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Events"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/dev_101_hass"
+  },
+  "next": {
+    "title": "States",
+    "permalink": "/docs/dev_101_states"
+  }
+}

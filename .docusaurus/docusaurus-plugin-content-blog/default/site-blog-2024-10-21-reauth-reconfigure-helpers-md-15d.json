@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2024/10/21/reauth-reconfigure-helpers",
+  "source": "@site/blog/2024-10-21-reauth-reconfigure-helpers.md",
+  "title": "New helpers and best practises for reauth and reconfigure flows",
+  "description": "New helper methods have been added to the ConfigFlow to facilitate management of reauth and reconfigure flows:",
+  "date": "2024-10-21T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.055,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "epenet",
+      "url": "https://github.com/epenet",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "epenet",
+    "authorURL": "https://github.com/epenet",
+    "title": "New helpers and best practises for reauth and reconfigure flows"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "New alarm control panel state property and state enum",
+    "permalink": "/blog/2024/10/22/new-alarm-state-property"
+  },
+  "nextItem": {
+    "title": "Extend deprecation period of hass.helpers",
+    "permalink": "/blog/2024/10/09/extend-deprecation-hass-helpers"
+  }
+}

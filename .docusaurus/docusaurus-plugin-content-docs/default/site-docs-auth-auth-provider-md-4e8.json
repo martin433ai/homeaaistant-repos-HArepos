@@ -1,0 +1,27 @@
+{
+  "id": "auth_auth_provider",
+  "title": "Authentication providers",
+  "description": "Authentication providers confirm the identity of users. The user proofs their identity by going through the login flow for an auth provider. The auth provider defines the login flow and can ask the user all information this needs. This will commonly be username and password but could also include a 2FA token or other challenges.",
+  "source": "@site/docs/auth_auth_provider.md",
+  "sourceDirName": ".",
+  "slug": "/auth_auth_provider",
+  "permalink": "/docs/auth_auth_provider",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/auth_auth_provider.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Authentication providers"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "API",
+    "permalink": "/docs/auth_api"
+  },
+  "next": {
+    "title": "Multi-factor authentication modules",
+    "permalink": "/docs/auth_auth_module"
+  }
+}

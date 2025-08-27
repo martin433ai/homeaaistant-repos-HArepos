@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2023/02/06/translations-files-removed-from-core",
+  "source": "@site/blog/2023-02-06-translations-files-removed-from-core.md",
+  "title": "Translation files removed from Core repository",
+  "description": "We have removed all translation files from the Home Assistant Core repository",
+  "date": "2023-02-06T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.11,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Franck Nijhof",
+      "url": "https://twitter.com/frenck",
+      "imageURL": "/img/profile/frenck.png",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Franck Nijhof",
+    "authorURL": "https://twitter.com/frenck",
+    "authorImageURL": "/img/profile/frenck.png",
+    "authorTwitter": "frenck",
+    "title": "Translation files removed from Core repository"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Introducing drafting of PRs in our review process",
+    "permalink": "/blog/2023/02/07/introducing-PR-drafting-in-reviews"
+  },
+  "nextItem": {
+    "title": "Intent Responses and Whitespace",
+    "permalink": "/blog/2023/02/03/responses"
+  }
+}

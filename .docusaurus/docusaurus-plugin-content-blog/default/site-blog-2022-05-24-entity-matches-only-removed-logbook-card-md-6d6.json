@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2022/05/24/entity_matches_only_removed_logbook_card",
+  "source": "@site/blog/2022-05-24-entity_matches_only_removed_logbook_card.md",
+  "title": "Logbook API removal of `entity_matches_only` flag",
+  "description": "Before 2022.6, the entitymatchesonly flag prevented the logbook from providing context data in exchange for performance improvement when querying specific entities. Selecting the context data for particular entities is no longer an intensive process with the new logbook design. No immediate action is required as the flag will be ignored, and removing the flag from any active code paths can be done at your leisure.",
+  "date": "2022-05-24T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.325,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "J. Nick Koston",
+      "url": "https://github.com/bdraco",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "J. Nick Koston",
+    "authorURL": "https://github.com/bdraco",
+    "title": "Logbook API removal of `entity_matches_only` flag"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Media Player updates: enqueue changes, announce added",
+    "permalink": "/blog/2022/05/31/media-player-updates"
+  },
+  "nextItem": {
+    "title": "S6-Overlay 3.x update on our docker base images",
+    "permalink": "/blog/2022/05/12/s6-overlay-base-images"
+  }
+}

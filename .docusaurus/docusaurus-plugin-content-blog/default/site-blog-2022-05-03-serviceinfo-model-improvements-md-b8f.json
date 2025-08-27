@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2022/05/03/serviceinfo-model-improvements",
+  "source": "@site/blog/2022-05-03-serviceinfo-model-improvements.md",
+  "title": "ServiceInfo model improvements and deprecations",
+  "description": "As of Home Assistant Core 2022.6, access to discovery information via the, previously deprecated, dictionary methods have been removed.",
+  "date": "2022-05-03T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.21,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "epenet",
+      "url": "https://github.com/epenet",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "epenet",
+    "authorURL": "https://github.com/epenet",
+    "title": "ServiceInfo model improvements and deprecations"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Constant deprecations for 2022.5",
+    "permalink": "/blog/2022/05/03/constants-deprecations"
+  },
+  "nextItem": {
+    "title": "Text-to-speech say service to use media source IDs",
+    "permalink": "/blog/2022/04/26/tts-say-media-source"
+  }
+}

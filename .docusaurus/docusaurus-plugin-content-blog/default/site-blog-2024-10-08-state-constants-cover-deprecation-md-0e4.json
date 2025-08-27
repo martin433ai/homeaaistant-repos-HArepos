@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2024/10/08/state-constants-cover-deprecation",
+  "source": "@site/blog/2024-10-08-state-constants-cover-deprecation.md",
+  "title": "Deprecating state constants for cover",
+  "description": "As of Home Assistant Core 2024.11, the constants used to return state in CoverEntity are deprecated and replaced by the CoverState enum.",
+  "date": "2024-10-08T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.415,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "G Johansson",
+      "url": "https://github.com/gjohansson-ST",
+      "imageURL": "https://avatars.githubusercontent.com/u/62932417?v=4",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "G Johansson",
+    "authorURL": "https://github.com/gjohansson-ST",
+    "authorImageURL": "https://avatars.githubusercontent.com/u/62932417?v=4",
+    "authorTwitter": "GJohansson",
+    "title": "Deprecating state constants for cover"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Extend deprecation period of hass.helpers",
+    "permalink": "/blog/2024/10/09/extend-deprecation-hass-helpers"
+  },
+  "nextItem": {
+    "title": "Changes to the UnitOfConductivity enum",
+    "permalink": "/blog/2024/10/08/unit-of-conductivity-changes"
+  }
+}

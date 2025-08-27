@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2019/03/11/user-permissions",
+  "source": "@site/blog/2019-03-11-user-permissions.md",
+  "title": "Can I Have User Permissions?",
+  "description": "Home Assistant has had a user permission system since Home Assistant 0.82 (released Nov, 2018). Permissions are attached to groups, a user can be part of multiple groups, user permissions are based on merging the permission policies of all of its groups. More detailed info can be found in our docs. Users can create their own groups, but there are also three system groups: \"admin\", \"users\" (new in 0.90), and \"read-only\". All three have access to all entities, but the read-only cannot control any of them. Only the users part of the admin group can access administrative options like managing users and integrations.",
+  "date": "2019-03-11T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 3.035,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Paulus Schoutsen",
+      "url": "https://twitter.com/balloob",
+      "imageURL": "/img/profile/paulus.jpg",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Paulus Schoutsen",
+    "authorURL": "https://twitter.com/balloob",
+    "authorImageURL": "/img/profile/paulus.jpg",
+    "authorTwitter": "balloob",
+    "title": "Can I Have User Permissions?"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Introducing Integrations",
+    "permalink": "/blog/2019/04/12/new-integration-structure"
+  },
+  "nextItem": {
+    "title": "The Great Migration",
+    "permalink": "/blog/2019/02/19/the-great-migration"
+  }
+}

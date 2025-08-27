@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2023/08/07/weather_entity_forecast_types",
+  "source": "@site/blog/2023-08-07-weather_entity_forecast_types.md",
+  "title": "Weather entity forecast types",
+  "description": "WeatherEntity now allows a single weather entity to support different forecast types meaning it's no longer necessary to create multiple entities for the same location, as an example, an entity providing daily forecast and another entity providing hourly forecast.",
+  "date": "2023-08-07T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.66,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "G Johansson",
+      "url": "https://github.com/gjohansson-ST",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "G Johansson",
+    "authorURL": "https://github.com/gjohansson-ST",
+    "title": "Weather entity forecast types"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Numerical sensors are no longer allowed to set their state to NaN or inf",
+    "permalink": "/blog/2023/08/23/sensor-updates"
+  },
+  "nextItem": {
+    "title": "Avoid unnecessary callbacks with DataUpdateCoordinator",
+    "permalink": "/blog/2023/07/27/avoiding-unnecessary-callbacks-with-dataupdatecoordinator"
+  }
+}

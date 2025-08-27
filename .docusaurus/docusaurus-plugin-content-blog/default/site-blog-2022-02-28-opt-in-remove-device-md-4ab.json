@@ -1,0 +1,33 @@
+{
+  "permalink": "/blog/2022/02/28/opt-in-remove-device",
+  "source": "@site/blog/2022-02-28-opt-in-remove-device.md",
+  "title": "Opt in support to manually remove device",
+  "description": "In the Home Assistant Core 2022.3 release, Erik Montnemery added support for any integration to opt in to show a \"delete device\" button on the device page in the Home Assistant interface.",
+  "date": "2022-02-28T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.885,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Martin Hjelmare",
+      "url": "https://github.com/MartinHjelmare",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Martin Hjelmare",
+    "authorURL": "https://github.com/MartinHjelmare",
+    "authorTwitter": "MartinHjelmare",
+    "title": "Opt in support to manually remove device"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Introducing the update entity",
+    "permalink": "/blog/2022/03/20/update-entity"
+  },
+  "nextItem": {
+    "title": "Paper Elements are being removed",
+    "permalink": "/blog/2022/02/18/paper-elements"
+  }
+}

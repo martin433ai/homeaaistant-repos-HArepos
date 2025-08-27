@@ -1,0 +1,27 @@
+{
+  "id": "internationalization",
+  "title": "Internationalization",
+  "description": "The Home Assistant internationalization project includes preparing platforms and the frontend for localization, as well as the actual translation of localized strings.",
+  "source": "@site/docs/internationalization.md",
+  "sourceDirName": ".",
+  "slug": "/internationalization",
+  "permalink": "/docs/internationalization",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/internationalization.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Internationalization"
+  },
+  "sidebar": "Internationalization",
+  "previous": {
+    "title": "Contributing translation",
+    "permalink": "/docs/translations"
+  },
+  "next": {
+    "title": "Backend localization",
+    "permalink": "/docs/internationalization/core"
+  }
+}

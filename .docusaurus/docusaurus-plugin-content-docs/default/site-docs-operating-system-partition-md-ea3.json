@@ -1,0 +1,28 @@
+{
+  "id": "operating-system/partition",
+  "title": "Partitioning",
+  "description": "The Home Assistant Operating System (HAOS) partition layout is a bit different than what is typically used on a Linux system.",
+  "source": "@site/docs/operating-system/partition.md",
+  "sourceDirName": "operating-system",
+  "slug": "/operating-system/partition",
+  "permalink": "/docs/operating-system/partition",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/operating-system/partition.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Partitioning",
+    "sidebar_label": "Partitions"
+  },
+  "sidebar": "OperatingSystem",
+  "previous": {
+    "title": "Debugging",
+    "permalink": "/docs/operating-system/debugging"
+  },
+  "next": {
+    "title": "Metadata",
+    "permalink": "/docs/operating-system/board-metadata"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "frontend/architecture",
+  "title": "Frontend architecture",
+  "description": "The Home Assistant frontend is built using web components. This is a modern web technology allowing us to encapsulate templates, styling and logic into a single file and expose it as an HTML tag in the browser. These components are composable, allowing a very dynamic and powerful foundation of our application.",
+  "source": "@site/docs/frontend/architecture.md",
+  "sourceDirName": "frontend",
+  "slug": "/frontend/architecture",
+  "permalink": "/docs/frontend/architecture",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/frontend/architecture.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Frontend architecture",
+    "sidebar_label": "Architecture"
+  },
+  "sidebar": "Frontend",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/frontend"
+  },
+  "next": {
+    "title": "Design",
+    "permalink": "/docs/frontend/design"
+  }
+}

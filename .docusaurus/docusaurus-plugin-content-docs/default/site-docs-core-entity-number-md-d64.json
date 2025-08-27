@@ -1,0 +1,28 @@
+{
+  "id": "core/entity/number",
+  "title": "Number entity",
+  "description": "A number is an entity that allows the user to input an arbitrary value to an integration. Derive entity platforms from homeassistant.components.number.NumberEntity",
+  "source": "@site/docs/core/entity/number.md",
+  "sourceDirName": "core/entity",
+  "slug": "/core/entity/number",
+  "permalink": "/docs/core/entity/number",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/entity/number.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Number entity",
+    "sidebar_label": "Number"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Notify",
+    "permalink": "/docs/core/entity/notify"
+  },
+  "next": {
+    "title": "Remote",
+    "permalink": "/docs/core/entity/remote"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "core/integration-quality-scale/rules/config-flow-test-coverage",
+  "title": "Full test coverage for the config flow",
+  "description": "Reasoning",
+  "source": "@site/docs/core/integration-quality-scale/rules/config-flow-test-coverage.md",
+  "sourceDirName": "core/integration-quality-scale/rules",
+  "slug": "/core/integration-quality-scale/rules/config-flow-test-coverage",
+  "permalink": "/docs/core/integration-quality-scale/rules/config-flow-test-coverage",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/integration-quality-scale/rules/config-flow-test-coverage.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Full test coverage for the config flow",
+    "related_rules": [
+      "config-flow",
+      "test-before-configure",
+      "unique-config-entry",
+      "discovery",
+      "reauthentication-flow",
+      "reconfiguration-flow"
+    ]
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Place common patterns in common modules",
+    "permalink": "/docs/core/integration-quality-scale/rules/common-modules"
+  },
+  "next": {
+    "title": "Integration needs to be able to be set up via the UI",
+    "permalink": "/docs/core/integration-quality-scale/rules/config-flow"
+  }
+}

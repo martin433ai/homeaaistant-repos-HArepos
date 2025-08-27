@@ -1,0 +1,27 @@
+{
+  "id": "development_typing",
+  "title": "Adding type hints to your code",
+  "description": "Type hints in Python are static annotations of variables and functions, to let humans more easily understand the code. See the standard library docs and this PyCascades 2018 talk.",
+  "source": "@site/docs/development_typing.md",
+  "sourceDirName": ".",
+  "slug": "/development_typing",
+  "permalink": "/docs/development_typing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/development_typing.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Adding type hints to your code"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Validate the input",
+    "permalink": "/docs/development_validation"
+  },
+  "next": {
+    "title": "Getting the instance URL",
+    "permalink": "/docs/instance_url"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2021/05/07/switch-pytz-to-python-dateutil",
+  "source": "@site/blog/2021-05-07-switch-pytz-to-python-dateutil.md",
+  "title": "Replacing pytz with python-dateutil",
+  "description": "Three years ago Paul Ganssle wrote a comparison about time zone handling between pytz and python-dateutil. In this article he shows how it's easy to use pytz in an incorrect way that is hard to spot because it's almost correct:",
+  "date": "2021-05-07T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.105,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Paulus Schoutsen",
+      "url": "https://twitter.com/balloob",
+      "imageURL": "/img/profile/paulus.jpg",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Paulus Schoutsen",
+    "authorURL": "https://twitter.com/balloob",
+    "authorImageURL": "/img/profile/paulus.jpg",
+    "authorTwitter": "balloob",
+    "title": "Replacing pytz with python-dateutil"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Upgrade to Lit 2.0",
+    "permalink": "/blog/2021/05/19/lit-2.0"
+  },
+  "nextItem": {
+    "title": "Astral upgraded to version 2.2",
+    "permalink": "/blog/2021/04/09/astral-2.2"
+  }
+}

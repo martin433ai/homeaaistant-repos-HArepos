@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2024/11/12/options-flow",
+  "source": "@site/blog/2024-11-12-options-flow.md",
+  "title": "New options flow properties",
+  "description": "Summary of changes",
+  "date": "2024-11-12T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.605,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "epenet",
+      "url": "https://github.com/epenet",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "epenet",
+    "authorURL": "https://github.com/epenet",
+    "title": "New options flow properties"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Integration quality scale",
+    "permalink": "/blog/2024/11/20/integration-quality-scale"
+  },
+  "nextItem": {
+    "title": "Reauth and reconfigure flows need to be linked to a config entry",
+    "permalink": "/blog/2024/11/04/reauth-reconfigure-entry-id"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "core/entity/select",
+  "title": "Select entity",
+  "description": "A select is an entity that allows the user to select an option from a list of limited options provided by the integration. Derive entity platforms from homeassistant.components.select.SelectEntity",
+  "source": "@site/docs/core/entity/select.md",
+  "sourceDirName": "core/entity",
+  "slug": "/core/entity/select",
+  "permalink": "/docs/core/entity/select",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/entity/select.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Select entity",
+    "sidebar_label": "Select"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Scene",
+    "permalink": "/docs/core/entity/scene"
+  },
+  "next": {
+    "title": "Sensor",
+    "permalink": "/docs/core/entity/sensor"
+  }
+}

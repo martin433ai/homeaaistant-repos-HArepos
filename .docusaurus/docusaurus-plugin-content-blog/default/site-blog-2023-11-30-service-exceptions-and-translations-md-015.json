@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/2023/11/30/service-exceptions-and-translations",
+  "source": "@site/blog/2023-11-30-service-exceptions-and-translations.md",
+  "title": "Exception handling during service calls and translation support",
+  "description": "Exception handling during service calls",
+  "date": "2023-11-30T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.375,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Jan Bouwhuis",
+      "url": "https://github.com/jbouwh",
+      "imageURL": "https://avatars.githubusercontent.com/u/7188918?s=96&v=4",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Jan Bouwhuis",
+    "authorURL": "https://github.com/jbouwh",
+    "authorImageURL": "https://avatars.githubusercontent.com/u/7188918?s=96&v=4",
+    "title": "Exception handling during service calls and translation support"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "New scaling utils and import changes",
+    "permalink": "/blog/2023/12/05/scaling-utils"
+  },
+  "nextItem": {
+    "title": "Config processing and error handling",
+    "permalink": "/blog/2023/11/27/config-validation-and-error-handling"
+  }
+}

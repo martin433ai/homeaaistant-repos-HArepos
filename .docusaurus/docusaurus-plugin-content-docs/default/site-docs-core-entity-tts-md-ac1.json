@@ -1,0 +1,28 @@
+{
+  "id": "core/entity/tts",
+  "title": "Text-to-speech entity",
+  "description": "A text-to-speech (TTS) entity enables Home Assistant to speak to you.",
+  "source": "@site/docs/core/entity/tts.md",
+  "sourceDirName": "core/entity",
+  "slug": "/core/entity/tts",
+  "permalink": "/docs/core/entity/tts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/entity/tts.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Text-to-speech entity",
+    "sidebar_label": "Text-to-speech"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "To-do list",
+    "permalink": "/docs/core/entity/todo"
+  },
+  "next": {
+    "title": "Update",
+    "permalink": "/docs/core/entity/update"
+  }
+}

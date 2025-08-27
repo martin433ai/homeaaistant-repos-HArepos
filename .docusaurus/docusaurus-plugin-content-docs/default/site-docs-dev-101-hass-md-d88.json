@@ -1,0 +1,28 @@
+{
+  "id": "dev_101_hass",
+  "title": "Hass object",
+  "description": "While developing Home Assistant you will see a variable that is everywhere: hass. This is the Home Assistant instance that will give you access to all the various parts of the system.",
+  "source": "@site/docs/dev_101_hass.md",
+  "sourceDirName": ".",
+  "slug": "/dev_101_hass",
+  "permalink": "/docs/dev_101_hass",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/dev_101_hass.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Hass object",
+    "sidebar_label": "Introduction"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Strict typing",
+    "permalink": "/docs/core/integration-quality-scale/rules/strict-typing"
+  },
+  "next": {
+    "title": "Events",
+    "permalink": "/docs/dev_101_events"
+  }
+}

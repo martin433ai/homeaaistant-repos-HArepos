@@ -1,0 +1,30 @@
+{
+  "id": "core/integration-quality-scale/rules/entity-disabled-by-default",
+  "title": "Integration disables less popular (or noisy) entities",
+  "description": "Reasoning",
+  "source": "@site/docs/core/integration-quality-scale/rules/entity-disabled-by-default.md",
+  "sourceDirName": "core/integration-quality-scale/rules",
+  "slug": "/core/integration-quality-scale/rules/entity-disabled-by-default",
+  "permalink": "/docs/core/integration-quality-scale/rules/entity-disabled-by-default",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/integration-quality-scale/rules/entity-disabled-by-default.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Integration disables less popular (or noisy) entities",
+    "related_rules": [
+      "appropriate-polling"
+    ]
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Entities use device classes where possible",
+    "permalink": "/docs/core/integration-quality-scale/rules/entity-device-class"
+  },
+  "next": {
+    "title": "Entities have translated names",
+    "permalink": "/docs/core/integration-quality-scale/rules/entity-translations"
+  }
+}

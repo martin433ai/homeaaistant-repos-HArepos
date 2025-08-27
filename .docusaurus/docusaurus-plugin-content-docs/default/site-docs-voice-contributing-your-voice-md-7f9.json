@@ -1,0 +1,23 @@
+{
+  "id": "voice/contributing-your-voice",
+  "title": "Contributing your voice",
+  "description": "You can help us and the rest of the  open voice community develop speech-to-text and text-to-speech models for your language.",
+  "source": "@site/docs/voice/contributing-your-voice.md",
+  "sourceDirName": "voice",
+  "slug": "/voice/contributing-your-voice",
+  "permalink": "/docs/voice/contributing-your-voice",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/voice/contributing-your-voice.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Contributing your voice"
+  },
+  "sidebar": "Voice",
+  "previous": {
+    "title": "Language leaders",
+    "permalink": "/docs/voice/language-leaders"
+  }
+}

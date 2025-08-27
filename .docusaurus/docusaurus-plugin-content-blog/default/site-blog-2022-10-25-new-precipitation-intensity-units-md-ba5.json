@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2022/10/25/new-precipitation-intensity-units",
+  "source": "@site/blog/2022-10-25-new-precipitation-intensity-units.md",
+  "title": "Add new precipitation intensity units",
+  "description": "As of Home Assistant Core 2022.11, the following constants are deprecated for volumetric flux (like precipitation intensity), replaced by UnitOfVolumetricFlux enum:",
+  "date": "2022-10-25T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.23,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "epenet",
+      "url": "https://github.com/epenet",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "epenet",
+    "authorURL": "https://github.com/epenet",
+    "title": "Add new precipitation intensity units"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Introducing new unit enumerators",
+    "permalink": "/blog/2022/10/26/new-unit-enumerators"
+  },
+  "nextItem": {
+    "title": "Introducing virtual integrations and differentiating hubs, devices, and services,",
+    "permalink": "/blog/2022/10/24/hubs-devices-services-virtual-integrations"
+  }
+}

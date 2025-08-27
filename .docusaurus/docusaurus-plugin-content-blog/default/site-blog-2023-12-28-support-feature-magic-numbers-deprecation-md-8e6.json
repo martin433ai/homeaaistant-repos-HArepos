@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2023/12/28/support-feature-magic-numbers-deprecation",
+  "source": "@site/blog/2023-12-28-support-feature-magic-numbers-deprecation.md",
+  "title": "Deprecating all magic numbers for supported features",
+  "description": "As of Home Assistant Core 2024.1, all usage of magic numbers for supported features is deprecated,",
+  "date": "2023-12-28T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.84,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "J. Nick Koston",
+      "url": "https://github.com/bdraco",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "J. Nick Koston",
+    "authorURL": "https://github.com/bdraco",
+    "title": "Deprecating all magic numbers for supported features"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Changes to FlowManager.async_show_progress",
+    "permalink": "/blog/2024/01/11/async-show-progress-changes"
+  },
+  "nextItem": {
+    "title": "Deprecated constants create a log entry",
+    "permalink": "/blog/2023/12/19/constant-deprecation"
+  }
+}

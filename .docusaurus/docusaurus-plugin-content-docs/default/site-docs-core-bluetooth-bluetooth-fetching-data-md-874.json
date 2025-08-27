@@ -1,0 +1,27 @@
+{
+  "id": "core/bluetooth/bluetooth_fetching_data",
+  "title": "Fetching Bluetooth data",
+  "description": "Choosing a method to fetch data",
+  "source": "@site/docs/core/bluetooth/bluetooth_fetching_data.md",
+  "sourceDirName": "core/bluetooth",
+  "slug": "/core/bluetooth/bluetooth_fetching_data",
+  "permalink": "/docs/core/bluetooth/bluetooth_fetching_data",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/bluetooth/bluetooth_fetching_data.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Fetching Bluetooth data"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Building a Bluetooth integration",
+    "permalink": "/docs/bluetooth"
+  },
+  "next": {
+    "title": "Bluetooth APIs",
+    "permalink": "/docs/core/bluetooth/api"
+  }
+}

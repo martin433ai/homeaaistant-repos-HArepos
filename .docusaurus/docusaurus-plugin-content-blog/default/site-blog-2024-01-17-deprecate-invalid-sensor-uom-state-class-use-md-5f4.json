@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/2024/01/17/deprecate-invalid-sensor-uom-state-class-use",
+  "source": "@site/blog/2024-01-17-deprecate-invalid-sensor-uom-state-class-use.md",
+  "title": "Deprecate invalid use of sensor unit of measurement and state class",
+  "description": "Since Home Assistant Core 2022.12, a warning is issued in the logs if a sensor entity that has a device class",
+  "date": "2024-01-17T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.51,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Jan-Philipp Benecke",
+      "url": "https://github.com/jpbede",
+      "imageURL": "https://avatars.githubusercontent.com/u/3989428?s=96&v=4",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Jan-Philipp Benecke",
+    "authorURL": "https://github.com/jpbede",
+    "authorImageURL": "https://avatars.githubusercontent.com/u/3989428?s=96&v=4",
+    "title": "Deprecate invalid use of sensor unit of measurement and state class"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Icon translations",
+    "permalink": "/blog/2024/01/19/icon-translations"
+  },
+  "nextItem": {
+    "title": "Changes to FlowManager.async_show_progress",
+    "permalink": "/blog/2024/01/11/async-show-progress-changes"
+  }
+}

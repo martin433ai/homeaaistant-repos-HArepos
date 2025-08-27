@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2023/07/21/change-naming-mqtt-entities",
+  "source": "@site/blog/2023-07-21-change-naming-mqtt-entities.md",
+  "title": "The naming of MQTT entities changes to correspond with HA guidelines",
+  "description": "The way MQTT entities are named and how device configuration can be shared between discovered entities has changed",
+  "date": "2023-07-21T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.815,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Jan Bouwhuis",
+      "url": "https://twitter.com/jbouwh",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Jan Bouwhuis",
+    "authorURL": "https://twitter.com/jbouwh",
+    "title": "The naming of MQTT entities changes to correspond with HA guidelines"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Avoid unnecessary callbacks with DataUpdateCoordinator",
+    "permalink": "/blog/2023/07/27/avoiding-unnecessary-callbacks-with-dataupdatecoordinator"
+  },
+  "nextItem": {
+    "title": "Translating services",
+    "permalink": "/blog/2023/07/11/translating-services"
+  }
+}

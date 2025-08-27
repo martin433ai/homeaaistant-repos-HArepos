@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2024/05/20/llm-api",
+  "source": "@site/blog/2024-05-20-llm-api.md",
+  "title": "Exposing Home Assistant API to LLMs",
+  "description": "Since we introduced LLMs in Home Assistant as part of Year of the Voice, we have received the request to allow enabling LLMs to interact with Home Assistant. This is now possible by exposing a Home Assistant API to LLMs.",
+  "date": "2024-05-20T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.595,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Paulus Schoutsen",
+      "url": "https://github.com/balloob",
+      "imageURL": "/img/profile/paulus.jpg",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Paulus Schoutsen",
+    "authorURL": "https://github.com/balloob",
+    "authorImageURL": "/img/profile/paulus.jpg",
+    "authorTwitter": "balloob",
+    "title": "Exposing Home Assistant API to LLMs"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Alarm Control Panel Entity code validation",
+    "permalink": "/blog/2024/05/22/alarm_control_panel_validation"
+  },
+  "nextItem": {
+    "title": "Handling time zones without blocking the event loop",
+    "permalink": "/blog/2024/05/19/fix_zoneinfo_blocking_io"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "asyncio_index",
+  "title": "Asynchronous programming",
+  "description": "On September 29, 2016 we released Home Assistant 0.29 as part of our bi-weekly release schedule. This release introduced a complete overhaul of the core spearheaded by Ben Bangert.",
+  "source": "@site/docs/asyncio_index.md",
+  "sourceDirName": ".",
+  "slug": "/asyncio_index",
+  "permalink": "/docs/asyncio_index",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/asyncio_index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Asynchronous programming",
+    "sidebar_label": "Introduction"
+  },
+  "sidebar": "Misc",
+  "previous": {
+    "title": "Modelling data",
+    "permalink": "/docs/api_lib_data_models"
+  },
+  "next": {
+    "title": "Asyncio 101",
+    "permalink": "/docs/asyncio_101"
+  }
+}

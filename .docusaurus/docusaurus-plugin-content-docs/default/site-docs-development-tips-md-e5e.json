@@ -1,0 +1,27 @@
+{
+  "id": "development_tips",
+  "title": "Tips and tricks",
+  "description": "This page provides some tips and tricks that may help you as a contributor to Home Assistant. The list here is by no means exhaustive, and if you pick up any additional undocumented tips and tricks, please open a PR to add them here.",
+  "source": "@site/docs/development_tips.md",
+  "sourceDirName": ".",
+  "slug": "/development_tips",
+  "permalink": "/docs/development_tips",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/development_tips.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Tips and tricks"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Catching up with reality",
+    "permalink": "/docs/development_catching_up"
+  },
+  "next": {
+    "title": "Creating your first integration",
+    "permalink": "/docs/creating_component_index"
+  }
+}

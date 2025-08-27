@@ -1,0 +1,28 @@
+{
+  "id": "core/entity/notify",
+  "title": "Notify entity",
+  "description": "A notify entity is an entity that can send a message towards a device or service but remains stateless from the Home Assistant perspective.",
+  "source": "@site/docs/core/entity/notify.md",
+  "sourceDirName": "core/entity",
+  "slug": "/core/entity/notify",
+  "permalink": "/docs/core/entity/notify",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/entity/notify.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Notify entity",
+    "sidebar_label": "Notify"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Media player",
+    "permalink": "/docs/core/entity/media-player"
+  },
+  "next": {
+    "title": "Number",
+    "permalink": "/docs/core/entity/number"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2022/04/20/saying-goodbye-to-event_time_changed",
+  "source": "@site/blog/2022-04-20-saying-goodbye-to-event_time_changed.md",
+  "title": "Saying goodbye to the time_changed event",
+  "description": "With Home Assistant Core 0.113, we began transiting to using the asyncio event loop for scheduling events.",
+  "date": "2022-04-20T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.885,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "J. Nick Koston",
+      "url": "https://github.com/bdraco",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "J. Nick Koston",
+    "authorURL": "https://github.com/bdraco",
+    "title": "Saying goodbye to the time_changed event"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Text-to-speech say service to use media source IDs",
+    "permalink": "/blog/2022/04/26/tts-say-media-source"
+  },
+  "nextItem": {
+    "title": "Calendar Data Model improvements and deprecations",
+    "permalink": "/blog/2022/04/18/calendar-data-model"
+  }
+}

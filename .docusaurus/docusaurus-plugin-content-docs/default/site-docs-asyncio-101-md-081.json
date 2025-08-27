@@ -1,0 +1,27 @@
+{
+  "id": "asyncio_101",
+  "title": "Asyncio 101",
+  "description": "If you are not familiar yet with asyncio, please watch the below video. It's a great introduction by Robert Smallshire in how and why asyncio works the way it does.",
+  "source": "@site/docs/asyncio_101.md",
+  "sourceDirName": ".",
+  "slug": "/asyncio_101",
+  "permalink": "/docs/asyncio_101",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/asyncio_101.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Asyncio 101"
+  },
+  "sidebar": "Misc",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/asyncio_index"
+  },
+  "next": {
+    "title": "Categorizing functions",
+    "permalink": "/docs/asyncio_categorizing_functions"
+  }
+}

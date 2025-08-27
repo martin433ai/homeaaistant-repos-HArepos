@@ -1,0 +1,27 @@
+{
+  "id": "add-ons/communication",
+  "title": "Add-on communication",
+  "description": "There are different ways of communicating between add-ons inside Home Assistant.",
+  "source": "@site/docs/add-ons/communication.md",
+  "sourceDirName": "add-ons",
+  "slug": "/add-ons/communication",
+  "permalink": "/docs/add-ons/communication",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/add-ons/communication.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Add-on communication"
+  },
+  "sidebar": "Addons",
+  "previous": {
+    "title": "Add-on configuration",
+    "permalink": "/docs/add-ons/configuration"
+  },
+  "next": {
+    "title": "Local add-on testing",
+    "permalink": "/docs/add-ons/testing"
+  }
+}

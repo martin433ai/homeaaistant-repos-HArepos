@@ -1,0 +1,24 @@
+{
+  "id": "supervisor",
+  "title": "Home Assistant Supervisor",
+  "description": "The Supervisor allows the user to manage their Home Assistant installation from Home Assistant. The Supervisor has the following responsibilities:",
+  "source": "@site/docs/supervisor.md",
+  "sourceDirName": ".",
+  "slug": "/supervisor",
+  "permalink": "/docs/supervisor",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/supervisor.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Home Assistant Supervisor",
+    "sidebar_label": "Introduction"
+  },
+  "sidebar": "Supervisor",
+  "next": {
+    "title": "Development",
+    "permalink": "/docs/supervisor/development"
+  }
+}

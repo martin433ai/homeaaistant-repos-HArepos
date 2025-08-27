@@ -1,0 +1,28 @@
+{
+  "id": "api_lib_index",
+  "title": "Building a Python library for an API",
+  "description": "One of the foundational rules of Home Assistant is that we do not include any protocol specific code. Instead, this code should be put into a standalone Python library and published to PyPI. This guide will describe how to get started with this!",
+  "source": "@site/docs/api_lib_index.md",
+  "sourceDirName": ".",
+  "slug": "/api_lib_index",
+  "permalink": "/docs/api_lib_index",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/api_lib_index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Building a Python library for an API",
+    "sidebar_label": "Introduction"
+  },
+  "sidebar": "Misc",
+  "previous": {
+    "title": "Create a new page",
+    "permalink": "/docs/documenting/create-page"
+  },
+  "next": {
+    "title": "Authentication",
+    "permalink": "/docs/api_lib_auth"
+  }
+}

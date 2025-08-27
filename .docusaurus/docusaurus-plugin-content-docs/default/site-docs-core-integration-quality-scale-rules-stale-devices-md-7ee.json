@@ -1,0 +1,30 @@
+{
+  "id": "core/integration-quality-scale/rules/stale-devices",
+  "title": "Clean up stale devices",
+  "description": "Reasoning",
+  "source": "@site/docs/core/integration-quality-scale/rules/stale-devices.md",
+  "sourceDirName": "core/integration-quality-scale/rules",
+  "slug": "/core/integration-quality-scale/rules/stale-devices",
+  "permalink": "/docs/core/integration-quality-scale/rules/stale-devices",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/integration-quality-scale/rules/stale-devices.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Clean up stale devices",
+    "related_rules": [
+      "dynamic-devices"
+    ]
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Repair issues and repair flows are used when user intervention is needed",
+    "permalink": "/docs/core/integration-quality-scale/rules/repair-issues"
+  },
+  "next": {
+    "title": "Dependency is async",
+    "permalink": "/docs/core/integration-quality-scale/rules/async-dependency"
+  }
+}

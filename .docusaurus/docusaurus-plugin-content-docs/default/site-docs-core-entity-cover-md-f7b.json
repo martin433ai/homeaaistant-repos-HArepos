@@ -1,0 +1,28 @@
+{
+  "id": "core/entity/cover",
+  "title": "Cover entity",
+  "description": "A cover entity controls an opening or cover, such as a garage door or a window shade. Derive a platform entity from homeassistant.components.cover.CoverEntity.",
+  "source": "@site/docs/core/entity/cover.md",
+  "sourceDirName": "core/entity",
+  "slug": "/core/entity/cover",
+  "permalink": "/docs/core/entity/cover",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/entity/cover.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Cover entity",
+    "sidebar_label": "Cover"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Conversation",
+    "permalink": "/docs/core/entity/conversation"
+  },
+  "next": {
+    "title": "Date",
+    "permalink": "/docs/core/entity/date"
+  }
+}

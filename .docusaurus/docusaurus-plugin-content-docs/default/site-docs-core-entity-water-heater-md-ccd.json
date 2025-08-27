@@ -1,0 +1,28 @@
+{
+  "id": "core/entity/water-heater",
+  "title": "Water heater entity",
+  "description": "Derive entity platforms from homeassistant.components.waterheater.WaterHeaterEntity",
+  "source": "@site/docs/core/entity/water-heater.md",
+  "sourceDirName": "core/entity",
+  "slug": "/core/entity/water-heater",
+  "permalink": "/docs/core/entity/water-heater",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/entity/water-heater.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Water heater entity",
+    "sidebar_label": "Water heater"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Wake word detection",
+    "permalink": "/docs/core/entity/wake_word"
+  },
+  "next": {
+    "title": "Weather",
+    "permalink": "/docs/core/entity/weather"
+  }
+}

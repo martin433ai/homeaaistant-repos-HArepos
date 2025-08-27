@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2024/02/25/Climate-toggle-service",
+  "source": "@site/blog/2024-02-25-Climate-toggle-service.md",
+  "title": "New Climate entity toggle method",
+  "description": "As of Home Assistant Core 2024.3 we have added a new toggle method to ClimateEntity and users can now call climate.toggle in their service calls.",
+  "date": "2024-02-25T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.34,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "G Johansson",
+      "url": "https://github.com/gjohansson-ST",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "G Johansson",
+    "authorURL": "https://github.com/gjohansson-ST",
+    "title": "New Climate entity toggle method"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "New single instance only manifest option",
+    "permalink": "/blog/2024/02/26/single-instance-only-manifest-option"
+  },
+  "nextItem": {
+    "title": "Altering config entries",
+    "permalink": "/blog/2024/02/12/async_update_entry"
+  }
+}

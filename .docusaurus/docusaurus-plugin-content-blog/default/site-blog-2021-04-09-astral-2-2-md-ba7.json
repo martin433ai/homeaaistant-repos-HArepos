@@ -1,0 +1,33 @@
+{
+  "permalink": "/blog/2021/04/09/astral-2.2",
+  "source": "@site/blog/2021-04-09-astral-2.2.md",
+  "title": "Astral upgraded to version 2.2",
+  "description": "We recently merged a pull request to upgrade the astral library version used in Home Assistant Core to version 2.2. This will be released with Home Assistant 2021.5. This is a major version bump of Astral which includes some breaking changes, this caused us to update our built-in helpers and integrations that depend on astral. This has resulted in a couple of breaking changes to our sun helpers.",
+  "date": "2021-04-09T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.945,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Martin Hjelmare",
+      "url": "https://github.com/MartinHjelmare",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Martin Hjelmare",
+    "authorURL": "https://github.com/MartinHjelmare",
+    "authorTwitter": "MartinHjelmare",
+    "title": "Astral upgraded to version 2.2"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Replacing pytz with python-dateutil",
+    "permalink": "/blog/2021/05/07/switch-pytz-to-python-dateutil"
+  },
+  "nextItem": {
+    "title": "Custom integration changes",
+    "permalink": "/blog/2021/01/29/custom-integration-changes"
+  }
+}

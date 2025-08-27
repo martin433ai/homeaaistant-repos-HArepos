@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/2023/12/19/constant-deprecation",
+  "source": "@site/blog/2023-12-19-constant-deprecation.md",
+  "title": "Deprecated constants create a log entry",
+  "description": "In recent years many constants have been replaced by Enums or other values by adding a code comment pointing to the successor.",
+  "date": "2023-12-19T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.79,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Robert Resch",
+      "url": "https://github.com/edenhaus",
+      "imageURL": "https://avatars.githubusercontent.com/u/26537646?s=96&v=4",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Robert Resch",
+    "authorURL": "https://github.com/edenhaus",
+    "authorImageURL": "https://avatars.githubusercontent.com/u/26537646?s=96&v=4",
+    "title": "Deprecated constants create a log entry"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Deprecating all magic numbers for supported features",
+    "permalink": "/blog/2023/12/28/support-feature-magic-numbers-deprecation"
+  },
+  "nextItem": {
+    "title": "Config entry now supports minor versions",
+    "permalink": "/blog/2023/12/18/config-entry-minor-version"
+  }
+}

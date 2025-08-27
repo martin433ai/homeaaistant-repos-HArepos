@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2023/10/03/conversion-functions-cleanup",
+  "source": "@site/blog/2023-10-03-conversion-functions-cleanup.md",
+  "title": "Removal of deprecated unit conversion utilities",
+  "description": "The following utilities were deprecated in Home Assistant 2022.10) and have now been removed as of 2023.11:",
+  "date": "2023-10-03T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.415,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "davet2001",
+      "url": "https://github.com/davet2001",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "davet2001",
+    "authorURL": "https://github.com/davet2001",
+    "title": "Removal of deprecated unit conversion utilities"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Country selector",
+    "permalink": "/blog/2023/10/12/country_selector"
+  },
+  "nextItem": {
+    "title": "Home Assistant is participating in Hacktoberfest 2023!",
+    "permalink": "/blog/2023/10/01/hacktoberfest-2023"
+  }
+}

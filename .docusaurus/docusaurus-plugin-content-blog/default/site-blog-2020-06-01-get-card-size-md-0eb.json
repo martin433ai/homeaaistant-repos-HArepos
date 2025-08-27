@@ -1,0 +1,33 @@
+{
+  "permalink": "/blog/2020/06/01/getCardSize",
+  "source": "@site/blog/2020-06-01-getCardSize.md",
+  "title": "Lovelace: getCardSize can now be async",
+  "description": "Ever since we introduced lazy loading cards to Lovelace, getting the card size of a lazy loaded card was hard.",
+  "date": "2020-06-01T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.655,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Bram Kragten",
+      "url": "https://github.com/bramkragten",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Bram Kragten",
+    "authorURL": "https://github.com/bramkragten",
+    "authorTwitter": "bramkragten",
+    "title": "Lovelace: getCardSize can now be async"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Improving Python's speed by 40% when running Home Assistant",
+    "permalink": "/blog/2020/07/13/alpine-python"
+  },
+  "nextItem": {
+    "title": "Entity class names",
+    "permalink": "/blog/2020/05/14/entity-class-names"
+  }
+}

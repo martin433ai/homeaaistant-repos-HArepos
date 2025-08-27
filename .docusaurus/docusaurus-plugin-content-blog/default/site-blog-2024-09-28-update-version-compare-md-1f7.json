@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2024/09/28/update-version-compare",
+  "source": "@site/blog/2024-09-28-update-version-compare.md",
+  "title": "Version compare for Update platform can now be overwritten",
+  "description": "With the merge of core PR #124797, which will land in Home Assistant Core 2024.10, there is a new method in the update platform: versionisnewer().",
+  "date": "2024-09-28T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.595,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Simone Chemelli",
+      "url": "https://github.com/chemelli74",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Simone Chemelli",
+    "authorURL": "https://github.com/chemelli74",
+    "title": "Version compare for Update platform can now be overwritten"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Introducing the Assist satellite entity",
+    "permalink": "/blog/2024/10/01/assist-satellite-entity"
+  },
+  "nextItem": {
+    "title": "Additional validation in Climate set temperature",
+    "permalink": "/blog/2024/09/24/climate-set-temp-validation"
+  }
+}

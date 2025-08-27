@@ -1,0 +1,27 @@
+{
+  "id": "documenting/create-page",
+  "title": "Create a new page",
+  "description": "For a platform or integration page, the fastest way is to make a copy of an existing page and edit it. The Integration overview and the Examples section are generated automatically, so there is no need to add a link to those pages.",
+  "source": "@site/docs/documenting/create-page.md",
+  "sourceDirName": "documenting",
+  "slug": "/documenting/create-page",
+  "permalink": "/docs/documenting/create-page",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/documenting/create-page.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Create a new page"
+  },
+  "sidebar": "Misc",
+  "previous": {
+    "title": "YAML Style Guide",
+    "permalink": "/docs/documenting/yaml-style-guide"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/docs/api_lib_index"
+  }
+}

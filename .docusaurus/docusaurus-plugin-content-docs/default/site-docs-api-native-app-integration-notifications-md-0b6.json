@@ -1,0 +1,27 @@
+{
+  "id": "api/native-app-integration/notifications",
+  "title": "Push notifications",
+  "description": "The mobile_app integration has a notify platform built in that allows for a generic way to send push notifications to your users without requiring installation of an external custom component. Push notifications can either be delivered via a websocket connection or via a cloud service.",
+  "source": "@site/docs/api/native-app-integration/notifications.md",
+  "sourceDirName": "api/native-app-integration",
+  "slug": "/api/native-app-integration/notifications",
+  "permalink": "/docs/api/native-app-integration/notifications",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/api/native-app-integration/notifications.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Push notifications"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Sensors",
+    "permalink": "/docs/api/native-app-integration/sensors"
+  },
+  "next": {
+    "title": "Authenticated WebView",
+    "permalink": "/docs/api/native-app-integration/webview"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "development_environment",
+  "title": "Set up development environment",
+  "description": "You'll need to set up a development environment if you want to develop a new feature or component for Home Assistant. Read on to learn how to set up.",
+  "source": "@site/docs/development_environment.mdx",
+  "sourceDirName": ".",
+  "slug": "/development_environment",
+  "permalink": "/docs/development_environment",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/development_environment.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Set up development environment"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Integrations",
+    "permalink": "/docs/architecture_components"
+  },
+  "next": {
+    "title": "Submit your work",
+    "permalink": "/docs/development_submitting"
+  }
+}

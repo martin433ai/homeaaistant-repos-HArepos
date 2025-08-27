@@ -1,0 +1,27 @@
+{
+  "id": "add-ons/testing",
+  "title": "Local add-on testing",
+  "description": "The fastest and recommended way to develop add-ons is using a local Visual Studio Code devcontainer. We maintain a devcontainer for this purpose which is used in all our add-on repositories. This devcontainer setup for VS Code runs Supervisor and Home Assistant, with all of the add-ons mapped as local add-ons inside, making it simple for add-on developers on Windows, Mac and Linux desktop OS-es.",
+  "source": "@site/docs/add-ons/testing.md",
+  "sourceDirName": "add-ons",
+  "slug": "/add-ons/testing",
+  "permalink": "/docs/add-ons/testing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/add-ons/testing.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Local add-on testing"
+  },
+  "sidebar": "Addons",
+  "previous": {
+    "title": "Add-on communication",
+    "permalink": "/docs/add-ons/communication"
+  },
+  "next": {
+    "title": "Publishing your add-on",
+    "permalink": "/docs/add-ons/publishing"
+  }
+}

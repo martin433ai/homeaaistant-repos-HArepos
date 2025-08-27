@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2020/11/09/system-health-and-templates",
+  "source": "@site/blog/2020-11-09-system-health-and-templates.md",
+  "title": "System Health and Templates",
+  "description": "In Home Assistant 0.118, there will be two changes that could impact your custom integration.",
+  "date": "2020-11-09T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.06,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Paulus Schoutsen",
+      "url": "https://twitter.com/balloob",
+      "imageURL": "/img/profile/paulus.jpg",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Paulus Schoutsen",
+    "authorURL": "https://twitter.com/balloob",
+    "authorImageURL": "/img/profile/paulus.jpg",
+    "authorTwitter": "balloob",
+    "title": "System Health and Templates"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Custom integration changes",
+    "permalink": "/blog/2021/01/29/custom-integration-changes"
+  },
+  "nextItem": {
+    "title": "Upcoming changes to add-ons",
+    "permalink": "/blog/2020/10/29/supervisor-update"
+  }
+}

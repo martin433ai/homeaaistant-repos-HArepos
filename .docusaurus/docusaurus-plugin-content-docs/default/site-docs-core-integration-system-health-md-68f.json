@@ -1,0 +1,28 @@
+{
+  "id": "core/integration_system_health",
+  "title": "Integration system health",
+  "description": "The system health platform allows integrations to provide information that helps users understand the state of the integration. This can include details such as the availability of an endpoint, the current server that the integration is connected to, how much of a request quota is still available, etc.",
+  "source": "@site/docs/core/integration_system_health.md",
+  "sourceDirName": "core",
+  "slug": "/core/integration_system_health",
+  "permalink": "/docs/core/integration_system_health",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/integration_system_health.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Integration system health",
+    "sidebar_label": "System health"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Diagnostics",
+    "permalink": "/docs/core/integration_diagnostics"
+  },
+  "next": {
+    "title": "Integration configuration via YAML",
+    "permalink": "/docs/configuration_yaml_index"
+  }
+}

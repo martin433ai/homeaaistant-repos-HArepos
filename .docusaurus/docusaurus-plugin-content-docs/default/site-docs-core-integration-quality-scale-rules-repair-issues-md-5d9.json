@@ -1,0 +1,27 @@
+{
+  "id": "core/integration-quality-scale/rules/repair-issues",
+  "title": "Repair issues and repair flows are used when user intervention is needed",
+  "description": "Reasoning",
+  "source": "@site/docs/core/integration-quality-scale/rules/repair-issues.md",
+  "sourceDirName": "core/integration-quality-scale/rules",
+  "slug": "/core/integration-quality-scale/rules/repair-issues",
+  "permalink": "/docs/core/integration-quality-scale/rules/repair-issues",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/integration-quality-scale/rules/repair-issues.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Repair issues and repair flows are used when user intervention is needed"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Integrations should have a reconfigure flow",
+    "permalink": "/docs/core/integration-quality-scale/rules/reconfiguration-flow"
+  },
+  "next": {
+    "title": "Clean up stale devices",
+    "permalink": "/docs/core/integration-quality-scale/rules/stale-devices"
+  }
+}

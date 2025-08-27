@@ -1,0 +1,28 @@
+{
+  "id": "core/entity/media-player",
+  "title": "Media player entity",
+  "description": "This entry is incomplete. Contribution welcome.",
+  "source": "@site/docs/core/entity/media-player.md",
+  "sourceDirName": "core/entity",
+  "slug": "/core/entity/media-player",
+  "permalink": "/docs/core/entity/media-player",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/entity/media-player.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Media player entity",
+    "sidebar_label": "Media player"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Lock",
+    "permalink": "/docs/core/entity/lock"
+  },
+  "next": {
+    "title": "Notify",
+    "permalink": "/docs/core/entity/notify"
+  }
+}

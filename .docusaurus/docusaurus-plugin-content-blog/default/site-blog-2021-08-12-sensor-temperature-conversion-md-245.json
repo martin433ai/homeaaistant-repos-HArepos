@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2021/08/12/sensor_temperature_conversion",
+  "source": "@site/blog/2021-08-12-sensor_temperature_conversion.md",
+  "title": "Temperature conversions moving to SensorEntity",
+  "description": "Temperature unit conversions are moving from the Entity base class to the SensorEntity base",
+  "date": "2021-08-12T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.915,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Erik Montnémery",
+      "url": "https://github.com/emontnemery",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Erik Montnémery",
+    "authorURL": "https://github.com/emontnemery",
+    "title": "Temperature conversions moving to SensorEntity"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "New sensor state class: total_increasing",
+    "permalink": "/blog/2021/08/16/state_class_total"
+  },
+  "nextItem": {
+    "title": "New sensor properties for long-term statistics",
+    "permalink": "/blog/2021/05/25/sensor_attributes"
+  }
+}

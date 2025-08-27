@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2019/05/22/internet-of-things-and-the-modern-web",
+  "source": "@site/blog/2019-05-22-internet-of-things-and-the-modern-web.md",
+  "title": "Internet of Things and the Modern Web",
+  "description": "Home Assistant is world's biggest open-source home automation platform. It supports over 1000 devices and services, and it is used everywhere: homes, boats and museums.",
+  "date": "2019-05-22T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 18.25,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Paulus Schoutsen",
+      "url": "https://twitter.com/balloob",
+      "imageURL": "/img/profile/paulus.jpg",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Paulus Schoutsen",
+    "authorURL": "https://twitter.com/balloob",
+    "authorImageURL": "/img/profile/paulus.jpg",
+    "authorTwitter": "balloob",
+    "title": "Internet of Things and the Modern Web"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Climate Cleanup",
+    "permalink": "/blog/2019/07/03/climate-cleanup"
+  },
+  "nextItem": {
+    "title": "Introducing Integrations",
+    "permalink": "/blog/2019/04/12/new-integration-structure"
+  }
+}

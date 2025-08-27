@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2024/03/09/import_executor_default",
+  "source": "@site/blog/2024-03-09-import_executor_default.md",
+  "title": "Integrations import in the executor to avoid blocking the event loop",
+  "description": "Starting from Home Assistant 2024.4, all integrations are imported in the executor to avoid blocking the event loop while the code is imported and executed.",
+  "date": "2024-03-09T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.5,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "J. Nick Koston",
+      "url": "https://github.com/bdraco",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "J. Nick Koston",
+    "authorURL": "https://github.com/bdraco",
+    "title": "Integrations import in the executor to avoid blocking the event loop"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Climate entity auxiliary heater is deprecated",
+    "permalink": "/blog/2024/03/10/climate-aux-heater-deprecated"
+  },
+  "nextItem": {
+    "title": "Support for platform translations in separate files will be removed",
+    "permalink": "/blog/2024/03/05/platform_entity_translations_deprecation"
+  }
+}

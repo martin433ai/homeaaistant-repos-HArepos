@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2021/05/25/sensor_attributes",
+  "source": "@site/blog/2021-05-25-sensor_attributes.md",
+  "title": "New sensor properties for long-term statistics",
+  "description": "The sensor entity model has been updated with two new properties, stateclass and lastreset. The driver for both the new properties is to enable automatic generation of long-term statistics.",
+  "date": "2021-05-25T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.65,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Erik Montnémery",
+      "url": "https://github.com/emontnemery",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Erik Montnémery",
+    "authorURL": "https://github.com/emontnemery",
+    "title": "New sensor properties for long-term statistics"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Temperature conversions moving to SensorEntity",
+    "permalink": "/blog/2021/08/12/sensor_temperature_conversion"
+  },
+  "nextItem": {
+    "title": "Upgrade to Lit 2.0",
+    "permalink": "/blog/2021/05/19/lit-2.0"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2021/01/29/custom-integration-changes",
+  "source": "@site/blog/2021-01-29-custom-integration-changes.md",
+  "title": "Custom integration changes",
+  "description": "Happy New Year everyone! 2021 is finally here 🎉",
+  "date": "2021-01-29T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 2.375,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Joakim Sørensen",
+      "url": "https://github.com/ludeeus",
+      "imageURL": "/img/profile/ludeeus.jpg",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Joakim Sørensen",
+    "authorURL": "https://github.com/ludeeus",
+    "authorImageURL": "/img/profile/ludeeus.jpg",
+    "authorTwitter": "ludeeus",
+    "title": "Custom integration changes"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Astral upgraded to version 2.2",
+    "permalink": "/blog/2021/04/09/astral-2.2"
+  },
+  "nextItem": {
+    "title": "System Health and Templates",
+    "permalink": "/blog/2020/11/09/system-health-and-templates"
+  }
+}

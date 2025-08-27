@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2024/06/18/async_register_static_paths",
+  "source": "@site/blog/2024-06-18-async_register_static_paths.md",
+  "title": "Making http path registration async safe with `async_register_static_paths`",
+  "description": "hass.http.registerstaticpath is deprecated because it does blocking I/O in the event loop, instead call await hass.http.asyncregisterstaticpaths([StaticPathConfig(urlpath, path, cache_headers)])",
+  "date": "2024-06-18T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.595,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "J. Nick Koston",
+      "url": "https://github.com/bdraco",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "J. Nick Koston",
+    "authorURL": "https://github.com/bdraco",
+    "title": "Making http path registration async safe with `async_register_static_paths`"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Excluding all state attributes from recording using MATCH_ALL",
+    "permalink": "/blog/2024/06/22/excluding-state-attributes-from-recording-match-all"
+  },
+  "nextItem": {
+    "title": "Forwarding setup to config entry platforms",
+    "permalink": "/blog/2024/06/12/async_forward_entry_setups"
+  }
+}

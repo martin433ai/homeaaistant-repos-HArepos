@@ -1,0 +1,27 @@
+{
+  "id": "voice/intent-recognition/supported-languages",
+  "title": "Supported languages",
+  "description": "If you don't see your language below, help us translate!",
+  "source": "@site/docs/voice/intent-recognition/supported-languages.md",
+  "sourceDirName": "voice/intent-recognition",
+  "slug": "/voice/intent-recognition/supported-languages",
+  "permalink": "/docs/voice/intent-recognition/supported-languages",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/voice/intent-recognition/supported-languages.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Supported languages"
+  },
+  "sidebar": "Voice",
+  "previous": {
+    "title": "Test syntax",
+    "permalink": "/docs/voice/intent-recognition/test-syntax"
+  },
+  "next": {
+    "title": "Contributing sentences",
+    "permalink": "/docs/voice/intent-recognition/contributing"
+  }
+}

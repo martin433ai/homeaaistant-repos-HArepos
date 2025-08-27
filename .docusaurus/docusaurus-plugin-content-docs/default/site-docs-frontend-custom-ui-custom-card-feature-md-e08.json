@@ -1,0 +1,27 @@
+{
+  "id": "frontend/custom-ui/custom-card-feature",
+  "title": "Custom card feature",
+  "description": "Some dashboard cards have support for features. These widgets add quick controls to the card. We offer a lot of built-in features, but you're not just limited to the ones that we decided to include in Home Assistant. You can build and use your own in the same way as defining custom cards.",
+  "source": "@site/docs/frontend/custom-ui/custom-card-feature.md",
+  "sourceDirName": "frontend/custom-ui",
+  "slug": "/frontend/custom-ui/custom-card-feature",
+  "permalink": "/docs/frontend/custom-ui/custom-card-feature",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/frontend/custom-ui/custom-card-feature.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Custom card feature"
+  },
+  "sidebar": "Frontend",
+  "previous": {
+    "title": "Custom card",
+    "permalink": "/docs/frontend/custom-ui/custom-card"
+  },
+  "next": {
+    "title": "Custom badge",
+    "permalink": "/docs/frontend/custom-ui/custom-badge"
+  }
+}

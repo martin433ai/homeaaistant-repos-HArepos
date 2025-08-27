@@ -1,0 +1,27 @@
+{
+  "id": "core/integration-quality-scale/rules/parallel-updates",
+  "title": "Set Parallel updates",
+  "description": "Reasoning",
+  "source": "@site/docs/core/integration-quality-scale/rules/parallel-updates.md",
+  "sourceDirName": "core/integration-quality-scale/rules",
+  "slug": "/core/integration-quality-scale/rules/parallel-updates",
+  "permalink": "/docs/core/integration-quality-scale/rules/parallel-updates",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/integration-quality-scale/rules/parallel-updates.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Set Parallel updates"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "If internet/device/service is unavailable, log once when unavailable and once when back connected",
+    "permalink": "/docs/core/integration-quality-scale/rules/log-when-unavailable"
+  },
+  "next": {
+    "title": "Reauthentication flow",
+    "permalink": "/docs/core/integration-quality-scale/rules/reauthentication-flow"
+  }
+}

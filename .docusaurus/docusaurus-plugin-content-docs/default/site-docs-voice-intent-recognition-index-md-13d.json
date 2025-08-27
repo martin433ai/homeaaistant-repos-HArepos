@@ -1,0 +1,28 @@
+{
+  "id": "voice/intent-recognition/index",
+  "title": "Recognizing intents from user input",
+  "description": "A voice assistant evolves around intent recognition. Intent recognition tries to extract the user's intent from their input. This intent, a data format, will then be executed by Home Assistant.",
+  "source": "@site/docs/voice/intent-recognition/index.md",
+  "sourceDirName": "voice/intent-recognition",
+  "slug": "/voice/intent-recognition/",
+  "permalink": "/docs/voice/intent-recognition/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/voice/intent-recognition/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Recognizing intents from user input",
+    "sidebar_label": "Introduction"
+  },
+  "sidebar": "Voice",
+  "previous": {
+    "title": "Intents",
+    "permalink": "/docs/voice/intents/"
+  },
+  "next": {
+    "title": "Template sentence syntax",
+    "permalink": "/docs/voice/intent-recognition/template-sentence-syntax"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "permalink": "/blog/2021/05/19/lit-2.0",
+  "source": "@site/blog/2021-05-19-lit-2.0.md",
+  "title": "Upgrade to Lit 2.0",
+  "description": "We upgraded our frontend to use Lit 2.0, this is a major bump of both LitElement (3.0) and lit-html (2.0) that will now go further under the name Lit together.",
+  "date": "2021-05-19T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.31,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Bram Kragten",
+      "url": "https://twitter.com/bramkragten",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Bram Kragten",
+    "authorURL": "https://twitter.com/bramkragten",
+    "authorTwitter": "bramkragten",
+    "title": "Upgrade to Lit 2.0"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "New sensor properties for long-term statistics",
+    "permalink": "/blog/2021/05/25/sensor_attributes"
+  },
+  "nextItem": {
+    "title": "Replacing pytz with python-dateutil",
+    "permalink": "/blog/2021/05/07/switch-pytz-to-python-dateutil"
+  }
+}

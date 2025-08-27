@@ -1,0 +1,27 @@
+{
+  "id": "development_guidelines",
+  "title": "Style guidelines",
+  "description": "Home Assistant enforces quite strict PEP8 style and PEP 257 (Docstring Conventions) compliance on all code submitted.",
+  "source": "@site/docs/development_guidelines.md",
+  "sourceDirName": ".",
+  "slug": "/development_guidelines",
+  "permalink": "/docs/development_guidelines",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/development_guidelines.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Style guidelines"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Submit your work",
+    "permalink": "/docs/development_submitting"
+  },
+  "next": {
+    "title": "Testing your code",
+    "permalink": "/docs/development_testing"
+  }
+}

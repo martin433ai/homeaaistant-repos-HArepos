@@ -1,0 +1,28 @@
+{
+  "id": "creating_integration_tests_file_structure",
+  "title": "Integration tests file structure",
+  "description": "Tests for each integration are stored inside a directory named after the integration domain. For example, tests for the mobile app integration should be stored in tests/components/mobile_app.",
+  "source": "@site/docs/creating_integration_tests_file_structure.md",
+  "sourceDirName": ".",
+  "slug": "/creating_integration_tests_file_structure",
+  "permalink": "/docs/creating_integration_tests_file_structure",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/creating_integration_tests_file_structure.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Integration tests file structure",
+    "sidebar_label": "Tests file structure"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "File structure",
+    "permalink": "/docs/creating_integration_file_structure"
+  },
+  "next": {
+    "title": "Manifest",
+    "permalink": "/docs/creating_integration_manifest"
+  }
+}

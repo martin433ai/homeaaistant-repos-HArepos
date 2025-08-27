@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2023/06/28/entity-name-changes",
+  "source": "@site/blog/2023-06-28-entity-name-changes.md",
+  "title": "Changes to entity naming",
+  "description": "There have been a couple of changes to entity naming:",
+  "date": "2023-06-28T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.45,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Erik Montnémery",
+      "url": "https://github.com/emontnemery",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Erik Montnémery",
+    "authorURL": "https://github.com/emontnemery",
+    "title": "Changes to entity naming"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Action event for custom cards",
+    "permalink": "/blog/2023/07/07/action-event-custom-cards"
+  },
+  "nextItem": {
+    "title": "Service call description filters",
+    "permalink": "/blog/2023/06/28/service-description-filters"
+  }
+}

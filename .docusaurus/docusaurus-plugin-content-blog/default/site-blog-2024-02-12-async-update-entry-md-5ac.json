@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2024/02/12/async_update_entry",
+  "source": "@site/blog/2024-02-12-async_update_entry.md",
+  "title": "Altering config entries",
+  "description": "Starting from Home Assistant 2024.3, modifications to a ConfigEntry should use hass.configentries.asyncupdate_entry.",
+  "date": "2024-02-12T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.5,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "J. Nick Koston",
+      "url": "https://github.com/bdraco",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "J. Nick Koston",
+    "authorURL": "https://github.com/bdraco",
+    "title": "Altering config entries"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "New Climate entity toggle method",
+    "permalink": "/blog/2024/02/25/Climate-toggle-service"
+  },
+  "nextItem": {
+    "title": "It is now required for lights to set color mode",
+    "permalink": "/blog/2024/02/12/light-color-mode-mandatory"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/2024/11/26/camera-deprecations",
+  "source": "@site/blog/2024-11-26-camera-deprecations.md",
+  "title": "Camera API changes",
+  "description": "With Home Assistant 2024.11 we added WebRTC for most cameras. To add support for it we needed to refactor and improve the camera entity.",
+  "date": "2024-11-26T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.745,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Robert Resch",
+      "url": "https://github.com/edenhaus",
+      "imageURL": "https://avatars.githubusercontent.com/u/26537646?s=96&v=4",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Robert Resch",
+    "authorURL": "https://github.com/edenhaus",
+    "authorImageURL": "https://avatars.githubusercontent.com/u/26537646?s=96&v=4",
+    "title": "Camera API changes"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Utility function homeassistant.util.dt.utc_to_timestamp is deprecated",
+    "permalink": "/blog/2024/11/28/dt-util-utc-to-timestamp-deprecation"
+  },
+  "nextItem": {
+    "title": "Translating units of measurement",
+    "permalink": "/blog/2024/11/21/unit-of-measurement-translations"
+  }
+}

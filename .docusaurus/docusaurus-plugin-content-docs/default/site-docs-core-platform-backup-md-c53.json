@@ -1,0 +1,27 @@
+{
+  "id": "core/platform/backup",
+  "title": "Backup",
+  "description": "There are two main purposes for an integration to implement a backup platform:",
+  "source": "@site/docs/core/platform/backup.md",
+  "sourceDirName": "core/platform",
+  "slug": "/core/platform/backup",
+  "permalink": "/docs/core/platform/backup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/platform/backup.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Backup"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Application credentials",
+    "permalink": "/docs/core/platform/application_credentials"
+  },
+  "next": {
+    "title": "Raising exceptions",
+    "permalink": "/docs/core/platform/raising_exceptions"
+  }
+}

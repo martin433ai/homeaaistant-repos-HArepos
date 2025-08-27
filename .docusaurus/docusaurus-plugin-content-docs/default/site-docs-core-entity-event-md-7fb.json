@@ -1,0 +1,28 @@
+{
+  "id": "core/entity/event",
+  "title": "Event entity",
+  "description": "Events are signals that are emitted when something happens, for example, when a user presses a physical button like a doorbell or when a button on a remote control is pressed. The event entity captures these events in the physical world and makes them available in Home Assistant as an entity.",
+  "source": "@site/docs/core/entity/event.md",
+  "sourceDirName": "core/entity",
+  "slug": "/core/entity/event",
+  "permalink": "/docs/core/entity/event",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/entity/event.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Event entity",
+    "sidebar_label": "Event"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Device tracker",
+    "permalink": "/docs/core/entity/device-tracker"
+  },
+  "next": {
+    "title": "Fan",
+    "permalink": "/docs/core/entity/fan"
+  }
+}

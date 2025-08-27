@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/2024/05/03/notify-title",
+  "source": "@site/blog/2024-05-03-notify-title.md",
+  "title": "Second phase of notify entity platform implementation",
+  "description": "Title option for send_message service notify entity platform",
+  "date": "2024-05-03T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.475,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Jan Bouwhuis",
+      "url": "https://github.com/jbouwh",
+      "imageURL": "https://avatars.githubusercontent.com/u/7188918?s=96&v=4",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Jan Bouwhuis",
+    "authorURL": "https://github.com/jbouwh",
+    "authorImageURL": "https://avatars.githubusercontent.com/u/7188918?s=96&v=4",
+    "title": "Second phase of notify entity platform implementation"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "How we managed to speed up our CI to save 168+ days of execution time per month",
+    "permalink": "/blog/2024/05/09/improving-ci-test-execution"
+  },
+  "nextItem": {
+    "title": "Improved typing for hass.data",
+    "permalink": "/blog/2024/05/01/improved-hass-data-typing"
+  }
+}

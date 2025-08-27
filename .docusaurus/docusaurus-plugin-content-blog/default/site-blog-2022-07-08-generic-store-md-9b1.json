@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2022/07/08/generic-store",
+  "source": "@site/blog/2022-07-08-generic-store.md",
+  "title": "Store is now a Generic class",
+  "description": "As of Home Assistant Core 2022.8, a Store (from homeassistant/helpers/storage.py) is defined as a Generic Store(Generic[_T]). It is recommended that the type of data being stored be defined in the Store definition. It should be JSON-serialisable (dict or list), for example:",
+  "date": "2022-07-08T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.425,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "epenet",
+      "url": "https://github.com/epenet",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "epenet",
+    "authorURL": "https://github.com/epenet",
+    "title": "Store is now a Generic class"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Waiting for config entry platforms",
+    "permalink": "/blog/2022/07/08/config_entry_forwards"
+  },
+  "nextItem": {
+    "title": "Weather entity refactoring to support unit conversions",
+    "permalink": "/blog/2022/06/27/weather_entity_refactoring"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2023/02/08/sensor_presentation_rounding",
+  "source": "@site/blog/2023-02-08-sensor_presentation_rounding.md",
+  "title": "The number of decimals used when displaying a sensor state is now configurable",
+  "description": "The number of decimal digits shown when displaying a sensor state is now configurable by the user. Integrations can suggest the number of",
+  "date": "2023-02-08T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.84,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Erik Montnemery",
+      "url": "https://github.com/emontnemery",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Erik Montnemery",
+    "authorURL": "https://github.com/emontnemery",
+    "title": "The number of decimals used when displaying a sensor state is now configurable"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "The HassGetState intent",
+    "permalink": "/blog/2023/02/09/hassgetstate"
+  },
+  "nextItem": {
+    "title": "Introducing drafting of PRs in our review process",
+    "permalink": "/blog/2023/02/07/introducing-PR-drafting-in-reviews"
+  }
+}

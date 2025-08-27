@@ -1,0 +1,27 @@
+{
+  "id": "development_validation",
+  "title": "Validate the input",
+  "description": "The configuration.yaml file contains the configuration options for components and platforms. We use voluptuous to make sure that the configuration provided by the user is valid. Some entries are optional or could be required to set up a platform or a component. Others must be a defined type or from an already-defined list.",
+  "source": "@site/docs/development_validation.md",
+  "sourceDirName": ".",
+  "slug": "/development_validation",
+  "permalink": "/docs/development_validation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/development_validation.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Validate the input"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "REST API",
+    "permalink": "/docs/api/rest"
+  },
+  "next": {
+    "title": "Adding type hints to your code",
+    "permalink": "/docs/development_typing"
+  }
+}

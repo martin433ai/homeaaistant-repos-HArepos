@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2023/05/21/retained-mqtt-messages-filtered",
+  "source": "@site/blog/2023-05-21-retained-mqtt-messages-filtered.md",
+  "title": "Recent MQTT changes to improve overall performance",
+  "description": "The way Home Assistant's MQTT integration processes MQTT messages and how subscribes and unsubscribes are performed has changed.",
+  "date": "2023-05-21T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.195,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Jan Bouwhuis",
+      "url": "https://twitter.com/jbouwh",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Jan Bouwhuis",
+    "authorURL": "https://twitter.com/jbouwh",
+    "title": "Recent MQTT changes to improve overall performance"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Service Call API changes",
+    "permalink": "/blog/2023/06/14/service-calls"
+  },
+  "nextItem": {
+    "title": "Job: Home Assistant Core Developer",
+    "permalink": "/blog/2023/05/07/job-home-assistant-core"
+  }
+}

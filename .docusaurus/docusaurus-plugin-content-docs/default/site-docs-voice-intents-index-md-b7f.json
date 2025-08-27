@@ -1,0 +1,27 @@
+{
+  "id": "voice/intents/index",
+  "title": "Intents",
+  "description": "See the Home Assistant Core documentation for intents for:",
+  "source": "@site/docs/voice/intents/index.md",
+  "sourceDirName": "voice/intents",
+  "slug": "/voice/intents/",
+  "permalink": "/docs/voice/intents/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/voice/intents/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Intents"
+  },
+  "sidebar": "Voice",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/docs/voice/overview"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/docs/voice/intent-recognition/"
+  }
+}

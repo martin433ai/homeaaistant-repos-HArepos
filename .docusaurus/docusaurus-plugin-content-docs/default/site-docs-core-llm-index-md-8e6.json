@@ -1,0 +1,28 @@
+{
+  "id": "core/llm/index",
+  "title": "Home Assistant API for Large Language Models",
+  "description": "Home Assistant can interact with large language models (LLMs). By exposing a Home Assistant API to an LLM, the LLM can fetch data or control Home Assistant to better assist the user. Home Assistant comes with a built-in LLM API, but custom integrations can register their own to provide more advanced functionality.",
+  "source": "@site/docs/core/llm/index.md",
+  "sourceDirName": "core/llm",
+  "slug": "/core/llm/",
+  "permalink": "/docs/core/llm/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/llm/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Home Assistant API for Large Language Models",
+    "sidebar_label": "LLM API"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Conversation API",
+    "permalink": "/docs/intent_conversation_api"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/docs/api/native-app-integration"
+  }
+}

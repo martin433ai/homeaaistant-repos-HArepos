@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2024/03/10/climate-aux-heater-deprecated",
+  "source": "@site/blog/2024-03-10-climate-aux-heater-deprecated.md",
+  "title": "Climate entity auxiliary heater is deprecated",
+  "description": "As of Home Assistant Core 2024.4 we have deprecated the auxiliary heater functionality in ClimateEntity.",
+  "date": "2024-03-10T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.315,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "G Johansson",
+      "url": "https://github.com/gjohansson-ST",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "G Johansson",
+    "authorURL": "https://github.com/gjohansson-ST",
+    "title": "Climate entity auxiliary heater is deprecated"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Deprecating `async_run_job` and `async_add_job`",
+    "permalink": "/blog/2024/03/13/deprecate_add_run_job"
+  },
+  "nextItem": {
+    "title": "Integrations import in the executor to avoid blocking the event loop",
+    "permalink": "/blog/2024/03/09/import_executor_default"
+  }
+}

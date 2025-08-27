@@ -1,0 +1,27 @@
+{
+  "id": "voice/intent-recognition/template-sentence-syntax",
+  "title": "Template sentence syntax",
+  "description": "Template sentences are defined in YAML files using the format of Hassil, our template matcher. Our template sentences are stored on GitHub and are organized by having for each language a directory of files in sentences//:",
+  "source": "@site/docs/voice/intent-recognition/template-sentence-syntax.md",
+  "sourceDirName": "voice/intent-recognition",
+  "slug": "/voice/intent-recognition/template-sentence-syntax",
+  "permalink": "/docs/voice/intent-recognition/template-sentence-syntax",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/voice/intent-recognition/template-sentence-syntax.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Template sentence syntax"
+  },
+  "sidebar": "Voice",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/voice/intent-recognition/"
+  },
+  "next": {
+    "title": "Test syntax",
+    "permalink": "/docs/voice/intent-recognition/test-syntax"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "core/entity",
+  "title": "Entity",
+  "description": "For a generic introduction of entities, see entities architecture.",
+  "source": "@site/docs/core/entity.md",
+  "sourceDirName": "core",
+  "slug": "/core/entity",
+  "permalink": "/docs/core/entity",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/entity.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Entity",
+    "sidebar_label": "Introduction"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Config",
+    "permalink": "/docs/dev_101_config"
+  },
+  "next": {
+    "title": "Air quality",
+    "permalink": "/docs/core/entity/air-quality"
+  }
+}

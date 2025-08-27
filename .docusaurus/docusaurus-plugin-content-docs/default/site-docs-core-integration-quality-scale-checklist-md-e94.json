@@ -1,0 +1,27 @@
+{
+  "id": "core/integration-quality-scale/checklist",
+  "title": "Checklist",
+  "description": "When changing the quality scale of an integration, make sure you have completed the rules before opening the PR to change the quality scale.",
+  "source": "@site/docs/core/integration-quality-scale/checklist.md",
+  "sourceDirName": "core/integration-quality-scale",
+  "slug": "/core/integration-quality-scale/checklist",
+  "permalink": "/docs/core/integration-quality-scale/checklist",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/integration-quality-scale/checklist.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Checklist"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Integration quality scale",
+    "permalink": "/docs/core/integration-quality-scale/"
+  },
+  "next": {
+    "title": "Service actions are registered in async_setup",
+    "permalink": "/docs/core/integration-quality-scale/rules/action-setup"
+  }
+}

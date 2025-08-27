@@ -1,0 +1,28 @@
+{
+  "id": "intent_conversation_api",
+  "title": "Conversation API",
+  "description": "Intents can be recognized from text and fired using the conversation integration.",
+  "source": "@site/docs/intent_conversation_api.md",
+  "sourceDirName": ".",
+  "slug": "/intent_conversation_api",
+  "permalink": "/docs/intent_conversation_api",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/intent_conversation_api.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Conversation API",
+    "sidebar_label": "Conversation API"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Built-in intents",
+    "permalink": "/docs/intent_builtin"
+  },
+  "next": {
+    "title": "LLM API",
+    "permalink": "/docs/core/llm/"
+  }
+}

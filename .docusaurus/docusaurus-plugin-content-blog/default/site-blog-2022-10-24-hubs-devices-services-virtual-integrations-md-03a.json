@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2022/10/24/hubs-devices-services-virtual-integrations",
+  "source": "@site/blog/2022-10-24-hubs-devices-services-virtual-integrations.md",
+  "title": "Introducing virtual integrations and differentiating hubs, devices, and services,",
+  "description": "For the 2022.11 release, we have been adjusting our integration manifests",
+  "date": "2022-10-24T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 2.08,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Franck Nijhof",
+      "url": "https://twitter.com/frenck",
+      "imageURL": "/img/profile/frenck.png",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Franck Nijhof",
+    "authorURL": "https://twitter.com/frenck",
+    "authorImageURL": "/img/profile/frenck.png",
+    "authorTwitter": "frenck",
+    "title": "Introducing virtual integrations and differentiating hubs, devices, and services,"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Add new precipitation intensity units",
+    "permalink": "/blog/2022/10/25/new-precipitation-intensity-units"
+  },
+  "nextItem": {
+    "title": "GitHub Commands for Code Owners",
+    "permalink": "/blog/2022/10/21/code-owner-commands"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2022/12/07/entity-color-changes",
+  "source": "@site/blog/2022-12-07-entity-color-changes.md",
+  "title": "Entity state color changes",
+  "description": "From the Home Assistant Core 2022.12 release, we are using different colors per domain when an entity is active. These CSS variables are no longer used:",
+  "date": "2022-12-07T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.48,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Paul Bottein",
+      "url": "https://github.com/piitaya",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Paul Bottein",
+    "authorURL": "https://github.com/piitaya",
+    "title": "Entity state color changes"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Multi-pan temporarily disabled",
+    "permalink": "/blog/2022/12/08/multi-pan-rollback"
+  },
+  "nextItem": {
+    "title": "Summary of unit system related changes",
+    "permalink": "/blog/2022/12/07/unit_system_changes"
+  }
+}

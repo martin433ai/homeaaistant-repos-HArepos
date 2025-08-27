@@ -1,0 +1,27 @@
+{
+  "id": "core/integration-quality-scale/rules/docs-configuration-parameters",
+  "title": "The documentation describes all integration configuration options",
+  "description": "Reasoning",
+  "source": "@site/docs/core/integration-quality-scale/rules/docs-configuration-parameters.md",
+  "sourceDirName": "core/integration-quality-scale/rules",
+  "slug": "/core/integration-quality-scale/rules/docs-configuration-parameters",
+  "permalink": "/docs/core/integration-quality-scale/rules/docs-configuration-parameters",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/integration-quality-scale/rules/docs-configuration-parameters.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "The documentation describes all integration configuration options"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Support config entry unloading",
+    "permalink": "/docs/core/integration-quality-scale/rules/config-entry-unloading"
+  },
+  "next": {
+    "title": "The documentation describes all integration installation parameters",
+    "permalink": "/docs/core/integration-quality-scale/rules/docs-installation-parameters"
+  }
+}

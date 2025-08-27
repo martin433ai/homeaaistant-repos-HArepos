@@ -1,0 +1,27 @@
+{
+  "id": "add-ons/presentation",
+  "title": "Presenting your addon",
+  "description": "If you choose to make your add-on available to the public, providing clear information, graphics and security reassurances will help attract users.  The recommendations below are a guideline for presenting your add-on.",
+  "source": "@site/docs/add-ons/presentation.md",
+  "sourceDirName": "add-ons",
+  "slug": "/add-ons/presentation",
+  "permalink": "/docs/add-ons/presentation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/add-ons/presentation.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Presenting your addon"
+  },
+  "sidebar": "Addons",
+  "previous": {
+    "title": "Publishing your add-on",
+    "permalink": "/docs/add-ons/publishing"
+  },
+  "next": {
+    "title": "Create an add-on repository",
+    "permalink": "/docs/add-ons/repository"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2023/12/11/entity-description-changes",
+  "source": "@site/blog/2023-12-11-entity-description-changes.md",
+  "title": "Changes to EntityDescription data classes",
+  "description": "The EntityDescription classes have changed; derived dataclasses should now set frozen=True and kw_only=True.",
+  "date": "2023-12-11T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.615,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Erik Montnémery",
+      "url": "https://github.com/emontnemery",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Erik Montnémery",
+    "authorURL": "https://github.com/emontnemery",
+    "title": "Changes to EntityDescription data classes"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Config entry now supports minor versions",
+    "permalink": "/blog/2023/12/18/config-entry-minor-version"
+  },
+  "nextItem": {
+    "title": "New scaling utils and import changes",
+    "permalink": "/blog/2023/12/05/scaling-utils"
+  }
+}

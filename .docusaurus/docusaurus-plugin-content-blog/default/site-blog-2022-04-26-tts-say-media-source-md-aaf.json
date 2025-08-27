@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2022/04/26/tts-say-media-source",
+  "source": "@site/blog/2022-04-26-tts-say-media-source.md",
+  "title": "Text-to-speech say service to use media source IDs",
+  "description": "Starting with Home Assistant 2022.5, the TTS say service will set the media content ID to be a media source URI. These need to be resolved inside the media player using the media source integration.",
+  "date": "2022-04-26T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.375,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Paulus Schoutsen",
+      "url": "https://twitter.com/balloob",
+      "imageURL": "/img/profile/paulus.jpg",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Paulus Schoutsen",
+    "authorURL": "https://twitter.com/balloob",
+    "authorImageURL": "/img/profile/paulus.jpg",
+    "authorTwitter": "balloob",
+    "title": "Text-to-speech say service to use media source IDs"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "ServiceInfo model improvements and deprecations",
+    "permalink": "/blog/2022/05/03/serviceinfo-model-improvements"
+  },
+  "nextItem": {
+    "title": "Saying goodbye to the time_changed event",
+    "permalink": "/blog/2022/04/20/saying-goodbye-to-event_time_changed"
+  }
+}

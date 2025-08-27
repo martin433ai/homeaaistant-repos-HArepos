@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2024/09/23/constants-media-player-deprecation",
+  "source": "@site/blog/2024-09-23-constants-media-player-deprecation.md",
+  "title": "Deprecating constants for Media Player",
+  "description": "As of Home Assistant Core 2022.5, the feature flag constants used in MediaPlayerEntity were deprecated and replaced by the MediaPlayerEntityFeature enum. Later, in 2022.10, the repeat mode, media type, and media class constants were deprecated and replaced by RepeatMode, MediaType, and MediaClass, respectively.",
+  "date": "2024-09-23T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.385,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "G Johansson",
+      "url": "https://github.com/gjohansson-ST",
+      "imageURL": "https://avatars.githubusercontent.com/u/62932417?v=4",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "G Johansson",
+    "authorURL": "https://github.com/gjohansson-ST",
+    "authorImageURL": "https://avatars.githubusercontent.com/u/62932417?v=4",
+    "authorTwitter": "GJohansson",
+    "title": "Deprecating constants for Media Player"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Enforce SourceType and add shorthand attributes and EntityDescription to device_tracker",
+    "permalink": "/blog/2024/09/24/device-tracker-entity-description"
+  },
+  "nextItem": {
+    "title": "Deprecating feature flag constants for Vacuum",
+    "permalink": "/blog/2024/09/23/feature-flag-constants-vacuum-deprecation"
+  }
+}

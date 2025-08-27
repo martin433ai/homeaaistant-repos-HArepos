@@ -1,0 +1,32 @@
+{
+  "id": "core/integration-quality-scale/rules/entity-device-class",
+  "title": "Entities use device classes where possible",
+  "description": "Reasoning",
+  "source": "@site/docs/core/integration-quality-scale/rules/entity-device-class.md",
+  "sourceDirName": "core/integration-quality-scale/rules",
+  "slug": "/core/integration-quality-scale/rules/entity-device-class",
+  "permalink": "/docs/core/integration-quality-scale/rules/entity-device-class",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/integration-quality-scale/rules/entity-device-class.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Entities use device classes where possible",
+    "related_rules": [
+      "has-entity-name",
+      "entity-translations",
+      "icon-translations"
+    ]
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Entities are assigned an appropriate EntityCategory",
+    "permalink": "/docs/core/integration-quality-scale/rules/entity-category"
+  },
+  "next": {
+    "title": "Integration disables less popular (or noisy) entities",
+    "permalink": "/docs/core/integration-quality-scale/rules/entity-disabled-by-default"
+  }
+}

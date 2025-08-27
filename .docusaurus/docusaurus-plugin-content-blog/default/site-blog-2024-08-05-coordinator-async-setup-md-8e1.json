@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2024/08/05/coordinator_async_setup",
+  "source": "@site/blog/2024-08-05-coordinator_async_setup.md",
+  "title": "Set up your DataUpdateCoordinator with a setup method",
+  "description": "In Home Assistant 2024.8, we are introducing the asyncsetup method for the data update coordinator.",
+  "date": "2024-08-05T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.945,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Josef Zweck",
+      "url": "https://github.com/zweckj",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Josef Zweck",
+    "authorURL": "https://github.com/zweckj",
+    "title": "Set up your DataUpdateCoordinator with a setup method"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "New returning type in LawnMowerActivity",
+    "permalink": "/blog/2024/08/23/lawn-mower-activity-returning"
+  },
+  "nextItem": {
+    "title": "Climate entity now validates temperature provided in action calls",
+    "permalink": "/blog/2024/07/24/climate-min-max-temperature-check"
+  }
+}

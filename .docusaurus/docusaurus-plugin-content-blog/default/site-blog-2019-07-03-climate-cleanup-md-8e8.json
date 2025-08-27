@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2019/07/03/climate-cleanup",
+  "source": "@site/blog/2019-07-03-climate-cleanup.md",
+  "title": "Climate Cleanup",
+  "description": "This post is about the upcoming changes for the Home Assistant climate integration. These changes are being implemented right now and are no longer up for discussion. If you want to see changes, consider opening an architecture issue.",
+  "date": "2019-07-03T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 2.935,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Paulus Schoutsen",
+      "url": "https://twitter.com/balloob",
+      "imageURL": "/img/profile/paulus.jpg",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Paulus Schoutsen",
+    "authorURL": "https://twitter.com/balloob",
+    "authorImageURL": "/img/profile/paulus.jpg",
+    "authorTwitter": "balloob",
+    "title": "Climate Cleanup"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Building All The Things",
+    "permalink": "/blog/2019/07/19/building-all-the-things"
+  },
+  "nextItem": {
+    "title": "Internet of Things and the Modern Web",
+    "permalink": "/blog/2019/05/22/internet-of-things-and-the-modern-web"
+  }
+}

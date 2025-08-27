@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2022/07/29/device-tracker_source-type-deprecation",
+  "source": "@site/blog/2022-07-29-device-tracker_source-type-deprecation.md",
+  "title": "Device tracker deprecations for 2022.9",
+  "description": "For Home Assistant Core 2022.9, we have deprecated the device_tracker",
+  "date": "2022-07-29T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.14,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Marc Mueller",
+      "url": "https://github.com/cdce8p",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Marc Mueller",
+    "authorURL": "https://github.com/cdce8p",
+    "title": "Device tracker deprecations for 2022.9"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Bluetooth passive sensor API changes for 2022.9",
+    "permalink": "/blog/2022/08/08/bluetooth-api-changes"
+  },
+  "nextItem": {
+    "title": "Adopting a new way to name entities",
+    "permalink": "/blog/2022/07/10/entity_naming"
+  }
+}

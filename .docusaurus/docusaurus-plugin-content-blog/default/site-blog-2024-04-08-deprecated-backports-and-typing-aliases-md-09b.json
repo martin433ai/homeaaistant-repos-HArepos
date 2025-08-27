@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2024/04/08/deprecated-backports-and-typing-aliases",
+  "source": "@site/blog/2024-04-08-deprecated-backports-and-typing-aliases.md",
+  "title": "Deprecate old backports and typing alias",
+  "description": "In the past, we've backported features from upstream CPython to use them early and improve user and developers' experience. Home Assistant only supports Python 3.12, so these can be used directly from Python. These backports are now deprecated and will be removed in the future.",
+  "date": "2024-04-08T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.595,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Marc Mueller",
+      "url": "https://github.com/cdce8p",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Marc Mueller",
+    "authorURL": "https://github.com/cdce8p",
+    "title": "Deprecate old backports and typing alias"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "New notify entity platform",
+    "permalink": "/blog/2024/04/10/new-notify-entity-platform"
+  },
+  "nextItem": {
+    "title": "Deprecating `async_add_hass_job`",
+    "permalink": "/blog/2024/04/07/deprecate_add_hass_job"
+  }
+}

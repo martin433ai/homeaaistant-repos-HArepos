@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2024/05/10/lock-supports-open-state",
+  "source": "@site/blog/2024-05-10-lock-supports-open-state.md",
+  "title": "LockEntity supports open/opening state",
+  "description": "Recently we have added an open and opening state to LockEntity",
+  "date": "2024-05-10T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.495,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "G Johansson",
+      "url": "https://github.com/gjohansson-ST",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "G Johansson",
+    "authorURL": "https://github.com/gjohansson-ST",
+    "title": "LockEntity supports open/opening state"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Changes in setup entity platforms with group integration",
+    "permalink": "/blog/2024/05/10/group-integration"
+  },
+  "nextItem": {
+    "title": "How we managed to speed up our CI to save 168+ days of execution time per month",
+    "permalink": "/blog/2024/05/09/improving-ci-test-execution"
+  }
+}

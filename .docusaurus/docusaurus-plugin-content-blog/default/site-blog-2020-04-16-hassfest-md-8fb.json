@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2020/04/16/hassfest",
+  "source": "@site/blog/2020-04-16-hassfest.md",
+  "title": "Hassfest for custom components",
+  "description": "Hassfest is an internal tool that we use in Home Assistant to make sure that all integrations have valid data. We've now made Hassfest able to validate any integration, including custom integrations. To make it easy to get started with this, @ludeeus has created a GitHub Action that gets you up and running in less than a minute.",
+  "date": "2020-04-16T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.84,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Paulus Schoutsen",
+      "url": "https://twitter.com/balloob",
+      "imageURL": "/img/profile/paulus.jpg",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Paulus Schoutsen",
+    "authorURL": "https://twitter.com/balloob",
+    "authorImageURL": "/img/profile/paulus.jpg",
+    "authorTwitter": "balloob",
+    "title": "Hassfest for custom components"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Translations for custom Lovelace",
+    "permalink": "/blog/2020/04/23/frontend-translations"
+  },
+  "nextItem": {
+    "title": "S6 Overlay for our Docker containers",
+    "permalink": "/blog/2020/04/12/s6-overlay"
+  }
+}

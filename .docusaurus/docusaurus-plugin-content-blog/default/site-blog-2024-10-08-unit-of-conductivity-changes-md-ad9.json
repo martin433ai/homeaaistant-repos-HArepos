@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2024/10/08/unit-of-conductivity-changes",
+  "source": "@site/blog/2024-10-08-unit-of-conductivity-changes.md",
+  "title": "Changes to the UnitOfConductivity enum",
+  "description": "The UnitOfConductivity enum has been changed from:",
+  "date": "2024-10-08T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.36,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Erik Montnemery",
+      "url": "https://github.com/emontnemery",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Erik Montnemery",
+    "authorURL": "https://github.com/emontnemery",
+    "title": "Changes to the UnitOfConductivity enum"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Deprecating state constants for cover",
+    "permalink": "/blog/2024/10/08/state-constants-cover-deprecation"
+  },
+  "nextItem": {
+    "title": "Introducing the Assist satellite entity",
+    "permalink": "/blog/2024/10/01/assist-satellite-entity"
+  }
+}

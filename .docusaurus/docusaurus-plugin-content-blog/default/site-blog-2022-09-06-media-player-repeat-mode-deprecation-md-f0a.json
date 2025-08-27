@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2022/09/06/media-player-repeat-mode-deprecation",
+  "source": "@site/blog/2022-09-06-media-player-repeat-mode-deprecation.md",
+  "title": "Deprecating media player constants",
+  "description": "As of Home Assistant Core 2022.10, the following media player constants are deprecated:",
+  "date": "2022-09-06T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.66,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "epenet",
+      "url": "https://github.com/epenet",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "epenet",
+    "authorURL": "https://github.com/epenet",
+    "title": "Deprecating media player constants"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Bluetooth async_track_unavailable API changes for 2022.10",
+    "permalink": "/blog/2022/09/16/bluetooth-unavailable-api-changes"
+  },
+  "nextItem": {
+    "title": "The issue registry has been moved to homeassistant.helpers",
+    "permalink": "/blog/2022/08/25/issue_registry_moved_to_helpers"
+  }
+}

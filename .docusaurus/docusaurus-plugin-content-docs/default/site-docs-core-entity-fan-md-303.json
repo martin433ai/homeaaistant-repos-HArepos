@@ -1,0 +1,28 @@
+{
+  "id": "core/entity/fan",
+  "title": "Fan entity",
+  "description": "A fan entity is a device that controls the different vectors of your fan such as speed, direction and oscillation. Derive entity platforms from 'homeassistant.components.fan.FanEntity'.",
+  "source": "@site/docs/core/entity/fan.md",
+  "sourceDirName": "core/entity",
+  "slug": "/core/entity/fan",
+  "permalink": "/docs/core/entity/fan",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/entity/fan.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Fan entity",
+    "sidebar_label": "Fan"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Event",
+    "permalink": "/docs/core/entity/event"
+  },
+  "next": {
+    "title": "Humidifier",
+    "permalink": "/docs/core/entity/humidifier"
+  }
+}

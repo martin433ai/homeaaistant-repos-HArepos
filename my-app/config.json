@@ -1,0 +1,176 @@
+#!/usr/bin/env python3
+
+import requests
+import json
+import time
+import os
+import sys
+from datetime import datetime
+import logging
+
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s'
+)
+
+class HomeAssistantUpdater:
+    def __init__(self):
+        self.api_url = os.environ.get('HASS_URL')
+        token = os.environ.get('HASS_TOKEN')
+        
+        if not self.api_url:
+            raise ValueError("HASS_URL environment variable must be set")
+        if not token:
+            raise ValueError("HASS_TOKEN environment variable must be set")
+        
+        self.headers = {
+            "Authorization": f"Bearer {token}",
+            "Content-Type": "application/json"
+        }
+
+    def check_api_connection(self):
+        """Check if the Home Assistant API is accessible."""
+        try:
+            response = requests.get(f"{self.api_url}/info", headers=self.headers)
+            response.raise_for_status()
+            return True
+        except requests.exceptions.RequestException as e:
+            logging.error(f"Failed to connect to Home Assistant API: {e}")
+            return False
+
+    def create_backup(self):
+        """Create a backup before updating."""
+        try:
+            logging.info("Creating backup before update...")
+            backup_data = {
+                "name": f"Pre-update_backup_{datetime.now().strftime('%Y%m%d_%H%M%S')}",
+                "password": None
+            }
+            response = requests.post(
+                "http://supervisor/backups/new/full",
+                headers=self.headers,
+                json=backup_data
+            )
+            response.raise_for_status()
+            logging.info("Backup created successfully")
+            return True
+        except requests.exceptions.RequestException as e:
+            logging.error(f"Failed to create backup: {e}")
+            return False
+
+    def check_update_available(self):
+        """Check if an update is available for Core."""
+        try:
+            response = requests.get(
+                f"{self.api_url}/info",
+                headers=self.headers
+            )
+            response.raise_for_status()
+            info = response.json()
+            return info.get('update_available', False)
+        except requests.exceptions.RequestException as e:
+            logging.error(f"Failed to check for updates: {e}")
+            return False
+
+    def perform_update(self):
+        """Perform the Core update."""
+        try:
+            logging.info("Starting Home Assistant Core update...")
+            response = requests.post(
+                f"{self.api_url}/update",
+                headers=self.headers
+            )
+            response.raise_for_status()
+            return True
+        except requests.exceptions.RequestException as e:
+            logging.error(f"Failed to initiate update: {e}")
+            return False
+
+    def monitor_update_progress(self):
+        """Monitor the update progress."""
+        max_attempts = 30
+        attempt = 0
+        
+        while attempt < max_attempts:
+            try:
+                response = requests.get(
+                    f"{self.api_url}/info",
+                    headers=self.headers
+                )
+                response.raise_for_status()
+                info = response.json()
+                
+                if not info.get('update_available'):
+                    logging.info("Update completed successfully")
+                    return True
+                
+                logging.info("Update in progress...")
+                time.sleep(10)
+                attempt += 1
+            except requests.exceptions.RequestException as e:
+                logging.warning(f"Error checking update status: {e}")
+                time.sleep(10)
+                attempt += 1
+
+        logging.error("Update monitoring timed out")
+        return False
+
+    def verify_system_status(self):
+        """Verify system status after update."""
+        try:
+            response = requests.get(
+                f"{self.api_url}/info",
+                headers=self.headers
+            )
+            response.raise_for_status()
+            info = response.json()
+            
+            if info.get('state') == 'running':
+                logging.info("System is running normally after update")
+                return True
+            else:
+                logging.error("System state is not normal after update")
+                return False
+        except requests.exceptions.RequestException as e:
+            logging.error(f"Failed to verify system status: {e}")
+            return False
+
+def main():
+    updater = HomeAssistantUpdater()
+    
+    # Check API connection
+    if not updater.check_api_connection():
+        logging.error("Cannot proceed - API connection failed")
+        sys.exit(1)
+    
+    # Check for updates
+    if not updater.check_update_available():
+        logging.info("No updates available. System is up to date.")
+        sys.exit(0)
+    
+    # Create backup
+    if not updater.create_backup():
+        logging.error("Backup failed - aborting update")
+        sys.exit(1)
+    
+    # Perform update
+    if not updater.perform_update():
+        logging.error("Update failed to start")
+        sys.exit(1)
+    
+    # Monitor progress
+    if not updater.monitor_update_progress():
+        logging.error("Update monitoring failed")
+        sys.exit(1)
+    
+    # Verify system status
+    if not updater.verify_system_status():
+        logging.error("System verification failed after update")
+        sys.exit(1)
+    
+    logging.info("Update completed successfully!")
+
+if __name__ == "__main__":
+    main()
+

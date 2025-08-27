@@ -1,0 +1,31 @@
+{
+  "id": "core/integration-quality-scale/rules/action-exceptions",
+  "title": "Service actions raise exceptions when encountering failures",
+  "description": "Reasoning",
+  "source": "@site/docs/core/integration-quality-scale/rules/action-exceptions.md",
+  "sourceDirName": "core/integration-quality-scale/rules",
+  "slug": "/core/integration-quality-scale/rules/action-exceptions",
+  "permalink": "/docs/core/integration-quality-scale/rules/action-exceptions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/integration-quality-scale/rules/action-exceptions.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Service actions raise exceptions when encountering failures",
+    "related_rules": [
+      "exception-translations",
+      "action-setup"
+    ]
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Don't allow the same device or service to be able to be set up twice",
+    "permalink": "/docs/core/integration-quality-scale/rules/unique-config-entry"
+  },
+  "next": {
+    "title": "Support config entry unloading",
+    "permalink": "/docs/core/integration-quality-scale/rules/config-entry-unloading"
+  }
+}

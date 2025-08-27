@@ -1,0 +1,24 @@
+{
+  "id": "development_index",
+  "title": "Home Assistant Core",
+  "description": "The core of Home Assistant is built from the ground up to be easily extensible using integrations. In this section, we're focusing on how to develop integrations.",
+  "source": "@site/docs/development_index.md",
+  "sourceDirName": ".",
+  "slug": "/development_index",
+  "permalink": "/docs/development_index",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/development_index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Home Assistant Core",
+    "sidebar_label": "Introduction"
+  },
+  "sidebar": "Core",
+  "next": {
+    "title": "Core",
+    "permalink": "/docs/architecture/core"
+  }
+}

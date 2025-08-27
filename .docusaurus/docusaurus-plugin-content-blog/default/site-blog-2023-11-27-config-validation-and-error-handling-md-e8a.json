@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/2023/11/27/config-validation-and-error-handling",
+  "source": "@site/blog/2023-11-27-config-validation-and-error-handling.md",
+  "title": "Config processing and error handling",
+  "description": "Changes in component config processing and error handling",
+  "date": "2023-11-27T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.21,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Jan Bouwhuis",
+      "url": "https://github.com/jbouwh",
+      "imageURL": "https://avatars.githubusercontent.com/u/7188918?s=96&v=4",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Jan Bouwhuis",
+    "authorURL": "https://github.com/jbouwh",
+    "authorImageURL": "https://avatars.githubusercontent.com/u/7188918?s=96&v=4",
+    "title": "Config processing and error handling"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Exception handling during service calls and translation support",
+    "permalink": "/blog/2023/11/30/service-exceptions-and-translations"
+  },
+  "nextItem": {
+    "title": "Public Addon Config",
+    "permalink": "/blog/2023/11/06/public-addon-config"
+  }
+}

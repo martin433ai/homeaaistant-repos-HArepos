@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2024/08/27/changed-icon-translations-schema",
+  "source": "@site/blog/2024-08-27-changed-icon-translations-schema.md",
+  "title": "Changes to the icon translations schema",
+  "description": "The icon translations schema has been adjusted to allow assigning icons for sections in services.",
+  "date": "2024-08-27T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.61,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Erik Montnemery",
+      "url": "https://github.com/emontnemery",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Erik Montnemery",
+    "authorURL": "https://github.com/emontnemery",
+    "title": "Changes to the icon translations schema"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Template.hass is no longer automatically set when rendering templates",
+    "permalink": "/blog/2024/09/02/template-hass-required"
+  },
+  "nextItem": {
+    "title": "Validation of entity action schemas",
+    "permalink": "/blog/2024/08/27/entity-service-schema-validation"
+  }
+}

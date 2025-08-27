@@ -1,0 +1,27 @@
+{
+  "id": "core/integration-quality-scale/rules/common-modules",
+  "title": "Place common patterns in common modules",
+  "description": "Reasoning",
+  "source": "@site/docs/core/integration-quality-scale/rules/common-modules.md",
+  "sourceDirName": "core/integration-quality-scale/rules",
+  "slug": "/core/integration-quality-scale/rules/common-modules",
+  "permalink": "/docs/core/integration-quality-scale/rules/common-modules",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/integration-quality-scale/rules/common-modules.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Place common patterns in common modules"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Has branding assets available for the integration",
+    "permalink": "/docs/core/integration-quality-scale/rules/brands"
+  },
+  "next": {
+    "title": "Full test coverage for the config flow",
+    "permalink": "/docs/core/integration-quality-scale/rules/config-flow-test-coverage"
+  }
+}

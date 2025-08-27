@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2022/06/13/unsafe_reloads_during_entry_setup",
+  "source": "@site/blog/2022-06-13-unsafe_reloads_during_entry_setup.md",
+  "title": "Avoiding reloading config entries while they are setting up",
+  "description": "Before 2022.7, it was possible to trigger a reload of a config entry while it was still setting up. Reloading during config entry setup often led to unexpected failure modes, which required restarting Home Assistant to get the config entry back in a good state. Attempting a reload during setup now raises the OperationNotAllowed exception.",
+  "date": "2022-06-13T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.275,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "J. Nick Koston",
+      "url": "https://github.com/bdraco",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "J. Nick Koston",
+    "authorURL": "https://github.com/bdraco",
+    "title": "Avoiding reloading config entries while they are setting up"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Number entity refactoring to support unit conversion",
+    "permalink": "/blog/2022/06/14/number_entity_refactoring"
+  },
+  "nextItem": {
+    "title": "Deprecating Data Entry Flow constants",
+    "permalink": "/blog/2022/06/07/dataflow-constants-deprecation"
+  }
+}

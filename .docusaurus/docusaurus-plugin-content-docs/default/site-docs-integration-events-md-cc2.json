@@ -1,0 +1,27 @@
+{
+  "id": "integration_events",
+  "title": "Firing events",
+  "description": "Some integrations represent devices or services that have events, like when motion is detected or a momentary button is pushed. An integration can make these available to users by firing them as events in Home Assistant.",
+  "source": "@site/docs/integration_events.md",
+  "sourceDirName": ".",
+  "slug": "/integration_events",
+  "permalink": "/docs/integration_events",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/integration_events.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Firing events"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Handling setup failures",
+    "permalink": "/docs/integration_setup_failures"
+  },
+  "next": {
+    "title": "Listening for events",
+    "permalink": "/docs/integration_listen_events"
+  }
+}

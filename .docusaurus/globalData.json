@@ -1,0 +1,1281 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "add-ons",
+          "docs": [
+            {
+              "id": "add-ons",
+              "path": "/docs/add-ons",
+              "sidebar": "Addons"
+            },
+            {
+              "id": "add-ons/communication",
+              "path": "/docs/add-ons/communication",
+              "sidebar": "Addons"
+            },
+            {
+              "id": "add-ons/configuration",
+              "path": "/docs/add-ons/configuration",
+              "sidebar": "Addons"
+            },
+            {
+              "id": "add-ons/presentation",
+              "path": "/docs/add-ons/presentation",
+              "sidebar": "Addons"
+            },
+            {
+              "id": "add-ons/publishing",
+              "path": "/docs/add-ons/publishing",
+              "sidebar": "Addons"
+            },
+            {
+              "id": "add-ons/repository",
+              "path": "/docs/add-ons/repository",
+              "sidebar": "Addons"
+            },
+            {
+              "id": "add-ons/security",
+              "path": "/docs/add-ons/security",
+              "sidebar": "Addons"
+            },
+            {
+              "id": "add-ons/testing",
+              "path": "/docs/add-ons/testing",
+              "sidebar": "Addons"
+            },
+            {
+              "id": "add-ons/tutorial",
+              "path": "/docs/add-ons/tutorial",
+              "sidebar": "Addons"
+            },
+            {
+              "id": "api_lib_auth",
+              "path": "/docs/api_lib_auth",
+              "sidebar": "Misc"
+            },
+            {
+              "id": "api_lib_data_models",
+              "path": "/docs/api_lib_data_models",
+              "sidebar": "Misc"
+            },
+            {
+              "id": "api_lib_index",
+              "path": "/docs/api_lib_index",
+              "sidebar": "Misc"
+            },
+            {
+              "id": "api/native-app-integration",
+              "path": "/docs/api/native-app-integration",
+              "sidebar": "Core"
+            },
+            {
+              "id": "api/native-app-integration/notifications",
+              "path": "/docs/api/native-app-integration/notifications",
+              "sidebar": "Core"
+            },
+            {
+              "id": "api/native-app-integration/sending-data",
+              "path": "/docs/api/native-app-integration/sending-data",
+              "sidebar": "Core"
+            },
+            {
+              "id": "api/native-app-integration/sensors",
+              "path": "/docs/api/native-app-integration/sensors",
+              "sidebar": "Core"
+            },
+            {
+              "id": "api/native-app-integration/setup",
+              "path": "/docs/api/native-app-integration/setup",
+              "sidebar": "Core"
+            },
+            {
+              "id": "api/native-app-integration/webview",
+              "path": "/docs/api/native-app-integration/webview",
+              "sidebar": "Core"
+            },
+            {
+              "id": "api/rest",
+              "path": "/docs/api/rest",
+              "sidebar": "Core"
+            },
+            {
+              "id": "api/supervisor/endpoints",
+              "path": "/docs/api/supervisor/endpoints",
+              "sidebar": "Supervisor"
+            },
+            {
+              "id": "api/supervisor/examples",
+              "path": "/docs/api/supervisor/examples",
+              "sidebar": "Supervisor"
+            },
+            {
+              "id": "api/supervisor/models",
+              "path": "/docs/api/supervisor/models",
+              "sidebar": "Supervisor"
+            },
+            {
+              "id": "api/websocket",
+              "path": "/docs/api/websocket",
+              "sidebar": "Core"
+            },
+            {
+              "id": "architecture_components",
+              "path": "/docs/architecture_components",
+              "sidebar": "Core"
+            },
+            {
+              "id": "architecture_index",
+              "path": "/docs/architecture_index",
+              "sidebar": "Overview"
+            },
+            {
+              "id": "architecture/core",
+              "path": "/docs/architecture/core",
+              "sidebar": "Core"
+            },
+            {
+              "id": "architecture/devices-and-services",
+              "path": "/docs/architecture/devices-and-services",
+              "sidebar": "Core"
+            },
+            {
+              "id": "area_registry_index",
+              "path": "/docs/area_registry_index",
+              "sidebar": "Core"
+            },
+            {
+              "id": "asyncio_101",
+              "path": "/docs/asyncio_101",
+              "sidebar": "Misc"
+            },
+            {
+              "id": "asyncio_blocking_operations",
+              "path": "/docs/asyncio_blocking_operations",
+              "sidebar": "Misc"
+            },
+            {
+              "id": "asyncio_categorizing_functions",
+              "path": "/docs/asyncio_categorizing_functions",
+              "sidebar": "Misc"
+            },
+            {
+              "id": "asyncio_index",
+              "path": "/docs/asyncio_index",
+              "sidebar": "Misc"
+            },
+            {
+              "id": "asyncio_thread_safety",
+              "path": "/docs/asyncio_thread_safety",
+              "sidebar": "Misc"
+            },
+            {
+              "id": "asyncio_working_with_async",
+              "path": "/docs/asyncio_working_with_async",
+              "sidebar": "Misc"
+            },
+            {
+              "id": "auth_api",
+              "path": "/docs/auth_api",
+              "sidebar": "Core"
+            },
+            {
+              "id": "auth_auth_module",
+              "path": "/docs/auth_auth_module",
+              "sidebar": "Core"
+            },
+            {
+              "id": "auth_auth_provider",
+              "path": "/docs/auth_auth_provider",
+              "sidebar": "Core"
+            },
+            {
+              "id": "auth_index",
+              "path": "/docs/auth_index",
+              "sidebar": "Core"
+            },
+            {
+              "id": "auth_permissions",
+              "path": "/docs/auth_permissions",
+              "sidebar": "Core"
+            },
+            {
+              "id": "bluetooth",
+              "path": "/docs/bluetooth",
+              "sidebar": "Core"
+            },
+            {
+              "id": "config_entries_config_flow_handler",
+              "path": "/docs/config_entries_config_flow_handler",
+              "sidebar": "Core"
+            },
+            {
+              "id": "config_entries_index",
+              "path": "/docs/config_entries_index",
+              "sidebar": "Core"
+            },
+            {
+              "id": "config_entries_options_flow_handler",
+              "path": "/docs/config_entries_options_flow_handler",
+              "sidebar": "Core"
+            },
+            {
+              "id": "configuration_yaml_index",
+              "path": "/docs/configuration_yaml_index",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/bluetooth/api",
+              "path": "/docs/core/bluetooth/api",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/bluetooth/bluetooth_fetching_data",
+              "path": "/docs/core/bluetooth/bluetooth_fetching_data",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/entity",
+              "path": "/docs/core/entity",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/entity/air-quality",
+              "path": "/docs/core/entity/air-quality",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/entity/alarm-control-panel",
+              "path": "/docs/core/entity/alarm-control-panel",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/entity/assist-satellite",
+              "path": "/docs/core/entity/assist-satellite",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/entity/binary-sensor",
+              "path": "/docs/core/entity/binary-sensor",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/entity/button",
+              "path": "/docs/core/entity/button",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/entity/calendar",
+              "path": "/docs/core/entity/calendar",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/entity/camera",
+              "path": "/docs/core/entity/camera",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/entity/climate",
+              "path": "/docs/core/entity/climate",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/entity/conversation",
+              "path": "/docs/core/entity/conversation",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/entity/cover",
+              "path": "/docs/core/entity/cover",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/entity/date",
+              "path": "/docs/core/entity/date",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/entity/datetime",
+              "path": "/docs/core/entity/datetime",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/entity/device-tracker",
+              "path": "/docs/core/entity/device-tracker",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/entity/event",
+              "path": "/docs/core/entity/event",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/entity/fan",
+              "path": "/docs/core/entity/fan",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/entity/humidifier",
+              "path": "/docs/core/entity/humidifier",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/entity/image",
+              "path": "/docs/core/entity/image",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/entity/lawn-mower",
+              "path": "/docs/core/entity/lawn-mower",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/entity/light",
+              "path": "/docs/core/entity/light",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/entity/lock",
+              "path": "/docs/core/entity/lock",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/entity/media-player",
+              "path": "/docs/core/entity/media-player",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/entity/notify",
+              "path": "/docs/core/entity/notify",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/entity/number",
+              "path": "/docs/core/entity/number",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/entity/remote",
+              "path": "/docs/core/entity/remote",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/entity/scene",
+              "path": "/docs/core/entity/scene",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/entity/select",
+              "path": "/docs/core/entity/select",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/entity/sensor",
+              "path": "/docs/core/entity/sensor",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/entity/siren",
+              "path": "/docs/core/entity/siren",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/entity/stt",
+              "path": "/docs/core/entity/stt",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/entity/switch",
+              "path": "/docs/core/entity/switch",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/entity/text",
+              "path": "/docs/core/entity/text",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/entity/time",
+              "path": "/docs/core/entity/time",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/entity/todo",
+              "path": "/docs/core/entity/todo",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/entity/tts",
+              "path": "/docs/core/entity/tts",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/entity/update",
+              "path": "/docs/core/entity/update",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/entity/vacuum",
+              "path": "/docs/core/entity/vacuum",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/entity/valve",
+              "path": "/docs/core/entity/valve",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/entity/wake_word",
+              "path": "/docs/core/entity/wake_word",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/entity/water-heater",
+              "path": "/docs/core/entity/water-heater",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/entity/weather",
+              "path": "/docs/core/entity/weather",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration_diagnostics",
+              "path": "/docs/core/integration_diagnostics",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration_system_health",
+              "path": "/docs/core/integration_system_health",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/checklist",
+              "path": "/docs/core/integration-quality-scale/checklist",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/index",
+              "path": "/docs/core/integration-quality-scale/",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/action-exceptions",
+              "path": "/docs/core/integration-quality-scale/rules/action-exceptions",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/action-setup",
+              "path": "/docs/core/integration-quality-scale/rules/action-setup",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/appropriate-polling",
+              "path": "/docs/core/integration-quality-scale/rules/appropriate-polling",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/async-dependency",
+              "path": "/docs/core/integration-quality-scale/rules/async-dependency",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/brands",
+              "path": "/docs/core/integration-quality-scale/rules/brands",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/common-modules",
+              "path": "/docs/core/integration-quality-scale/rules/common-modules",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/config-entry-unloading",
+              "path": "/docs/core/integration-quality-scale/rules/config-entry-unloading",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/config-flow",
+              "path": "/docs/core/integration-quality-scale/rules/config-flow",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/config-flow-test-coverage",
+              "path": "/docs/core/integration-quality-scale/rules/config-flow-test-coverage",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/dependency-transparency",
+              "path": "/docs/core/integration-quality-scale/rules/dependency-transparency",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/devices",
+              "path": "/docs/core/integration-quality-scale/rules/devices",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/diagnostics",
+              "path": "/docs/core/integration-quality-scale/rules/diagnostics",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/discovery",
+              "path": "/docs/core/integration-quality-scale/rules/discovery",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/discovery-update-info",
+              "path": "/docs/core/integration-quality-scale/rules/discovery-update-info",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/docs-actions",
+              "path": "/docs/core/integration-quality-scale/rules/docs-actions",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/docs-configuration-parameters",
+              "path": "/docs/core/integration-quality-scale/rules/docs-configuration-parameters",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/docs-data-update",
+              "path": "/docs/core/integration-quality-scale/rules/docs-data-update",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/docs-examples",
+              "path": "/docs/core/integration-quality-scale/rules/docs-examples",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/docs-high-level-description",
+              "path": "/docs/core/integration-quality-scale/rules/docs-high-level-description",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/docs-installation-instructions",
+              "path": "/docs/core/integration-quality-scale/rules/docs-installation-instructions",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/docs-installation-parameters",
+              "path": "/docs/core/integration-quality-scale/rules/docs-installation-parameters",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/docs-known-limitations",
+              "path": "/docs/core/integration-quality-scale/rules/docs-known-limitations",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/docs-removal-instructions",
+              "path": "/docs/core/integration-quality-scale/rules/docs-removal-instructions",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/docs-supported-devices",
+              "path": "/docs/core/integration-quality-scale/rules/docs-supported-devices",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/docs-supported-functions",
+              "path": "/docs/core/integration-quality-scale/rules/docs-supported-functions",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/docs-troubleshooting",
+              "path": "/docs/core/integration-quality-scale/rules/docs-troubleshooting",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/docs-use-cases",
+              "path": "/docs/core/integration-quality-scale/rules/docs-use-cases",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/dynamic-devices",
+              "path": "/docs/core/integration-quality-scale/rules/dynamic-devices",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/entity-category",
+              "path": "/docs/core/integration-quality-scale/rules/entity-category",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/entity-device-class",
+              "path": "/docs/core/integration-quality-scale/rules/entity-device-class",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/entity-disabled-by-default",
+              "path": "/docs/core/integration-quality-scale/rules/entity-disabled-by-default",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/entity-event-setup",
+              "path": "/docs/core/integration-quality-scale/rules/entity-event-setup",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/entity-translations",
+              "path": "/docs/core/integration-quality-scale/rules/entity-translations",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/entity-unavailable",
+              "path": "/docs/core/integration-quality-scale/rules/entity-unavailable",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/entity-unique-id",
+              "path": "/docs/core/integration-quality-scale/rules/entity-unique-id",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/exception-translations",
+              "path": "/docs/core/integration-quality-scale/rules/exception-translations",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/has-entity-name",
+              "path": "/docs/core/integration-quality-scale/rules/has-entity-name",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/icon-translations",
+              "path": "/docs/core/integration-quality-scale/rules/icon-translations",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/inject-websession",
+              "path": "/docs/core/integration-quality-scale/rules/inject-websession",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/integration-owner",
+              "path": "/docs/core/integration-quality-scale/rules/integration-owner",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/log-when-unavailable",
+              "path": "/docs/core/integration-quality-scale/rules/log-when-unavailable",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/parallel-updates",
+              "path": "/docs/core/integration-quality-scale/rules/parallel-updates",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/reauthentication-flow",
+              "path": "/docs/core/integration-quality-scale/rules/reauthentication-flow",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/reconfiguration-flow",
+              "path": "/docs/core/integration-quality-scale/rules/reconfiguration-flow",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/repair-issues",
+              "path": "/docs/core/integration-quality-scale/rules/repair-issues",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/runtime-data",
+              "path": "/docs/core/integration-quality-scale/rules/runtime-data",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/stale-devices",
+              "path": "/docs/core/integration-quality-scale/rules/stale-devices",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/strict-typing",
+              "path": "/docs/core/integration-quality-scale/rules/strict-typing",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/test-before-configure",
+              "path": "/docs/core/integration-quality-scale/rules/test-before-configure",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/test-before-setup",
+              "path": "/docs/core/integration-quality-scale/rules/test-before-setup",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/test-coverage",
+              "path": "/docs/core/integration-quality-scale/rules/test-coverage",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/integration-quality-scale/rules/unique-config-entry",
+              "path": "/docs/core/integration-quality-scale/rules/unique-config-entry",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/llm/index",
+              "path": "/docs/core/llm/",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/platform/application_credentials",
+              "path": "/docs/core/platform/application_credentials",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/platform/backup",
+              "path": "/docs/core/platform/backup",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/platform/raising_exceptions",
+              "path": "/docs/core/platform/raising_exceptions",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/platform/repairs",
+              "path": "/docs/core/platform/repairs",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/platform/reproduce_state",
+              "path": "/docs/core/platform/reproduce_state",
+              "sidebar": "Core"
+            },
+            {
+              "id": "core/platform/significant_change",
+              "path": "/docs/core/platform/significant_change",
+              "sidebar": "Core"
+            },
+            {
+              "id": "creating_component_code_review",
+              "path": "/docs/creating_component_code_review",
+              "sidebar": "Core"
+            },
+            {
+              "id": "creating_component_generic_discovery",
+              "path": "/docs/creating_component_generic_discovery",
+              "sidebar": "Core"
+            },
+            {
+              "id": "creating_component_index",
+              "path": "/docs/creating_component_index",
+              "sidebar": "Core"
+            },
+            {
+              "id": "creating_integration_brand",
+              "path": "/docs/creating_integration_brand",
+              "sidebar": "Core"
+            },
+            {
+              "id": "creating_integration_file_structure",
+              "path": "/docs/creating_integration_file_structure",
+              "sidebar": "Core"
+            },
+            {
+              "id": "creating_integration_manifest",
+              "path": "/docs/creating_integration_manifest",
+              "sidebar": "Core"
+            },
+            {
+              "id": "creating_integration_tests_file_structure",
+              "path": "/docs/creating_integration_tests_file_structure",
+              "sidebar": "Core"
+            },
+            {
+              "id": "creating_platform_code_review",
+              "path": "/docs/creating_platform_code_review",
+              "sidebar": "Core"
+            },
+            {
+              "id": "creating_platform_index",
+              "path": "/docs/creating_platform_index",
+              "sidebar": "Core"
+            },
+            {
+              "id": "data_entry_flow_index",
+              "path": "/docs/data_entry_flow_index",
+              "sidebar": "Core"
+            },
+            {
+              "id": "dev_101_config",
+              "path": "/docs/dev_101_config",
+              "sidebar": "Core"
+            },
+            {
+              "id": "dev_101_events",
+              "path": "/docs/dev_101_events",
+              "sidebar": "Core"
+            },
+            {
+              "id": "dev_101_hass",
+              "path": "/docs/dev_101_hass",
+              "sidebar": "Core"
+            },
+            {
+              "id": "dev_101_services",
+              "path": "/docs/dev_101_services",
+              "sidebar": "Core"
+            },
+            {
+              "id": "dev_101_states",
+              "path": "/docs/dev_101_states",
+              "sidebar": "Core"
+            },
+            {
+              "id": "development_catching_up",
+              "path": "/docs/development_catching_up",
+              "sidebar": "Core"
+            },
+            {
+              "id": "development_checklist",
+              "path": "/docs/development_checklist",
+              "sidebar": "Core"
+            },
+            {
+              "id": "development_environment",
+              "path": "/docs/development_environment",
+              "sidebar": "Core"
+            },
+            {
+              "id": "development_guidelines",
+              "path": "/docs/development_guidelines",
+              "sidebar": "Core"
+            },
+            {
+              "id": "development_index",
+              "path": "/docs/development_index",
+              "sidebar": "Core"
+            },
+            {
+              "id": "development_submitting",
+              "path": "/docs/development_submitting",
+              "sidebar": "Core"
+            },
+            {
+              "id": "development_testing",
+              "path": "/docs/development_testing",
+              "sidebar": "Core"
+            },
+            {
+              "id": "development_tips",
+              "path": "/docs/development_tips",
+              "sidebar": "Core"
+            },
+            {
+              "id": "development_typing",
+              "path": "/docs/development_typing",
+              "sidebar": "Core"
+            },
+            {
+              "id": "development_validation",
+              "path": "/docs/development_validation",
+              "sidebar": "Core"
+            },
+            {
+              "id": "device_automation_action",
+              "path": "/docs/device_automation_action",
+              "sidebar": "Core"
+            },
+            {
+              "id": "device_automation_condition",
+              "path": "/docs/device_automation_condition",
+              "sidebar": "Core"
+            },
+            {
+              "id": "device_automation_index",
+              "path": "/docs/device_automation_index",
+              "sidebar": "Core"
+            },
+            {
+              "id": "device_automation_trigger",
+              "path": "/docs/device_automation_trigger",
+              "sidebar": "Core"
+            },
+            {
+              "id": "device_registry_index",
+              "path": "/docs/device_registry_index",
+              "sidebar": "Core"
+            },
+            {
+              "id": "documenting",
+              "path": "/docs/documenting",
+              "sidebar": "Misc"
+            },
+            {
+              "id": "documenting/create-page",
+              "path": "/docs/documenting/create-page",
+              "sidebar": "Misc"
+            },
+            {
+              "id": "documenting/standards",
+              "path": "/docs/documenting/standards",
+              "sidebar": "Misc"
+            },
+            {
+              "id": "documenting/yaml-style-guide",
+              "path": "/docs/documenting/yaml-style-guide",
+              "sidebar": "Misc"
+            },
+            {
+              "id": "entity_registry_disabled_by",
+              "path": "/docs/entity_registry_disabled_by",
+              "sidebar": "Core"
+            },
+            {
+              "id": "entity_registry_index",
+              "path": "/docs/entity_registry_index",
+              "sidebar": "Core"
+            },
+            {
+              "id": "frontend",
+              "path": "/docs/frontend",
+              "sidebar": "Frontend"
+            },
+            {
+              "id": "frontend/architecture",
+              "path": "/docs/frontend/architecture",
+              "sidebar": "Frontend"
+            },
+            {
+              "id": "frontend/custom-ui/creating-custom-panels",
+              "path": "/docs/frontend/custom-ui/creating-custom-panels",
+              "sidebar": "Frontend"
+            },
+            {
+              "id": "frontend/custom-ui/custom-badge",
+              "path": "/docs/frontend/custom-ui/custom-badge",
+              "sidebar": "Frontend"
+            },
+            {
+              "id": "frontend/custom-ui/custom-card",
+              "path": "/docs/frontend/custom-ui/custom-card",
+              "sidebar": "Frontend"
+            },
+            {
+              "id": "frontend/custom-ui/custom-card-feature",
+              "path": "/docs/frontend/custom-ui/custom-card-feature",
+              "sidebar": "Frontend"
+            },
+            {
+              "id": "frontend/custom-ui/custom-strategy",
+              "path": "/docs/frontend/custom-ui/custom-strategy",
+              "sidebar": "Frontend"
+            },
+            {
+              "id": "frontend/custom-ui/custom-view",
+              "path": "/docs/frontend/custom-ui/custom-view",
+              "sidebar": "Frontend"
+            },
+            {
+              "id": "frontend/custom-ui/registering-resources",
+              "path": "/docs/frontend/custom-ui/registering-resources",
+              "sidebar": "Frontend"
+            },
+            {
+              "id": "frontend/data",
+              "path": "/docs/frontend/data",
+              "sidebar": "Frontend"
+            },
+            {
+              "id": "frontend/design",
+              "path": "/docs/frontend/design",
+              "sidebar": "Frontend"
+            },
+            {
+              "id": "frontend/development",
+              "path": "/docs/frontend/development",
+              "sidebar": "Frontend"
+            },
+            {
+              "id": "frontend/extending/adding-more-info-dialogs",
+              "path": "/docs/frontend/extending/adding-more-info-dialogs",
+              "sidebar": "Frontend"
+            },
+            {
+              "id": "frontend/extending/adding-state-card",
+              "path": "/docs/frontend/extending/adding-state-card",
+              "sidebar": "Frontend"
+            },
+            {
+              "id": "frontend/extending/websocket-api",
+              "path": "/docs/frontend/extending/websocket-api",
+              "sidebar": "Frontend"
+            },
+            {
+              "id": "frontend/external-authentication",
+              "path": "/docs/frontend/external-authentication",
+              "sidebar": "Frontend"
+            },
+            {
+              "id": "frontend/external-bus",
+              "path": "/docs/frontend/external-bus",
+              "sidebar": "Frontend"
+            },
+            {
+              "id": "instance_url",
+              "path": "/docs/instance_url",
+              "sidebar": "Core"
+            },
+            {
+              "id": "integration_events",
+              "path": "/docs/integration_events",
+              "sidebar": "Core"
+            },
+            {
+              "id": "integration_fetching_data",
+              "path": "/docs/integration_fetching_data",
+              "sidebar": "Core"
+            },
+            {
+              "id": "integration_listen_events",
+              "path": "/docs/integration_listen_events",
+              "sidebar": "Core"
+            },
+            {
+              "id": "integration_setup_failures",
+              "path": "/docs/integration_setup_failures",
+              "sidebar": "Core"
+            },
+            {
+              "id": "intent_builtin",
+              "path": "/docs/intent_builtin",
+              "sidebar": "Core"
+            },
+            {
+              "id": "intent_conversation_api",
+              "path": "/docs/intent_conversation_api",
+              "sidebar": "Core"
+            },
+            {
+              "id": "intent_firing",
+              "path": "/docs/intent_firing",
+              "sidebar": "Core"
+            },
+            {
+              "id": "intent_handling",
+              "path": "/docs/intent_handling",
+              "sidebar": "Core"
+            },
+            {
+              "id": "intent_index",
+              "path": "/docs/intent_index",
+              "sidebar": "Core"
+            },
+            {
+              "id": "internationalization",
+              "path": "/docs/internationalization",
+              "sidebar": "Internationalization"
+            },
+            {
+              "id": "internationalization/core",
+              "path": "/docs/internationalization/core",
+              "sidebar": "Internationalization"
+            },
+            {
+              "id": "internationalization/custom_integration",
+              "path": "/docs/internationalization/custom_integration",
+              "sidebar": "Internationalization"
+            },
+            {
+              "id": "misc",
+              "path": "/docs/misc",
+              "sidebar": "Misc"
+            },
+            {
+              "id": "network_discovery",
+              "path": "/docs/network_discovery",
+              "sidebar": "Core"
+            },
+            {
+              "id": "operating-system",
+              "path": "/docs/operating-system",
+              "sidebar": "OperatingSystem"
+            },
+            {
+              "id": "operating-system/board-metadata",
+              "path": "/docs/operating-system/board-metadata",
+              "sidebar": "OperatingSystem"
+            },
+            {
+              "id": "operating-system/debugging",
+              "path": "/docs/operating-system/debugging",
+              "sidebar": "OperatingSystem"
+            },
+            {
+              "id": "operating-system/deployment",
+              "path": "/docs/operating-system/deployment",
+              "sidebar": "OperatingSystem"
+            },
+            {
+              "id": "operating-system/getting-started",
+              "path": "/docs/operating-system/getting-started",
+              "sidebar": "OperatingSystem"
+            },
+            {
+              "id": "operating-system/partition",
+              "path": "/docs/operating-system/partition",
+              "sidebar": "OperatingSystem"
+            },
+            {
+              "id": "operating-system/update-system",
+              "path": "/docs/operating-system/update-system",
+              "sidebar": "OperatingSystem"
+            },
+            {
+              "id": "review-process",
+              "path": "/docs/review-process",
+              "sidebar": "Misc"
+            },
+            {
+              "id": "supervisor",
+              "path": "/docs/supervisor",
+              "sidebar": "Supervisor"
+            },
+            {
+              "id": "supervisor/debugging",
+              "path": "/docs/supervisor/debugging",
+              "sidebar": "Supervisor"
+            },
+            {
+              "id": "supervisor/development",
+              "path": "/docs/supervisor/development",
+              "sidebar": "Supervisor"
+            },
+            {
+              "id": "translations",
+              "path": "/docs/translations",
+              "sidebar": "Internationalization"
+            },
+            {
+              "id": "voice/contributing-your-voice",
+              "path": "/docs/voice/contributing-your-voice",
+              "sidebar": "Voice"
+            },
+            {
+              "id": "voice/intent-recognition/contributing",
+              "path": "/docs/voice/intent-recognition/contributing",
+              "sidebar": "Voice"
+            },
+            {
+              "id": "voice/intent-recognition/index",
+              "path": "/docs/voice/intent-recognition/",
+              "sidebar": "Voice"
+            },
+            {
+              "id": "voice/intent-recognition/style-guide",
+              "path": "/docs/voice/intent-recognition/style-guide",
+              "sidebar": "Voice"
+            },
+            {
+              "id": "voice/intent-recognition/supported-languages",
+              "path": "/docs/voice/intent-recognition/supported-languages",
+              "sidebar": "Voice"
+            },
+            {
+              "id": "voice/intent-recognition/template-sentence-syntax",
+              "path": "/docs/voice/intent-recognition/template-sentence-syntax",
+              "sidebar": "Voice"
+            },
+            {
+              "id": "voice/intent-recognition/test-syntax",
+              "path": "/docs/voice/intent-recognition/test-syntax",
+              "sidebar": "Voice"
+            },
+            {
+              "id": "voice/intents/index",
+              "path": "/docs/voice/intents/",
+              "sidebar": "Voice"
+            },
+            {
+              "id": "voice/language-leaders",
+              "path": "/docs/voice/language-leaders",
+              "sidebar": "Voice"
+            },
+            {
+              "id": "voice/overview",
+              "path": "/docs/voice/overview",
+              "sidebar": "Voice"
+            },
+            {
+              "id": "voice/pipelines/index",
+              "path": "/docs/voice/pipelines/",
+              "sidebar": "Voice"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "Addons": {
+              "link": {
+                "path": "/docs/add-ons",
+                "label": "add-ons"
+              }
+            },
+            "Overview": {
+              "link": {
+                "path": "/docs/architecture_index",
+                "label": "architecture_index"
+              }
+            },
+            "Frontend": {
+              "link": {
+                "path": "/docs/frontend",
+                "label": "frontend"
+              }
+            },
+            "Internationalization": {
+              "link": {
+                "path": "/docs/translations",
+                "label": "translations"
+              }
+            },
+            "OperatingSystem": {
+              "link": {
+                "path": "/docs/operating-system",
+                "label": "operating-system"
+              }
+            },
+            "Supervisor": {
+              "link": {
+                "path": "/docs/supervisor",
+                "label": "supervisor"
+              }
+            },
+            "Core": {
+              "link": {
+                "path": "/docs/development_index",
+                "label": "development_index"
+              }
+            },
+            "Voice": {
+              "link": {
+                "path": "/docs/voice/overview",
+                "label": "voice/overview"
+              }
+            },
+            "Misc": {
+              "link": {
+                "path": "/docs/misc",
+                "label": "misc"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

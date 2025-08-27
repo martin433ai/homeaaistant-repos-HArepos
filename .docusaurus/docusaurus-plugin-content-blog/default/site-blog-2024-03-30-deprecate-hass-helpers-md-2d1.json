@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/2024/03/30/deprecate-hass-helpers",
+  "source": "@site/blog/2024-03-30-deprecate-hass-helpers.md",
+  "title": "Deprecate hass.helpers usage",
+  "description": "As of Home Assistant 2024.5, we deprecate the use of hass.helpers.",
+  "date": "2024-03-30T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.62,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Jan-Philipp Benecke",
+      "url": "https://github.com/jpbede",
+      "imageURL": "https://avatars.githubusercontent.com/u/3989428?s=96&v=4",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Jan-Philipp Benecke",
+    "authorURL": "https://github.com/jpbede",
+    "authorImageURL": "https://avatars.githubusercontent.com/u/3989428?s=96&v=4",
+    "title": "Deprecate hass.helpers usage"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "How uv saves Home Assistant 215 compute hours per month",
+    "permalink": "/blog/2024/04/03/build-images-with-uv"
+  },
+  "nextItem": {
+    "title": "Config Entries can now provide a reconfigure step",
+    "permalink": "/blog/2024/03/21/config-entry-reconfigure-step"
+  }
+}

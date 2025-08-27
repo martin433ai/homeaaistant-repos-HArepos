@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2023/02/03/responses",
+  "source": "@site/blog/2023-02-03-responses.md",
+  "title": "Intent Responses and Whitespace",
+  "description": "The intents repository which powers Assist, has had two important changes.",
+  "date": "2023-02-03T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.745,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Michael Hansen",
+      "url": "https://twitter.com/rhasspy",
+      "imageURL": "/img/profile/mike_hansen.png",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Michael Hansen",
+    "authorURL": "https://twitter.com/rhasspy",
+    "authorImageURL": "/img/profile/mike_hansen.png",
+    "authorTwitter": "rhasspy",
+    "title": "Intent Responses and Whitespace"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Translation files removed from Core repository",
+    "permalink": "/blog/2023/02/06/translations-files-removed-from-core"
+  },
+  "nextItem": {
+    "title": "Sensor entity can now do rounding of numerical values",
+    "permalink": "/blog/2023/01/25/sensor_rounding"
+  }
+}

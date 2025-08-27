@@ -1,0 +1,28 @@
+{
+  "id": "core/entity/light",
+  "title": "Light entity",
+  "description": "A light entity controls the brightness, hue and saturation color value, white value, color temperature and effects of a light source. Derive platform entities from homeassistant.components.light.LightEntity.",
+  "source": "@site/docs/core/entity/light.md",
+  "sourceDirName": "core/entity",
+  "slug": "/core/entity/light",
+  "permalink": "/docs/core/entity/light",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/entity/light.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Light entity",
+    "sidebar_label": "Light"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Lawn mower",
+    "permalink": "/docs/core/entity/lawn-mower"
+  },
+  "next": {
+    "title": "Lock",
+    "permalink": "/docs/core/entity/lock"
+  }
+}

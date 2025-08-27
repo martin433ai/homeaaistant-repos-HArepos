@@ -1,0 +1,28 @@
+{
+  "id": "core/entity/conversation",
+  "title": "Conversation entity",
+  "description": "A conversation entity allows users to converse with Home Assistant.",
+  "source": "@site/docs/core/entity/conversation.md",
+  "sourceDirName": "core/entity",
+  "slug": "/core/entity/conversation",
+  "permalink": "/docs/core/entity/conversation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/entity/conversation.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Conversation entity",
+    "sidebar_label": "Conversation"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Climate",
+    "permalink": "/docs/core/entity/climate"
+  },
+  "next": {
+    "title": "Cover",
+    "permalink": "/docs/core/entity/cover"
+  }
+}

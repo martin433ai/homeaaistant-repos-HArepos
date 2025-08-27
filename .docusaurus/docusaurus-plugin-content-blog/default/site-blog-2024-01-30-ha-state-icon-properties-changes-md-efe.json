@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2024/01/30/ha-state-icon-properties-changes",
+  "source": "@site/blog/2024-01-30-ha-state-icon-properties-changes.md",
+  "title": "Properties changes for ha-state-icon",
+  "description": "In Home Assistant 2024.2, integrations have a new way to provide icons. To support this new feature, ha-state-icon component properties have changed.",
+  "date": "2024-01-30T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.515,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Paul Bottein",
+      "url": "https://github.com/piitaya",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Paul Bottein",
+    "authorURL": "https://github.com/piitaya",
+    "title": "Properties changes for ha-state-icon"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "It is now required for lights to set color mode",
+    "permalink": "/blog/2024/02/12/light-color-mode-mandatory"
+  },
+  "nextItem": {
+    "title": "New entity features in Climate entity",
+    "permalink": "/blog/2024/01/24/climate-climateentityfeatures-expanded"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "core/entity/calendar",
+  "title": "Calendar entity",
+  "description": "A calendar entity is an entity that represents a set of events with a start",
+  "source": "@site/docs/core/entity/calendar.md",
+  "sourceDirName": "core/entity",
+  "slug": "/core/entity/calendar",
+  "permalink": "/docs/core/entity/calendar",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/entity/calendar.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Calendar entity",
+    "sidebar_label": "Calendar"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Button",
+    "permalink": "/docs/core/entity/button"
+  },
+  "next": {
+    "title": "Camera",
+    "permalink": "/docs/core/entity/camera"
+  }
+}

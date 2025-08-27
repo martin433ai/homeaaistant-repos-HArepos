@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2022/12/08/multi-pan-rollback",
+  "source": "@site/blog/2022-12-08-multi-pan-rollback.md",
+  "title": "Multi-pan temporarily disabled",
+  "description": "Update: multi-pan has been fixed and users can once again opt-in to the experimental version starting Home Assistant 2023.2.",
+  "date": "2022-12-08T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.135,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Paulus Schoutsen",
+      "url": "https://twitter.com/balloob",
+      "imageURL": "/img/profile/paulus.jpg",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Paulus Schoutsen",
+    "authorURL": "https://twitter.com/balloob",
+    "authorImageURL": "/img/profile/paulus.jpg",
+    "authorTwitter": "balloob",
+    "title": "Multi-pan temporarily disabled"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Database schema v32 updates",
+    "permalink": "/blog/2023/01/02/db-schema-v32"
+  },
+  "nextItem": {
+    "title": "Entity state color changes",
+    "permalink": "/blog/2022/12/07/entity-color-changes"
+  }
+}

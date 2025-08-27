@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2023/06/28/service-description-filters",
+  "source": "@site/blog/2023-06-28-service-description-filters.md",
+  "title": "Service call description filters",
+  "description": "Service call descriptions have been changed to support filtering.",
+  "date": "2023-06-28T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.52,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Erik Montnémery",
+      "url": "https://github.com/emontnemery",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Erik Montnémery",
+    "authorURL": "https://github.com/emontnemery",
+    "title": "Service call description filters"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Changes to entity naming",
+    "permalink": "/blog/2023/06/28/entity-name-changes"
+  },
+  "nextItem": {
+    "title": "Service Call API changes",
+    "permalink": "/blog/2023/06/14/service-calls"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2023/02/09/hassgetstate",
+  "source": "@site/blog/2023-02-09-hassgetstate.md",
+  "title": "The HassGetState intent",
+  "description": "We've added a new built-in intent: HassGetState",
+  "date": "2023-02-09T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.87,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Michael Hansen",
+      "url": "https://twitter.com/rhasspy",
+      "imageURL": "/img/profile/mike_hansen.png",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Michael Hansen",
+    "authorURL": "https://twitter.com/rhasspy",
+    "authorImageURL": "/img/profile/mike_hansen.png",
+    "authorTwitter": "rhasspy",
+    "title": "The HassGetState intent"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Refactor json helper and utility",
+    "permalink": "/blog/2023/02/15/json"
+  },
+  "nextItem": {
+    "title": "The number of decimals used when displaying a sensor state is now configurable",
+    "permalink": "/blog/2023/02/08/sensor_presentation_rounding"
+  }
+}

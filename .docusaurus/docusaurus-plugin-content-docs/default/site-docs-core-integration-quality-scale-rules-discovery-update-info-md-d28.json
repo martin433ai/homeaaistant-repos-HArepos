@@ -1,0 +1,27 @@
+{
+  "id": "core/integration-quality-scale/rules/discovery-update-info",
+  "title": "Integration uses discovery info to update network information",
+  "description": "Reasoning",
+  "source": "@site/docs/core/integration-quality-scale/rules/discovery-update-info.md",
+  "sourceDirName": "core/integration-quality-scale/rules",
+  "slug": "/core/integration-quality-scale/rules/discovery-update-info",
+  "permalink": "/docs/core/integration-quality-scale/rules/discovery-update-info",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/integration-quality-scale/rules/discovery-update-info.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Integration uses discovery info to update network information"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Implements diagnostics",
+    "permalink": "/docs/core/integration-quality-scale/rules/diagnostics"
+  },
+  "next": {
+    "title": "Can be discovered",
+    "permalink": "/docs/core/integration-quality-scale/rules/discovery"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/2024/12/21/moving-to-pydantic-v2",
+  "source": "@site/blog/2024-12-21-moving-to-pydantic-v2.md",
+  "title": "Moving to Pydantic v2",
+  "description": "Pydantic is a widely used library in Python for data validation. On June 30, 2023, Pydantic v2 was released, introducing significant changes that are not backward compatible with Pydantic v1.",
+  "date": "2024-12-21T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.685,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Joost Lekkerkerker",
+      "url": "https://github.com/joostlek",
+      "imageURL": "https://avatars.githubusercontent.com/u/7083755?v=4",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Joost Lekkerkerker",
+    "authorURL": "https://github.com/joostlek",
+    "authorImageURL": "https://avatars.githubusercontent.com/u/7083755?v=4",
+    "title": "Moving to Pydantic v2"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "New area device class",
+    "permalink": "/blog/2024/12/26/area-squared-units"
+  },
+  "nextItem": {
+    "title": "Use Kelvin as the preferred color temperature unit",
+    "permalink": "/blog/2024/12/14/kelvin-preferred-color-temperature-unit"
+  }
+}

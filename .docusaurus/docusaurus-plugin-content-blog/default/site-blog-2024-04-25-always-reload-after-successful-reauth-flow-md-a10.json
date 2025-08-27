@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/2024/04/25/always-reload-after-successful-reauth-flow",
+  "source": "@site/blog/2024-04-25-always-reload-after-successful-reauth-flow.md",
+  "title": "Always reload after a successful re-auth flow",
+  "description": "Always reload after successful reauthentication",
+  "date": "2024-04-25T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.02,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Jan Bouwhuis",
+      "url": "https://github.com/jbouwh",
+      "imageURL": "https://avatars.githubusercontent.com/u/7188918?s=96&v=4",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Jan Bouwhuis",
+    "authorURL": "https://github.com/jbouwh",
+    "authorImageURL": "https://avatars.githubusercontent.com/u/7188918?s=96&v=4",
+    "title": "Always reload after a successful re-auth flow"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Store runtime data inside the config entry",
+    "permalink": "/blog/2024/04/30/store-runtime-data-inside-config-entry"
+  },
+  "nextItem": {
+    "title": "Replacing `async_track_state_change` with `async_track_state_change_event`",
+    "permalink": "/blog/2024/04/13/deprecate_async_track_state_change"
+  }
+}

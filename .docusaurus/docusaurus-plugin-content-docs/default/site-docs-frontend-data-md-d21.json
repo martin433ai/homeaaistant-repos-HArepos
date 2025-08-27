@@ -1,0 +1,28 @@
+{
+  "id": "frontend/data",
+  "title": "Frontend data",
+  "description": "The frontend passes a single hass object around. This object contains the latest state, allows you to send commands back to the server and provides helpers to format entity state.",
+  "source": "@site/docs/frontend/data.md",
+  "sourceDirName": "frontend",
+  "slug": "/frontend/data",
+  "permalink": "/docs/frontend/data",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/frontend/data.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Frontend data",
+    "sidebar_label": "Data"
+  },
+  "sidebar": "Frontend",
+  "previous": {
+    "title": "Development",
+    "permalink": "/docs/frontend/development"
+  },
+  "next": {
+    "title": "External authentication",
+    "permalink": "/docs/frontend/external-authentication"
+  }
+}

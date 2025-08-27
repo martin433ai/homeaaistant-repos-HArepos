@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2024/07/24/climate-min-max-temperature-check",
+  "source": "@site/blog/2024-07-24-climate-min-max-temperature-check.md",
+  "title": "Climate entity now validates temperature provided in action calls",
+  "description": "As of Home Assistant Core 2024.8, we have implemented validation for the temperature action call provided by the ClimateEntity.",
+  "date": "2024-07-24T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.685,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "G Johansson",
+      "url": "https://github.com/gjohansson-ST",
+      "imageURL": "https://avatars.githubusercontent.com/u/62932417?v=4",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "G Johansson",
+    "authorURL": "https://github.com/gjohansson-ST",
+    "authorImageURL": "https://avatars.githubusercontent.com/u/62932417?v=4",
+    "authorTwitter": "GJohansson",
+    "title": "Climate entity now validates temperature provided in action calls"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Set up your DataUpdateCoordinator with a setup method",
+    "permalink": "/blog/2024/08/05/coordinator_async_setup"
+  },
+  "nextItem": {
+    "title": "New entity feature flags in FanEntity",
+    "permalink": "/blog/2024/07/19/fan-fanentityfeatures-turn-on_off"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2023/02/15/json",
+  "source": "@site/blog/2023-02-15-json.md",
+  "title": "Refactor json helper and utility",
+  "description": "As of Home Assistant Core 2023.3, some constants and functions have been moved",
+  "date": "2023-02-15T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.245,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "epenet",
+      "url": "https://github.com/epenet",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "epenet",
+    "authorURL": "https://github.com/epenet",
+    "title": "Refactor json helper and utility"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Added support for snapshot testing",
+    "permalink": "/blog/2023/02/20/snapshot-testing"
+  },
+  "nextItem": {
+    "title": "The HassGetState intent",
+    "permalink": "/blog/2023/02/09/hassgetstate"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "architecture/core",
+  "title": "Core architecture",
+  "description": "The Home Assistant Core consists of four main parts. On top of this it includes many helper classes to deal with common scenarios, like providing an entity or dealing with locations.",
+  "source": "@site/docs/architecture/core.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/core",
+  "permalink": "/docs/architecture/core",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/architecture/core.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Core architecture",
+    "sidebar_label": "Core"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/development_index"
+  },
+  "next": {
+    "title": "Integrations",
+    "permalink": "/docs/architecture_components"
+  }
+}

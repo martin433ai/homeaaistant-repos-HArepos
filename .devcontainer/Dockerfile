@@ -1,14 +1,14 @@
-# See here for image contents: https://github.com/microsoft/vscode-dev-containers/tree/v0.158.0/containers/typescript-node/.devcontainer/base.Dockerfile
+# Use an official Python image as the base image
+FROM python:3.10-slim
 
-ARG VARIANT="18"
-FROM mcr.microsoft.com/vscode/devcontainers/typescript-node:0-${VARIANT}
+# Set the working directory
+WORKDIR /app
 
-# Set an environment variable to be able to detect we are in dev container
-ENV NODE_ENV=devcontainer
+# Copy the application files
+COPY . /app
 
-EXPOSE 3000
+# Install dependencies
+RUN pip install --no-cache-dir -r requirements.txt
 
-COPY .nvmrc /tmp/.nvmrc
-RUN \
-  su node -c \
-    "source /usr/local/share/nvm/nvm.sh && nvm install $(cat /tmp/.nvmrc) 2>&1"
+# Set the default command
+CMD ["python", "main.py"]

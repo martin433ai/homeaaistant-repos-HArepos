@@ -1,0 +1,27 @@
+{
+  "id": "core/integration-quality-scale/rules/diagnostics",
+  "title": "Implements diagnostics",
+  "description": "Reasoning",
+  "source": "@site/docs/core/integration-quality-scale/rules/diagnostics.md",
+  "sourceDirName": "core/integration-quality-scale/rules",
+  "slug": "/core/integration-quality-scale/rules/diagnostics",
+  "permalink": "/docs/core/integration-quality-scale/rules/diagnostics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/integration-quality-scale/rules/diagnostics.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Implements diagnostics"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "The integration creates devices",
+    "permalink": "/docs/core/integration-quality-scale/rules/devices"
+  },
+  "next": {
+    "title": "Integration uses discovery info to update network information",
+    "permalink": "/docs/core/integration-quality-scale/rules/discovery-update-info"
+  }
+}

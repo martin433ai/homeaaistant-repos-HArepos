@@ -1,0 +1,28 @@
+{
+  "id": "core/entity/sensor",
+  "title": "Sensor entity",
+  "description": "A sensor is a read-only entity that provides some information. Information has a value and optionally, a unit of measurement. Derive entity platforms from homeassistant.components.sensor.SensorEntity",
+  "source": "@site/docs/core/entity/sensor.md",
+  "sourceDirName": "core/entity",
+  "slug": "/core/entity/sensor",
+  "permalink": "/docs/core/entity/sensor",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/entity/sensor.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Sensor entity",
+    "sidebar_label": "Sensor"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Select",
+    "permalink": "/docs/core/entity/select"
+  },
+  "next": {
+    "title": "Siren",
+    "permalink": "/docs/core/entity/siren"
+  }
+}

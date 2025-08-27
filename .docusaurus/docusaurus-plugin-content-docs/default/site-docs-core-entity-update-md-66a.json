@@ -1,0 +1,28 @@
+{
+  "id": "core/entity/update",
+  "title": "Update entity",
+  "description": "An update entity is an entity that indicates if an update is available for a",
+  "source": "@site/docs/core/entity/update.md",
+  "sourceDirName": "core/entity",
+  "slug": "/core/entity/update",
+  "permalink": "/docs/core/entity/update",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/entity/update.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Update entity",
+    "sidebar_label": "Update"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Text-to-speech",
+    "permalink": "/docs/core/entity/tts"
+  },
+  "next": {
+    "title": "Vacuum",
+    "permalink": "/docs/core/entity/vacuum"
+  }
+}

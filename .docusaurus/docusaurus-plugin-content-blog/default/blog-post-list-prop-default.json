@@ -1,0 +1,35 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "Energy by distance units",
+      "permalink": "/blog/2025/01/31/energy-distance-units",
+      "unlisted": false,
+      "date": "2025-01-31T00:00:00.000Z"
+    },
+    {
+      "title": "Relocate dhcp/ssdp/usb/zeroconf ServiceInfo models",
+      "permalink": "/blog/2025/01/15/service-info",
+      "unlisted": false,
+      "date": "2025-01-15T00:00:00.000Z"
+    },
+    {
+      "title": "New area device class",
+      "permalink": "/blog/2024/12/26/area-squared-units",
+      "unlisted": false,
+      "date": "2024-12-26T00:00:00.000Z"
+    },
+    {
+      "title": "Moving to Pydantic v2",
+      "permalink": "/blog/2024/12/21/moving-to-pydantic-v2",
+      "unlisted": false,
+      "date": "2024-12-21T00:00:00.000Z"
+    },
+    {
+      "title": "Use Kelvin as the preferred color temperature unit",
+      "permalink": "/blog/2024/12/14/kelvin-preferred-color-temperature-unit",
+      "unlisted": false,
+      "date": "2024-12-14T00:00:00.000Z"
+    }
+  ]
+}

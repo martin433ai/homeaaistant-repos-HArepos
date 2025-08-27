@@ -1,0 +1,27 @@
+{
+  "id": "creating_integration_brand",
+  "title": "Brands",
+  "description": "A commercial brand may have several integrations which provide support for different offerings under that brand. Also, a brand may offer devices which comply with an IoT standard, for example Zigbee or Z-Wave.",
+  "source": "@site/docs/creating_integration_brand.md",
+  "sourceDirName": ".",
+  "slug": "/creating_integration_brand",
+  "permalink": "/docs/creating_integration_brand",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/creating_integration_brand.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Brands"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Authenticated WebView",
+    "permalink": "/docs/api/native-app-integration/webview"
+  },
+  "next": {
+    "title": "Application credentials",
+    "permalink": "/docs/core/platform/application_credentials"
+  }
+}

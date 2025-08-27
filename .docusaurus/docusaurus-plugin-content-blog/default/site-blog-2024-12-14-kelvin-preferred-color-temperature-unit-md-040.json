@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2024/12/14/kelvin-preferred-color-temperature-unit",
+  "source": "@site/blog/2024-12-14-kelvin-preferred-color-temperature-unit.md",
+  "title": "Use Kelvin as the preferred color temperature unit",
+  "description": "Summary of changes",
+  "date": "2024-12-14T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.675,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "epenet",
+      "url": "https://github.com/epenet",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "epenet",
+    "authorURL": "https://github.com/epenet",
+    "title": "Use Kelvin as the preferred color temperature unit"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Moving to Pydantic v2",
+    "permalink": "/blog/2024/12/21/moving-to-pydantic-v2"
+  },
+  "nextItem": {
+    "title": "Changed name of WaterHeaterEntityDescription",
+    "permalink": "/blog/2024/12/13/water-heater-entity-description"
+  }
+}

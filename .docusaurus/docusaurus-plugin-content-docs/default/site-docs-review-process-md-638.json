@@ -1,0 +1,27 @@
+{
+  "id": "review-process",
+  "title": "Pull request review process",
+  "description": "The Home Assistant project consists of many smaller projects in many GitHub",
+  "source": "@site/docs/review-process.md",
+  "sourceDirName": ".",
+  "slug": "/review-process",
+  "permalink": "/docs/review-process",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/review-process.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Pull request review process"
+  },
+  "sidebar": "Misc",
+  "previous": {
+    "title": "Miscellaneous",
+    "permalink": "/docs/misc"
+  },
+  "next": {
+    "title": "Documentation",
+    "permalink": "/docs/documenting"
+  }
+}

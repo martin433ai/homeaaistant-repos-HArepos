@@ -1,0 +1,30 @@
+{
+  "id": "core/integration-quality-scale/rules/entity-unique-id",
+  "title": "Entities have a unique ID",
+  "description": "Reasoning",
+  "source": "@site/docs/core/integration-quality-scale/rules/entity-unique-id.md",
+  "sourceDirName": "core/integration-quality-scale/rules",
+  "slug": "/core/integration-quality-scale/rules/entity-unique-id",
+  "permalink": "/docs/core/integration-quality-scale/rules/entity-unique-id",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/integration-quality-scale/rules/entity-unique-id.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Entities have a unique ID",
+    "related_rules": [
+      "unique-config-entry"
+    ]
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Entities event setup",
+    "permalink": "/docs/core/integration-quality-scale/rules/entity-event-setup"
+  },
+  "next": {
+    "title": "Entities use has_entity_name = True",
+    "permalink": "/docs/core/integration-quality-scale/rules/has-entity-name"
+  }
+}

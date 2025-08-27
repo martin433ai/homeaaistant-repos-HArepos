@@ -1,0 +1,19 @@
+{
+  "id": "architecture_index",
+  "title": "Architecture overview",
+  "description": "Home Assistant provides a platform for home control and home automation. Home Assistant is not just an application onboarding, configuration and updating is all done via an easy to use interface.",
+  "source": "@site/docs/architecture_index.md",
+  "sourceDirName": ".",
+  "slug": "/architecture_index",
+  "permalink": "/docs/architecture_index",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/architecture_index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Architecture overview"
+  },
+  "sidebar": "Overview"
+}

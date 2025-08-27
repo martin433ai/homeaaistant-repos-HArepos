@@ -1,0 +1,33 @@
+{
+  "permalink": "/blog/2024/12/13/water-heater-entity-description",
+  "source": "@site/blog/2024-12-13-water-heater-entity-description.md",
+  "title": "Changed name of WaterHeaterEntityDescription",
+  "description": "A naming error of the entity description was found in the Water Heater integration, and we have now renamed WaterHeaterEntityEntityDescription to WaterHeaterEntityDescription in the 2025.1 release.",
+  "date": "2024-12-13T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.265,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "L Boué",
+      "url": "https://github.com/lboue",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "L Boué",
+    "authorURL": "https://github.com/lboue",
+    "authorTwitter": "lboue",
+    "title": "Changed name of WaterHeaterEntityDescription"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Use Kelvin as the preferred color temperature unit",
+    "permalink": "/blog/2024/12/14/kelvin-preferred-color-temperature-unit"
+  },
+  "nextItem": {
+    "title": "New vacuum state property",
+    "permalink": "/blog/2024/12/08/new-vacuum-state-property"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "core/integration-quality-scale/rules/docs-supported-devices",
+  "title": "The documentation describes known supported / unsupported devices",
+  "description": "Reasoning",
+  "source": "@site/docs/core/integration-quality-scale/rules/docs-supported-devices.md",
+  "sourceDirName": "core/integration-quality-scale/rules",
+  "slug": "/core/integration-quality-scale/rules/docs-supported-devices",
+  "permalink": "/docs/core/integration-quality-scale/rules/docs-supported-devices",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/integration-quality-scale/rules/docs-supported-devices.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "The documentation describes known supported / unsupported devices"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "The documentation describes known limitations of the integration (not to be confused with bugs)",
+    "permalink": "/docs/core/integration-quality-scale/rules/docs-known-limitations"
+  },
+  "next": {
+    "title": "The documentation describes the supported functionality, including entities, and platforms",
+    "permalink": "/docs/core/integration-quality-scale/rules/docs-supported-functions"
+  }
+}

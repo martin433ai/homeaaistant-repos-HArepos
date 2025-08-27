@@ -1,0 +1,33 @@
+{
+  "permalink": "/blog/2023/08/29/hass-format-state",
+  "source": "@site/blog/2023-08-29-hass-format-state.md",
+  "title": "Entity state formatting",
+  "description": "In the Home Assistant Core 2023.9 release, we introduced 3 new methods to the hass object to allow entity state formatting with localization support for custom cards:",
+  "date": "2023-08-29T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.345,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Paul Bottein",
+      "url": "https://github.com/piitaya",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Paul Bottein",
+    "authorURL": "https://github.com/piitaya",
+    "authorTwitter": "piitaya",
+    "title": "Entity state formatting"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "The websocket command entity/source has been modified",
+    "permalink": "/blog/2023/09/12/ws-entity-source-simplified"
+  },
+  "nextItem": {
+    "title": "HomeAssistant.__init__ requires passing a string to it",
+    "permalink": "/blog/2023/08/29/homeassistant-changed-signature"
+  }
+}

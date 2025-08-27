@@ -1,0 +1,27 @@
+{
+  "id": "documenting",
+  "title": "Documentation",
+  "description": "The user documentation is located at https://www.home-assistant.io. This section is the place where we provide documentation and additional details about creating or modifying content.",
+  "source": "@site/docs/documenting.md",
+  "sourceDirName": ".",
+  "slug": "/documenting",
+  "permalink": "/docs/documenting",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/documenting.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Documentation"
+  },
+  "sidebar": "Misc",
+  "previous": {
+    "title": "Pull request review process",
+    "permalink": "/docs/review-process"
+  },
+  "next": {
+    "title": "Standards",
+    "permalink": "/docs/documenting/standards"
+  }
+}

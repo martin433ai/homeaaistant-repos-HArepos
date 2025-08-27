@@ -1,0 +1,33 @@
+{
+  "permalink": "/blog/2022/05/03/constants-deprecations",
+  "source": "@site/blog/2022-05-03-constants-deprecations.md",
+  "title": "Constant deprecations for 2022.5",
+  "description": "For Home Assistant Core 2022.5, we have deprecated many constants and replaced",
+  "date": "2022-05-03T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.675,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Franck Nijhof",
+      "url": "https://twitter.com/frenck",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Franck Nijhof",
+    "authorURL": "https://twitter.com/frenck",
+    "authorTwitter": "frenck",
+    "title": "Constant deprecations for 2022.5"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "S6-Overlay 3.x update on our docker base images",
+    "permalink": "/blog/2022/05/12/s6-overlay-base-images"
+  },
+  "nextItem": {
+    "title": "ServiceInfo model improvements and deprecations",
+    "permalink": "/blog/2022/05/03/serviceinfo-model-improvements"
+  }
+}

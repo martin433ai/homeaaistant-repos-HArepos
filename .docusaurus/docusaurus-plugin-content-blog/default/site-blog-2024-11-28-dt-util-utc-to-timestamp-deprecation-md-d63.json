@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2024/11/28/dt-util-utc-to-timestamp-deprecation",
+  "source": "@site/blog/2024-11-28-dt-util-utc-to-timestamp-deprecation.md",
+  "title": "Utility function homeassistant.util.dt.utc_to_timestamp is deprecated",
+  "description": "The utility function homeassistant.util.dt.utctotimestamp is deprecated and will be removed in Home Assistant Core 2026.1, custom integrations which call it should instead call the stdlib method datetime.datetime.timestamp()",
+  "date": "2024-11-28T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.265,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Erik Montnemery",
+      "url": "https://github.com/emontnemery",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Erik Montnemery",
+    "authorURL": "https://github.com/emontnemery",
+    "title": "Utility function homeassistant.util.dt.utc_to_timestamp is deprecated"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Climate entity now supports independent horizontal swing",
+    "permalink": "/blog/2024/12/03/climate-horizontal-swing"
+  },
+  "nextItem": {
+    "title": "Camera API changes",
+    "permalink": "/blog/2024/11/26/camera-deprecations"
+  }
+}

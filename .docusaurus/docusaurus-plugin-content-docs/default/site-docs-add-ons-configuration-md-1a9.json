@@ -1,0 +1,27 @@
+{
+  "id": "add-ons/configuration",
+  "title": "Add-on configuration",
+  "description": "Each add-on is stored in a folder. The file structure looks like this:",
+  "source": "@site/docs/add-ons/configuration.md",
+  "sourceDirName": "add-ons",
+  "slug": "/add-ons/configuration",
+  "permalink": "/docs/add-ons/configuration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/add-ons/configuration.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Add-on configuration"
+  },
+  "sidebar": "Addons",
+  "previous": {
+    "title": "Tutorial: Making your first add-on",
+    "permalink": "/docs/add-ons/tutorial"
+  },
+  "next": {
+    "title": "Add-on communication",
+    "permalink": "/docs/add-ons/communication"
+  }
+}

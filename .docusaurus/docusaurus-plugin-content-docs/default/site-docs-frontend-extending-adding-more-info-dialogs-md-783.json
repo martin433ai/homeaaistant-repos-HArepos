@@ -1,0 +1,27 @@
+{
+  "id": "frontend/extending/adding-more-info-dialogs",
+  "title": "Adding more info dialogs",
+  "description": "Whenever the user taps or clicks on one of the cards, a more info dialog will show. The header of this dialog will be the state card, followed by the history of this entity for the last 24 hours. Below this the more info component is rendered for that entity. The more info component can show more information or allow more ways of control.",
+  "source": "@site/docs/frontend/extending/adding-more-info-dialogs.md",
+  "sourceDirName": "frontend/extending",
+  "slug": "/frontend/extending/adding-more-info-dialogs",
+  "permalink": "/docs/frontend/extending/adding-more-info-dialogs",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/frontend/extending/adding-more-info-dialogs.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Adding more info dialogs"
+  },
+  "sidebar": "Frontend",
+  "previous": {
+    "title": "Adding state card",
+    "permalink": "/docs/frontend/extending/adding-state-card"
+  },
+  "next": {
+    "title": "Extending the WebSocket API",
+    "permalink": "/docs/frontend/extending/websocket-api"
+  }
+}

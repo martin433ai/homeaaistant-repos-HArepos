@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2024/05/19/fix_zoneinfo_blocking_io",
+  "source": "@site/blog/2024-05-19-fix_zoneinfo_blocking_io.md",
+  "title": "Handling time zones without blocking the event loop",
+  "description": "Constructing ZoneInfo objects may do blocking I/O to load the zone info from disk if the timezone passed is not in the cache.",
+  "date": "2024-05-19T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.57,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "J. Nick Koston",
+      "url": "https://github.com/bdraco",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "J. Nick Koston",
+    "authorURL": "https://github.com/bdraco",
+    "title": "Handling time zones without blocking the event loop"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Exposing Home Assistant API to LLMs",
+    "permalink": "/blog/2024/05/20/llm-api"
+  },
+  "nextItem": {
+    "title": "Changes in setup entity platforms with group integration",
+    "permalink": "/blog/2024/05/10/group-integration"
+  }
+}

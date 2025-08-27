@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2024/01/19/icon-translations",
+  "source": "@site/blog/2024-01-19-icon-translations.md",
+  "title": "Icon translations",
+  "description": "In Home Assistant 2024.2, we will introduce a new way to provide icons for integrations: Icon translations.",
+  "date": "2024-01-19T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.23,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Franck Nijhof",
+      "url": "https://twitter.com/frenck",
+      "imageURL": "/img/profile/frenck.png",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Franck Nijhof",
+    "authorURL": "https://twitter.com/frenck",
+    "authorImageURL": "/img/profile/frenck.png",
+    "authorTwitter": "frenck",
+    "title": "Icon translations"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Introducing entity translation placeholders",
+    "permalink": "/blog/2024/01/19/entity-translations-placeholders"
+  },
+  "nextItem": {
+    "title": "Deprecate invalid use of sensor unit of measurement and state class",
+    "permalink": "/blog/2024/01/17/deprecate-invalid-sensor-uom-state-class-use"
+  }
+}

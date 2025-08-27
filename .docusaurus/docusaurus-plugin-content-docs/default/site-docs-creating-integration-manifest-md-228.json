@@ -1,0 +1,28 @@
+{
+  "id": "creating_integration_manifest",
+  "title": "Integration manifest",
+  "description": "Every integration has a manifest file to specify its basic information. This file is stored as manifest.json in your integration directory. It is required to add such a file.",
+  "source": "@site/docs/creating_integration_manifest.md",
+  "sourceDirName": ".",
+  "slug": "/creating_integration_manifest",
+  "permalink": "/docs/creating_integration_manifest",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/creating_integration_manifest.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Integration manifest",
+    "sidebar_label": "Manifest"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Tests file structure",
+    "permalink": "/docs/creating_integration_tests_file_structure"
+  },
+  "next": {
+    "title": "Config flow",
+    "permalink": "/docs/config_entries_config_flow_handler"
+  }
+}

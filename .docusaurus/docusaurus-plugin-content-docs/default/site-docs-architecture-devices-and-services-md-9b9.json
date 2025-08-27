@@ -1,0 +1,28 @@
+{
+  "id": "architecture/devices-and-services",
+  "title": "Entities: integrating devices & services",
+  "description": "Integrations can represent devices & services in Home Assistant. The data points are represented as entities. Entities are standardized by other integrations like light, switch, etc. Standardized entities come with actions for control, but an integration can also provide their own service actions in case something is not standardized.",
+  "source": "@site/docs/architecture/devices-and-services.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/devices-and-services",
+  "permalink": "/docs/architecture/devices-and-services",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/architecture/devices-and-services.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Entities: integrating devices & services",
+    "sidebar_label": "Introduction"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Weather",
+    "permalink": "/docs/core/entity/weather"
+  },
+  "next": {
+    "title": "Entity registry",
+    "permalink": "/docs/entity_registry_index"
+  }
+}

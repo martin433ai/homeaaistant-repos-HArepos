@@ -1,0 +1,28 @@
+{
+  "id": "core/entity/binary-sensor",
+  "title": "Binary sensor entity",
+  "description": "A binary sensor is a sensor that can only have two states. Derive entity platforms from homeassistant.components.binarysensor.BinarySensorEntity",
+  "source": "@site/docs/core/entity/binary-sensor.md",
+  "sourceDirName": "core/entity",
+  "slug": "/core/entity/binary-sensor",
+  "permalink": "/docs/core/entity/binary-sensor",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/entity/binary-sensor.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Binary sensor entity",
+    "sidebar_label": "Binary sensor"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Assist satellite",
+    "permalink": "/docs/core/entity/assist-satellite"
+  },
+  "next": {
+    "title": "Button",
+    "permalink": "/docs/core/entity/button"
+  }
+}

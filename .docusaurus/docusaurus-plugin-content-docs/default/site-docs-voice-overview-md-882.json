@@ -1,0 +1,24 @@
+{
+  "id": "voice/overview",
+  "title": "Voice in Home Assistant",
+  "description": "Building a voice assistant is a complex task. It requires a lot of different technologies to work together. This page will give you an overview of the different parts inside Home Assistant and how they will work together.",
+  "source": "@site/docs/voice/overview.md",
+  "sourceDirName": "voice",
+  "slug": "/voice/overview",
+  "permalink": "/docs/voice/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/voice/overview.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Voice in Home Assistant",
+    "sidebar_label": "Overview"
+  },
+  "sidebar": "Voice",
+  "next": {
+    "title": "Intents",
+    "permalink": "/docs/voice/intents/"
+  }
+}

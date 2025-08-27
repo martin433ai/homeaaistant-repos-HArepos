@@ -1,0 +1,33 @@
+{
+  "permalink": "/blog/2020/10/29/supervisor-update",
+  "source": "@site/blog/2020-10-29-supervisor-update.md",
+  "title": "Upcoming changes to add-ons",
+  "description": "GitHub Action",
+  "date": "2020-10-29T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 3.6,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Joakim Sørensen",
+      "url": "https://github.com/ludeeus",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Joakim Sørensen",
+    "authorURL": "https://github.com/ludeeus",
+    "authorTwitter": "ludeeus",
+    "title": "Upcoming changes to add-ons"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "System Health and Templates",
+    "permalink": "/blog/2020/11/09/system-health-and-templates"
+  },
+  "nextItem": {
+    "title": "Lazy-loading more-info controls",
+    "permalink": "/blog/2020/10/02/lazyMoreInfo"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "auth_auth_module",
+  "title": "Multi-factor authentication modules",
+  "description": "Multi-factor Authentication Modules are used in conjunction with Authentication Provider to provide a fully configurable authentication framework. Each MFA module may provide one multi-factor authentication function. User can enable multiple mfa modules, but can only select one module in login process.",
+  "source": "@site/docs/auth_auth_module.md",
+  "sourceDirName": ".",
+  "slug": "/auth_auth_module",
+  "permalink": "/docs/auth_auth_module",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/auth_auth_module.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Multi-factor authentication modules"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Authentication providers",
+    "permalink": "/docs/auth_auth_provider"
+  },
+  "next": {
+    "title": "Config entries",
+    "permalink": "/docs/config_entries_index"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "development_submitting",
+  "title": "Submit your work",
+  "description": "Always base your Pull Requests off of the current dev branch, not master.",
+  "source": "@site/docs/development_submitting.md",
+  "sourceDirName": ".",
+  "slug": "/development_submitting",
+  "permalink": "/docs/development_submitting",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/development_submitting.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Submit your work"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Set up development environment",
+    "permalink": "/docs/development_environment"
+  },
+  "next": {
+    "title": "Style guidelines",
+    "permalink": "/docs/development_guidelines"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2024/05/01/improved-hass-data-typing",
+  "source": "@site/blog/2024-05-01-improved-hass-data-typing.md",
+  "title": "Improved typing for hass.data",
+  "description": "In the past, one of the challenges with hass.data was to correctly assign type information. Since it was typed as dict[str, Any], the only options were annotation assignments or cast like:",
+  "date": "2024-05-01T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.335,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Marc Mueller",
+      "url": "https://github.com/cdce8p",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Marc Mueller",
+    "authorURL": "https://github.com/cdce8p",
+    "title": "Improved typing for hass.data"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Second phase of notify entity platform implementation",
+    "permalink": "/blog/2024/05/03/notify-title"
+  },
+  "nextItem": {
+    "title": "Store runtime data inside the config entry",
+    "permalink": "/blog/2024/04/30/store-runtime-data-inside-config-entry"
+  }
+}

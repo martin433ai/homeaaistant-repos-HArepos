@@ -1,0 +1,28 @@
+{
+  "id": "bluetooth",
+  "title": "Bluetooth",
+  "description": "Best practices for integration authors",
+  "source": "@site/docs/bluetooth.md",
+  "sourceDirName": ".",
+  "slug": "/bluetooth",
+  "permalink": "/docs/bluetooth",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/bluetooth.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Bluetooth",
+    "sidebar_label": "Building a Bluetooth integration"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Networking and discovery",
+    "permalink": "/docs/network_discovery"
+  },
+  "next": {
+    "title": "Fetching Bluetooth data",
+    "permalink": "/docs/core/bluetooth/bluetooth_fetching_data"
+  }
+}

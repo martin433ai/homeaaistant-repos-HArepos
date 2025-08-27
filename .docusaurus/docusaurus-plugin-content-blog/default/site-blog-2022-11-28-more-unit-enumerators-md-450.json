@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2022/11/28/more-unit-enumerators",
+  "source": "@site/blog/2022-11-28-more-unit-enumerators.md",
+  "title": "Add  more unit enumerators",
+  "description": "As of Home Assistant Core 2022.12, the following unit constants are deprecated and replaced",
+  "date": "2022-11-28T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.12,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "epenet",
+      "url": "https://github.com/epenet",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "epenet",
+    "authorURL": "https://github.com/epenet",
+    "title": "Add  more unit enumerators"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Translating the state of entities",
+    "permalink": "/blog/2022/12/01/entity_translations"
+  },
+  "nextItem": {
+    "title": "Changes to long term statistics APIs",
+    "permalink": "/blog/2022/11/16/statistics_refactoring"
+  }
+}

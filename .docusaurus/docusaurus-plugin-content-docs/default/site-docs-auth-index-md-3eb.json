@@ -1,0 +1,28 @@
+{
+  "id": "auth_index",
+  "title": "Authentication",
+  "description": "Home Assistant has a built-in authentication system allowing different users to interact with Home Assistant. The authentication system consist of various parts.",
+  "source": "@site/docs/auth_index.md",
+  "sourceDirName": ".",
+  "slug": "/auth_index",
+  "permalink": "/docs/auth_index",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/auth_index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Authentication",
+    "sidebar_label": "Introduction"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Area registry",
+    "permalink": "/docs/area_registry_index"
+  },
+  "next": {
+    "title": "Permissions",
+    "permalink": "/docs/auth_permissions"
+  }
+}

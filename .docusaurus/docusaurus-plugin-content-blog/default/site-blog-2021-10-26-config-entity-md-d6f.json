@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2021/10/26/config-entity",
+  "source": "@site/blog/2021-10-26-config-entity.md",
+  "title": "Device configuration URL and entity categories",
+  "description": "Home Assistant Core 2021.11 introduces two new concepts to make managing devices easier,",
+  "date": "2021-10-26T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.15,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Erik Montnémery",
+      "url": "https://github.com/emontnemery",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Erik Montnémery",
+    "authorURL": "https://github.com/emontnemery",
+    "title": "Device configuration URL and entity categories"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Paper Elements are being removed",
+    "permalink": "/blog/2022/02/18/paper-elements"
+  },
+  "nextItem": {
+    "title": "New sensor state class: total",
+    "permalink": "/blog/2021/09/20/state_class_total"
+  }
+}

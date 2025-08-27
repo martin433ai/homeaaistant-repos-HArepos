@@ -1,0 +1,27 @@
+{
+  "id": "documenting/yaml-style-guide",
+  "title": "YAML Style Guide",
+  "description": "In addition to our general documentation standards,",
+  "source": "@site/docs/documenting/yaml-style-guide.md",
+  "sourceDirName": "documenting",
+  "slug": "/documenting/yaml-style-guide",
+  "permalink": "/docs/documenting/yaml-style-guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/documenting/yaml-style-guide.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "YAML Style Guide"
+  },
+  "sidebar": "Misc",
+  "previous": {
+    "title": "Standards",
+    "permalink": "/docs/documenting/standards"
+  },
+  "next": {
+    "title": "Create a new page",
+    "permalink": "/docs/documenting/create-page"
+  }
+}

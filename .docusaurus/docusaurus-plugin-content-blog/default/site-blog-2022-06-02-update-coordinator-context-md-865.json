@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2022/06/02/update_coordinator-context",
+  "source": "@site/blog/2022-06-02-update_coordinator-context.md",
+  "title": "Support context in update coordinator",
+  "description": "Starting with Home Assistant 2022.7, the update coordinator supports keeping track of context for each listening entity. This can be used to limit the requests against APIs based on enabled entities.",
+  "date": "2022-06-02T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.48,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Joakim Plate",
+      "url": "https://github.com/elupus",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Joakim Plate",
+    "authorURL": "https://github.com/elupus",
+    "title": "Support context in update coordinator"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Deprecating Data Entry Flow constants",
+    "permalink": "/blog/2022/06/07/dataflow-constants-deprecation"
+  },
+  "nextItem": {
+    "title": "Media Player updates: enqueue changes, announce added",
+    "permalink": "/blog/2022/05/31/media-player-updates"
+  }
+}

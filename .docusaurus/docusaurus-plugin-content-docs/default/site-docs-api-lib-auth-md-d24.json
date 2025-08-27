@@ -1,0 +1,28 @@
+{
+  "id": "api_lib_auth",
+  "title": "Python library: authentication",
+  "description": "The Authentication part of your library is responsible for acquiring authentication and for making authenticated requests. It should not be aware of what is in the requests.",
+  "source": "@site/docs/api_lib_auth.md",
+  "sourceDirName": ".",
+  "slug": "/api_lib_auth",
+  "permalink": "/docs/api_lib_auth",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/api_lib_auth.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Python library: authentication",
+    "sidebar_label": "Authentication"
+  },
+  "sidebar": "Misc",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/api_lib_index"
+  },
+  "next": {
+    "title": "Modelling data",
+    "permalink": "/docs/api_lib_data_models"
+  }
+}

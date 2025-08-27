@@ -1,0 +1,33 @@
+{
+  "permalink": "/blog/2020/02/18/106-custom-card-changes",
+  "source": "@site/blog/2020-02-18-106-custom-card-changes.md",
+  "title": "Changes that can affect custom cards in 0.106",
+  "description": "We made some changes that can affect custom Lovelace cards in Home Assistant Core 0.106, if you are a custom card developer, please read the following.",
+  "date": "2020-02-18T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.33,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Bram Kragten",
+      "url": "https://github.com/bramkragten",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Bram Kragten",
+    "authorURL": "https://github.com/bramkragten",
+    "authorTwitter": "bramkragten",
+    "title": "Changes that can affect custom cards in 0.106"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Translations 2.0",
+    "permalink": "/blog/2020/04/10/translation-handling"
+  },
+  "nextItem": {
+    "title": "Update on the Z-Wave integration",
+    "permalink": "/blog/2020/02/04/new-zwave"
+  }
+}

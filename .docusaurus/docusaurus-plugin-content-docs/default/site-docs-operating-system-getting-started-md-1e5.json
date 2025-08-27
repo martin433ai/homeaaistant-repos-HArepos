@@ -1,0 +1,28 @@
+{
+  "id": "operating-system/getting-started",
+  "title": "Getting started with Home Assistant Operating System development",
+  "description": "Prepare development environment",
+  "source": "@site/docs/operating-system/getting-started.md",
+  "sourceDirName": "operating-system",
+  "slug": "/operating-system/getting-started",
+  "permalink": "/docs/operating-system/getting-started",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/operating-system/getting-started.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Getting started with Home Assistant Operating System development",
+    "sidebar_label": "Getting started"
+  },
+  "sidebar": "OperatingSystem",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/operating-system"
+  },
+  "next": {
+    "title": "Debugging",
+    "permalink": "/docs/operating-system/debugging"
+  }
+}

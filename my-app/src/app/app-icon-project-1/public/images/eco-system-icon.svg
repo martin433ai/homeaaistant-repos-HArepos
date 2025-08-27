@@ -1,0 +1,32 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="50" cy="50" r="48" fill="#e8f5e9" stroke="#2e7d32" stroke-width="2"/>
+  
+  <!-- Central recycling symbol -->
+  <g transform="translate(50, 50) scale(0.6)">
+    <!-- First arrow -->
+    <path d="M-15,-25 L0,-15 L0,-25 L15,-15 L0,-5 L0,-15 L-15,-5 Z" fill="#43a047" transform="rotate(0)"/>
+    <!-- Second arrow -->
+    <path d="M-15,-25 L0,-15 L0,-25 L15,-15 L0,-5 L0,-15 L-15,-5 Z" fill="#43a047" transform="rotate(120)"/>
+    <!-- Third arrow -->
+    <path d="M-15,-25 L0,-15 L0,-25 L15,-15 L0,-5 L0,-15 L-15,-5 Z" fill="#43a047" transform="rotate(240)"/>
+  </g>
+  
+  <!-- Leaf at top left -->
+  <path d="M25,25 C15,15 5,20 10,30 C15,40 25,35 25,25 Z" fill="#66bb6a"/>
+  
+  <!-- Leaf at bottom right -->
+  <path d="M75,75 C85,85 95,80 90,70 C85,60 75,65 75,75 Z" fill="#66bb6a"/>
+  
+  <!-- Small leaf at top right -->
+  <path d="M75,30 C80,25 85,28 82,35 C79,42 72,38 75,30 Z" fill="#81c784"/>
+  
+  <!-- Small leaf at bottom left -->
+  <path d="M30,70 C25,75 22,80 28,82 C35,84 38,75 30,70 Z" fill="#81c784"/>
+  
+  <!-- Connection lines representing ecosystem -->
+  <path d="M30,30 Q50,40 75,35" fill="none" stroke="#388e3c" stroke-width="1.5" stroke-dasharray="2,2"/>
+  <path d="M75,70 Q50,60 30,65" fill="none" stroke="#388e3c" stroke-width="1.5" stroke-dasharray="2,2"/>
+  <path d="M40,50 Q50,50 60,50" fill="none" stroke="#388e3c" stroke-width="1.5" stroke-dasharray="2,2"/>
+</svg>
+

@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2024/01/23/light-color-mode-changes",
+  "source": "@site/blog/2024-01-23-light-color-mode-changes.md",
+  "title": "Changes to light color mode when lights display an effect",
+  "description": "Background",
+  "date": "2024-01-23T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.235,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Erik Montnémery",
+      "url": "https://github.com/emontnemery",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Erik Montnémery",
+    "authorURL": "https://github.com/emontnemery",
+    "title": "Changes to light color mode when lights display an effect"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "New entity features in Climate entity",
+    "permalink": "/blog/2024/01/24/climate-climateentityfeatures-expanded"
+  },
+  "nextItem": {
+    "title": "Enumerating services",
+    "permalink": "/blog/2024/01/22/async_services_for_domain"
+  }
+}

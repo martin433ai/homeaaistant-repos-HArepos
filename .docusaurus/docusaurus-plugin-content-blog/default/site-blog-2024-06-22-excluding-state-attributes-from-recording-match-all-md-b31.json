@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2024/06/22/excluding-state-attributes-from-recording-match-all",
+  "source": "@site/blog/2024-06-22-excluding-state-attributes-from-recording-match-all.md",
+  "title": "Excluding all state attributes from recording using MATCH_ALL",
+  "description": "The way how state attributes are excluded from the recording was previously changed in September 2023.",
+  "date": "2024-06-22T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.56,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "G Johansson",
+      "url": "https://github.com/gjohansson-ST",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "G Johansson",
+    "authorURL": "https://github.com/gjohansson-ST",
+    "title": "Excluding all state attributes from recording using MATCH_ALL"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "New HVACAction DEFROSTING",
+    "permalink": "/blog/2024/07/07/climate-hvacaction-defrosting"
+  },
+  "nextItem": {
+    "title": "Making http path registration async safe with `async_register_static_paths`",
+    "permalink": "/blog/2024/06/18/async_register_static_paths"
+  }
+}

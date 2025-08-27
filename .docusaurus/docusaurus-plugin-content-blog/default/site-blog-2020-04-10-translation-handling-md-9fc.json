@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2020/04/10/translation-handling",
+  "source": "@site/blog/2020-04-10-translation-handling.md",
+  "title": "Translations 2.0",
+  "description": "We've migrated our translation scripts in the Home Assisstant Core repository under a single namespace. It can now all be invoked using python3 -m script.translations.",
+  "date": "2020-04-10T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.445,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Paulus Schoutsen",
+      "url": "https://twitter.com/balloob",
+      "imageURL": "/img/profile/paulus.jpg",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Paulus Schoutsen",
+    "authorURL": "https://twitter.com/balloob",
+    "authorImageURL": "/img/profile/paulus.jpg",
+    "authorTwitter": "balloob",
+    "title": "Translations 2.0"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "S6 Overlay for our Docker containers",
+    "permalink": "/blog/2020/04/12/s6-overlay"
+  },
+  "nextItem": {
+    "title": "Changes that can affect custom cards in 0.106",
+    "permalink": "/blog/2020/02/18/106-custom-card-changes"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "core/platform/raising_exceptions",
+  "title": "Raising exceptions",
+  "description": "Raising exceptions in service action handlers",
+  "source": "@site/docs/core/platform/raising_exceptions.md",
+  "sourceDirName": "core/platform",
+  "slug": "/core/platform/raising_exceptions",
+  "permalink": "/docs/core/platform/raising_exceptions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/platform/raising_exceptions.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Raising exceptions"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Backup",
+    "permalink": "/docs/core/platform/backup"
+  },
+  "next": {
+    "title": "Repairs",
+    "permalink": "/docs/core/platform/repairs"
+  }
+}

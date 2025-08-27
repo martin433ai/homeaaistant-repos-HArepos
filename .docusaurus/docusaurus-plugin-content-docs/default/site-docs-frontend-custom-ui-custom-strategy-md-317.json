@@ -1,0 +1,27 @@
+{
+  "id": "frontend/custom-ui/custom-strategy",
+  "title": "Custom strategies",
+  "description": "Introduced in Home Assistant 2021.5.",
+  "source": "@site/docs/frontend/custom-ui/custom-strategy.md",
+  "sourceDirName": "frontend/custom-ui",
+  "slug": "/frontend/custom-ui/custom-strategy",
+  "permalink": "/docs/frontend/custom-ui/custom-strategy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/frontend/custom-ui/custom-strategy.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Custom strategies"
+  },
+  "sidebar": "Frontend",
+  "previous": {
+    "title": "Custom badge",
+    "permalink": "/docs/frontend/custom-ui/custom-badge"
+  },
+  "next": {
+    "title": "Custom view layout",
+    "permalink": "/docs/frontend/custom-ui/custom-view"
+  }
+}

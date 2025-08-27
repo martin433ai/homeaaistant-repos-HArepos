@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2018/08/13/deprecating-remote-package",
+  "source": "@site/blog/2018-08-13-deprecating-remote-package.md",
+  "title": "Deprecating homeassistant.remote",
+  "description": "With the release of Home Assistant 0.76, the functions in the homeassistant.remote package will be deprecated and will be removed in 0.77. This package contains functions to call the Home Assistant REST API in a non-async way.",
+  "date": "2018-08-13T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.52,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Paulus Schoutsen",
+      "url": "https://twitter.com/balloob",
+      "imageURL": "/img/profile/paulus.jpg",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Paulus Schoutsen",
+    "authorURL": "https://twitter.com/balloob",
+    "authorImageURL": "/img/profile/paulus.jpg",
+    "authorTwitter": "balloob",
+    "title": "Deprecating homeassistant.remote"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "The Great Migration",
+    "permalink": "/blog/2019/02/19/the-great-migration"
+  },
+  "nextItem": {
+    "title": "Trying the new auth system",
+    "permalink": "/blog/2018/07/02/trying-new-auth"
+  }
+}

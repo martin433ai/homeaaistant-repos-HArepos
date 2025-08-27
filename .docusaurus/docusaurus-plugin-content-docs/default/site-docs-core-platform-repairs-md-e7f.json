@@ -1,0 +1,27 @@
+{
+  "id": "core/platform/repairs",
+  "title": "Repairs",
+  "description": "Home Assistant keeps track of issues which should be brought to the user's attention. These issues can be created by integrations or by Home Assistant itself. Issues can either be fixable via a RepairsFlow or by linking to a website with information on how the user can solve it themselves.",
+  "source": "@site/docs/core/platform/repairs.md",
+  "sourceDirName": "core/platform",
+  "slug": "/core/platform/repairs",
+  "permalink": "/docs/core/platform/repairs",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/platform/repairs.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Repairs"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Raising exceptions",
+    "permalink": "/docs/core/platform/raising_exceptions"
+  },
+  "next": {
+    "title": "Reproduce state",
+    "permalink": "/docs/core/platform/reproduce_state"
+  }
+}

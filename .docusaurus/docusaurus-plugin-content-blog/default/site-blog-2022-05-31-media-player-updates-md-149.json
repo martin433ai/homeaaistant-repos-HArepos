@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2022/05/31/media-player-updates",
+  "source": "@site/blog/2022-05-31-media-player-updates.md",
+  "title": "Media Player updates: enqueue changes, announce added",
+  "description": "Starting with Home Assistant 2022.6, the media player integration has received two updates to the mediaplayer.playmedia service. The enqueue attribute has been changed to a string in PR #72406 and a new announce boolean attribute was added in PR #72566.",
+  "date": "2022-05-31T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.25,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Paulus Schoutsen",
+      "url": "https://twitter.com/balloob",
+      "imageURL": "/img/profile/paulus.jpg",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Paulus Schoutsen",
+    "authorURL": "https://twitter.com/balloob",
+    "authorImageURL": "/img/profile/paulus.jpg",
+    "authorTwitter": "balloob",
+    "title": "Media Player updates: enqueue changes, announce added"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Support context in update coordinator",
+    "permalink": "/blog/2022/06/02/update_coordinator-context"
+  },
+  "nextItem": {
+    "title": "Logbook API removal of `entity_matches_only` flag",
+    "permalink": "/blog/2022/05/24/entity_matches_only_removed_logbook_card"
+  }
+}

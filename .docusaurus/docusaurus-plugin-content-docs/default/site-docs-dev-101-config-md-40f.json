@@ -1,0 +1,27 @@
+{
+  "id": "dev_101_config",
+  "title": "Config",
+  "description": "On the hass object there is an instance of the Config class. The Config class contains the users preferred units, the path to the config directory and which components are loaded.",
+  "source": "@site/docs/dev_101_config.md",
+  "sourceDirName": ".",
+  "slug": "/dev_101_config",
+  "permalink": "/docs/dev_101_config",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/dev_101_config.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Config"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "States",
+    "permalink": "/docs/dev_101_states"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/docs/core/entity"
+  }
+}

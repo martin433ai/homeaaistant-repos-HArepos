@@ -1,0 +1,28 @@
+{
+  "id": "intent_builtin",
+  "title": "Built-in intents",
+  "description": "The following intents are supported:",
+  "source": "@site/docs/intent_builtin.md",
+  "sourceDirName": ".",
+  "slug": "/intent_builtin",
+  "permalink": "/docs/intent_builtin",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/intent_builtin.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Built-in intents",
+    "toc_max_heading_level": 2
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Handling intents",
+    "permalink": "/docs/intent_handling"
+  },
+  "next": {
+    "title": "Conversation API",
+    "permalink": "/docs/intent_conversation_api"
+  }
+}

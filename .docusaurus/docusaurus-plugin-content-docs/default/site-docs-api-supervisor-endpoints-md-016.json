@@ -1,0 +1,27 @@
+{
+  "id": "api/supervisor/endpoints",
+  "title": "Endpoints",
+  "description": "For API endpoints marked with you need use an authorization header with a Bearer token.",
+  "source": "@site/docs/api/supervisor/endpoints.md",
+  "sourceDirName": "api/supervisor",
+  "slug": "/api/supervisor/endpoints",
+  "permalink": "/docs/api/supervisor/endpoints",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/api/supervisor/endpoints.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Endpoints"
+  },
+  "sidebar": "Supervisor",
+  "previous": {
+    "title": "Debugging",
+    "permalink": "/docs/supervisor/debugging"
+  },
+  "next": {
+    "title": "Models",
+    "permalink": "/docs/api/supervisor/models"
+  }
+}

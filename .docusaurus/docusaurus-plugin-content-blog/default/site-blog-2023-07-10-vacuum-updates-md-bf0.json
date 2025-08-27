@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2023/07/10/vacuum-updates",
+  "source": "@site/blog/2023-07-10-vacuum-updates.md",
+  "title": "Updated to the Vacuum entity integration",
+  "description": "The Vacuum entity has seen some recent changes:",
+  "date": "2023-07-10T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.975,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Erik Montnémery",
+      "url": "https://github.com/emontnemery",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Erik Montnémery",
+    "authorURL": "https://github.com/emontnemery",
+    "title": "Updated to the Vacuum entity integration"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Translating services",
+    "permalink": "/blog/2023/07/11/translating-services"
+  },
+  "nextItem": {
+    "title": "Action event for custom cards",
+    "permalink": "/blog/2023/07/07/action-event-custom-cards"
+  }
+}

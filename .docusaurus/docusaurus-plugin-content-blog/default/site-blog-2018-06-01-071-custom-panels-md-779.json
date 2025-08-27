@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2018/06/01/071-custom-panels",
+  "source": "@site/blog/2018-06-01-071-custom-panels.md",
+  "title": "0.71: Improved custom panels and minor changes for custom UI",
+  "description": "Efforts to modernize and localize the frontend are moving full speed. This blog post will touch upon the upcoming features for Home Assistant 0.71 which should hit the beta channel today and is planned for a release a week from now.",
+  "date": "2018-06-01T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.85,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Paulus Schoutsen",
+      "url": "https://twitter.com/balloob",
+      "imageURL": "/img/profile/paulus.jpg",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Paulus Schoutsen",
+    "authorURL": "https://twitter.com/balloob",
+    "authorImageURL": "/img/profile/paulus.jpg",
+    "authorTwitter": "balloob",
+    "title": "0.71: Improved custom panels and minor changes for custom UI"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Trying the new auth system",
+    "permalink": "/blog/2018/07/02/trying-new-auth"
+  },
+  "nextItem": {
+    "title": "Updates for Custom UI and Custom Panels",
+    "permalink": "/blog/2018/05/22/custom-ui-panels-api"
+  }
+}

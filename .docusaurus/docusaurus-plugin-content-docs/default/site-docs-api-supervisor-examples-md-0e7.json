@@ -1,0 +1,23 @@
+{
+  "id": "api/supervisor/examples",
+  "title": "Examples",
+  "description": "Examples on how to interface against the supervisor API.",
+  "source": "@site/docs/api/supervisor/examples.md",
+  "sourceDirName": "api/supervisor",
+  "slug": "/api/supervisor/examples",
+  "permalink": "/docs/api/supervisor/examples",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/api/supervisor/examples.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Examples"
+  },
+  "sidebar": "Supervisor",
+  "previous": {
+    "title": "Models",
+    "permalink": "/docs/api/supervisor/models"
+  }
+}

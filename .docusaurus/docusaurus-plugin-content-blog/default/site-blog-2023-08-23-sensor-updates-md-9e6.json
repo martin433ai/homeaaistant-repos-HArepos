@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2023/08/23/sensor-updates",
+  "source": "@site/blog/2023-08-23-sensor-updates.md",
+  "title": "Numerical sensors are no longer allowed to set their state to NaN or inf",
+  "description": "Numerical sensors are no longer allowed to set their state to Not a Number or to positive or negative infinity.",
+  "date": "2023-08-23T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.175,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Erik Montnémery",
+      "url": "https://github.com/emontnemery",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Erik Montnémery",
+    "authorURL": "https://github.com/emontnemery",
+    "title": "Numerical sensors are no longer allowed to set their state to NaN or inf"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "HomeAssistant.__init__ requires passing a string to it",
+    "permalink": "/blog/2023/08/29/homeassistant-changed-signature"
+  },
+  "nextItem": {
+    "title": "Weather entity forecast types",
+    "permalink": "/blog/2023/08/07/weather_entity_forecast_types"
+  }
+}

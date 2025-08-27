@@ -1,0 +1,27 @@
+{
+  "id": "area_registry_index",
+  "title": "Area registry",
+  "description": "The area registry is a registry where Home Assistant keeps track of areas. An area represents a physical location for Home Assistant. It can be used to place devices in different areas.",
+  "source": "@site/docs/area_registry_index.md",
+  "sourceDirName": ".",
+  "slug": "/area_registry_index",
+  "permalink": "/docs/area_registry_index",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/area_registry_index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Area registry"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Device registry",
+    "permalink": "/docs/device_registry_index"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/docs/auth_index"
+  }
+}

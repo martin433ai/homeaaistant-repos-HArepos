@@ -1,0 +1,27 @@
+{
+  "id": "api/websocket",
+  "title": "WebSocket API",
+  "description": "Home Assistant hosts a WebSocket API at /api/websocket. This API can be used to stream information from a Home Assistant instance to any client that implements WebSockets. We maintain a JavaScript library which we use in our frontend.",
+  "source": "@site/docs/api/websocket.md",
+  "sourceDirName": "api",
+  "slug": "/api/websocket",
+  "permalink": "/docs/api/websocket",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/api/websocket.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "WebSocket API"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Significant change",
+    "permalink": "/docs/core/platform/significant_change"
+  },
+  "next": {
+    "title": "REST API",
+    "permalink": "/docs/api/rest"
+  }
+}

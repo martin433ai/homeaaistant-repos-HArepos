@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2021/08/16/state_class_total",
+  "source": "@site/blog/2021-08-16-state_class_total.md",
+  "title": "New sensor state class: total_increasing",
+  "description": "A new state class, total_increasing has been added. In addition, the",
+  "date": "2021-08-16T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.955,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Erik Montnémery",
+      "url": "https://github.com/emontnemery",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Erik Montnémery",
+    "authorURL": "https://github.com/emontnemery",
+    "title": "New sensor state class: total_increasing"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Supervisor update",
+    "permalink": "/blog/2021/08/24/supervisor_update"
+  },
+  "nextItem": {
+    "title": "Temperature conversions moving to SensorEntity",
+    "permalink": "/blog/2021/08/12/sensor_temperature_conversion"
+  }
+}

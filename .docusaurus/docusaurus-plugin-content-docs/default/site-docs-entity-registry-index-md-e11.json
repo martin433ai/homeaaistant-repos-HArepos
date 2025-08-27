@@ -1,0 +1,27 @@
+{
+  "id": "entity_registry_index",
+  "title": "Entity registry",
+  "description": "The entity registry is a registry where Home Assistant keeps track of entities. Any entity that is added to Home Assistant which specifies the unique_id attribute will be registered in the registry.",
+  "source": "@site/docs/entity_registry_index.md",
+  "sourceDirName": ".",
+  "slug": "/entity_registry_index",
+  "permalink": "/docs/entity_registry_index",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/entity_registry_index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Entity registry"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/architecture/devices-and-services"
+  },
+  "next": {
+    "title": "Disabling entities",
+    "permalink": "/docs/entity_registry_disabled_by"
+  }
+}

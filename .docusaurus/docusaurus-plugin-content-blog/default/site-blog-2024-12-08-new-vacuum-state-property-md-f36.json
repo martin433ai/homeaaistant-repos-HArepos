@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2024/12/08/new-vacuum-state-property",
+  "source": "@site/blog/2024-12-08-new-vacuum-state-property.md",
+  "title": "New vacuum state property",
+  "description": "As of Home Assistant Core 2025.1, the constants used to return state in StateVacuumEntity are deprecated and replaced by the VacuumActivity enum.",
+  "date": "2024-12-08T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.52,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "G Johansson",
+      "url": "https://github.com/gjohansson-ST",
+      "imageURL": "https://avatars.githubusercontent.com/u/62932417?v=4",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "G Johansson",
+    "authorURL": "https://github.com/gjohansson-ST",
+    "authorImageURL": "https://avatars.githubusercontent.com/u/62932417?v=4",
+    "authorTwitter": "GJohansson",
+    "title": "New vacuum state property"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Changed name of WaterHeaterEntityDescription",
+    "permalink": "/blog/2024/12/13/water-heater-entity-description"
+  },
+  "nextItem": {
+    "title": "Climate entity now supports independent horizontal swing",
+    "permalink": "/blog/2024/12/03/climate-horizontal-swing"
+  }
+}

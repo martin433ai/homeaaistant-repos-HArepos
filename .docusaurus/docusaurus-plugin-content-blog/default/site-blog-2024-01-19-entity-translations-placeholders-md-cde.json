@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/2024/01/19/entity-translations-placeholders",
+  "source": "@site/blog/2024-01-19-entity-translations-placeholders.md",
+  "title": "Introducing entity translation placeholders",
+  "description": "It's now possible to provide static values to be used in an entity translation using placeholders.",
+  "date": "2024-01-19T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.845,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Joost Lekkerkerker",
+      "url": "https://github.com/joostlek",
+      "imageURL": "https://avatars.githubusercontent.com/u/7083755?v=4",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Joost Lekkerkerker",
+    "authorURL": "https://github.com/joostlek",
+    "authorImageURL": "https://avatars.githubusercontent.com/u/7083755?v=4",
+    "title": "Introducing entity translation placeholders"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Enumerating services",
+    "permalink": "/blog/2024/01/22/async_services_for_domain"
+  },
+  "nextItem": {
+    "title": "Icon translations",
+    "permalink": "/blog/2024/01/19/icon-translations"
+  }
+}

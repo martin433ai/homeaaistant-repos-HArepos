@@ -1,0 +1,27 @@
+{
+  "id": "core/integration-quality-scale/index",
+  "title": "Integration quality scale",
+  "description": "The integration quality scale is a framework for Home Assistant to grade integrations based on user experience, features, code quality and developer experience.",
+  "source": "@site/docs/core/integration-quality-scale/index.md",
+  "sourceDirName": "core/integration-quality-scale",
+  "slug": "/core/integration-quality-scale/",
+  "permalink": "/docs/core/integration-quality-scale/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/integration-quality-scale/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Integration quality scale"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Platform checklist",
+    "permalink": "/docs/creating_platform_code_review"
+  },
+  "next": {
+    "title": "Checklist",
+    "permalink": "/docs/core/integration-quality-scale/checklist"
+  }
+}

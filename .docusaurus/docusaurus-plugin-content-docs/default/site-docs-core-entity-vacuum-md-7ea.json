@@ -1,0 +1,28 @@
+{
+  "id": "core/entity/vacuum",
+  "title": "Vacuum entity",
+  "description": "Derive entity platforms from homeassistant.components.vacuum.StateVacuumEntity",
+  "source": "@site/docs/core/entity/vacuum.md",
+  "sourceDirName": "core/entity",
+  "slug": "/core/entity/vacuum",
+  "permalink": "/docs/core/entity/vacuum",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/entity/vacuum.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Vacuum entity",
+    "sidebar_label": "Vacuum"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Update",
+    "permalink": "/docs/core/entity/update"
+  },
+  "next": {
+    "title": "Valve",
+    "permalink": "/docs/core/entity/valve"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2020/04/12/s6-overlay",
+  "source": "@site/blog/2020-04-12-s6-overlay.md",
+  "title": "S6 Overlay for our Docker containers",
+  "description": "Home Assistant uses a lot of different Docker containers for all kinds of",
+  "date": "2020-04-12T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.37,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Franck Nijhof",
+      "url": "https://twitter.com/frenck",
+      "imageURL": "/img/profile/frenck.png",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Franck Nijhof",
+    "authorURL": "https://twitter.com/frenck",
+    "authorImageURL": "/img/profile/frenck.png",
+    "authorTwitter": "frenck",
+    "title": "S6 Overlay for our Docker containers"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Hassfest for custom components",
+    "permalink": "/blog/2020/04/16/hassfest"
+  },
+  "nextItem": {
+    "title": "Translations 2.0",
+    "permalink": "/blog/2020/04/10/translation-handling"
+  }
+}

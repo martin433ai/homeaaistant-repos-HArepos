@@ -1,0 +1,27 @@
+{
+  "id": "creating_component_index",
+  "title": "Creating your first integration",
+  "description": "Alright, so it's time to write your first code for your integration. AWESOME. Don't worry, we've tried hard to keep it as easy as possible. From a Home Assistant development environment, type the following and follow the instructions:",
+  "source": "@site/docs/creating_component_index.md",
+  "sourceDirName": ".",
+  "slug": "/creating_component_index",
+  "permalink": "/docs/creating_component_index",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/creating_component_index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Creating your first integration"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Tips and tricks",
+    "permalink": "/docs/development_tips"
+  },
+  "next": {
+    "title": "File structure",
+    "permalink": "/docs/creating_integration_file_structure"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "operating-system/debugging",
+  "title": "Debugging the Home Assistant Operating System",
+  "description": "This section is not for end users. End users should use the [SSH add-on] to SSH into Home Assistant. This is for developers of Home Assistant. Do not ask for support if you are using these options.",
+  "source": "@site/docs/operating-system/debugging.md",
+  "sourceDirName": "operating-system",
+  "slug": "/operating-system/debugging",
+  "permalink": "/docs/operating-system/debugging",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/operating-system/debugging.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Debugging the Home Assistant Operating System",
+    "sidebar_label": "Debugging"
+  },
+  "sidebar": "OperatingSystem",
+  "previous": {
+    "title": "Getting started",
+    "permalink": "/docs/operating-system/getting-started"
+  },
+  "next": {
+    "title": "Partitions",
+    "permalink": "/docs/operating-system/partition"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "core/entity/stt",
+  "title": "Speech-to-text entity",
+  "description": "A speech-to-text (STT) entity allows other integrations or applications to stream speech data to the STT API and get text back.",
+  "source": "@site/docs/core/entity/stt.md",
+  "sourceDirName": "core/entity",
+  "slug": "/core/entity/stt",
+  "permalink": "/docs/core/entity/stt",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/entity/stt.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Speech-to-text entity",
+    "sidebar_label": "Speech-to-text"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Siren",
+    "permalink": "/docs/core/entity/siren"
+  },
+  "next": {
+    "title": "Switch",
+    "permalink": "/docs/core/entity/switch"
+  }
+}

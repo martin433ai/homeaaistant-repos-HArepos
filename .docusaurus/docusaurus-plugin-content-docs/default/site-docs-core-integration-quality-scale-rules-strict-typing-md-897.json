@@ -1,0 +1,30 @@
+{
+  "id": "core/integration-quality-scale/rules/strict-typing",
+  "title": "Strict typing",
+  "description": "Reasoning",
+  "source": "@site/docs/core/integration-quality-scale/rules/strict-typing.md",
+  "sourceDirName": "core/integration-quality-scale/rules",
+  "slug": "/core/integration-quality-scale/rules/strict-typing",
+  "permalink": "/docs/core/integration-quality-scale/rules/strict-typing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/integration-quality-scale/rules/strict-typing.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Strict typing",
+    "related_rules": [
+      "runtime-data"
+    ]
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "The integration dependency supports passing in a websession",
+    "permalink": "/docs/core/integration-quality-scale/rules/inject-websession"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/docs/dev_101_hass"
+  }
+}

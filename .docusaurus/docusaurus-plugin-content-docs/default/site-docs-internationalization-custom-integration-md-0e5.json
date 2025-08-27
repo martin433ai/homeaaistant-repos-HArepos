@@ -1,0 +1,23 @@
+{
+  "id": "internationalization/custom_integration",
+  "title": "Custom integration localization",
+  "description": "Translation strings",
+  "source": "@site/docs/internationalization/custom_integration.md",
+  "sourceDirName": "internationalization",
+  "slug": "/internationalization/custom_integration",
+  "permalink": "/docs/internationalization/custom_integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/internationalization/custom_integration.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Custom integration localization"
+  },
+  "sidebar": "Internationalization",
+  "previous": {
+    "title": "Backend localization",
+    "permalink": "/docs/internationalization/core"
+  }
+}

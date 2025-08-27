@@ -1,0 +1,28 @@
+{
+  "id": "core/entity/lock",
+  "title": "Lock entity",
+  "description": "A lock entity is able to be locked and unlocked. Locking and unlocking can optionally be secured with a user code. Some locks also allow for opening of latches, this may also be secured with a user code. Derive a platform entity from homeassistant.components.lock.LockEntity.",
+  "source": "@site/docs/core/entity/lock.md",
+  "sourceDirName": "core/entity",
+  "slug": "/core/entity/lock",
+  "permalink": "/docs/core/entity/lock",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/entity/lock.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Lock entity",
+    "sidebar_label": "Lock"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Light",
+    "permalink": "/docs/core/entity/light"
+  },
+  "next": {
+    "title": "Media player",
+    "permalink": "/docs/core/entity/media-player"
+  }
+}

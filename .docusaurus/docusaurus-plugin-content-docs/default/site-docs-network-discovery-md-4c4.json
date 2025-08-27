@@ -1,0 +1,28 @@
+{
+  "id": "network_discovery",
+  "title": "Networking and discovery",
+  "description": "Some integrations may need to discover devices on the network via mDNS/Zeroconf, SSDP, or another method once they have been enabled.  The primary use case is to find devices that do not have a known fixed IP Address or for integrations that can dynamically add and remove any number of compatible discoverable devices.",
+  "source": "@site/docs/network_discovery.md",
+  "sourceDirName": ".",
+  "slug": "/network_discovery",
+  "permalink": "/docs/network_discovery",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/network_discovery.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Networking and discovery",
+    "sidebar_label": "Networking and discovery"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Listening for events",
+    "permalink": "/docs/integration_listen_events"
+  },
+  "next": {
+    "title": "Building a Bluetooth integration",
+    "permalink": "/docs/bluetooth"
+  }
+}

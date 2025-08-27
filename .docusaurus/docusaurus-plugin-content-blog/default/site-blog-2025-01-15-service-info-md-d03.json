@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2025/01/15/service-info",
+  "source": "@site/blog/2025-01-15-service-info.md",
+  "title": "Relocate dhcp/ssdp/usb/zeroconf ServiceInfo models",
+  "description": "Summary of changes",
+  "date": "2025-01-15T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.915,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "epenet",
+      "url": "https://github.com/epenet",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "epenet",
+    "authorURL": "https://github.com/epenet",
+    "title": "Relocate dhcp/ssdp/usb/zeroconf ServiceInfo models"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Energy by distance units",
+    "permalink": "/blog/2025/01/31/energy-distance-units"
+  },
+  "nextItem": {
+    "title": "New area device class",
+    "permalink": "/blog/2024/12/26/area-squared-units"
+  }
+}

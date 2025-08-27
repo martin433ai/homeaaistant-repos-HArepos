@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2023/07/11/translating-services",
+  "source": "@site/blog/2023-07-11-translating-services.md",
+  "title": "Translating services",
+  "description": "We now support translating services in Home Assistant. Previously, the names & descriptions of services and their service fields have been hardcoded into the services.yaml files of each integration.",
+  "date": "2023-07-11T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.74,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Franck Nijhof",
+      "url": "https://twitter.com/frenck",
+      "imageURL": "/img/profile/frenck.png",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Franck Nijhof",
+    "authorURL": "https://twitter.com/frenck",
+    "authorImageURL": "/img/profile/frenck.png",
+    "authorTwitter": "frenck",
+    "title": "Translating services"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "The naming of MQTT entities changes to correspond with HA guidelines",
+    "permalink": "/blog/2023/07/21/change-naming-mqtt-entities"
+  },
+  "nextItem": {
+    "title": "Updated to the Vacuum entity integration",
+    "permalink": "/blog/2023/07/10/vacuum-updates"
+  }
+}

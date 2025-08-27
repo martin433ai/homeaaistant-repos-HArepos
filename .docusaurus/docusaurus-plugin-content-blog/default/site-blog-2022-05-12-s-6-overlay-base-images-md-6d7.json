@@ -1,0 +1,33 @@
+{
+  "permalink": "/blog/2022/05/12/s6-overlay-base-images",
+  "source": "@site/blog/2022-05-12-s6-overlay-base-images.md",
+  "title": "S6-Overlay 3.x update on our docker base images",
+  "description": "We started to update our base images to use the new s6-Overlay v3. A migration article also explains the new possibilities around this change. This blog post explains the minimal changes needed to be able to use our new base images.",
+  "date": "2022-05-12T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.995,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Pascal Vizeli",
+      "url": "https://twitter.com/pvizeli",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Pascal Vizeli",
+    "authorURL": "https://twitter.com/pvizeli",
+    "authorTwitter": "pvizeli",
+    "title": "S6-Overlay 3.x update on our docker base images"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Logbook API removal of `entity_matches_only` flag",
+    "permalink": "/blog/2022/05/24/entity_matches_only_removed_logbook_card"
+  },
+  "nextItem": {
+    "title": "Constant deprecations for 2022.5",
+    "permalink": "/blog/2022/05/03/constants-deprecations"
+  }
+}

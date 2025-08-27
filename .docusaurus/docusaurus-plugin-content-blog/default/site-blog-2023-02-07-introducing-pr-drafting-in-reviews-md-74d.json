@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2023/02/07/introducing-PR-drafting-in-reviews",
+  "source": "@site/blog/2023-02-07-introducing-PR-drafting-in-reviews.md",
+  "title": "Introducing drafting of PRs in our review process",
+  "description": "Home Assistant gets lots of contributions, which is absolutely amazing! But",
+  "date": "2023-02-07T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 2.44,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Franck Nijhof",
+      "url": "https://twitter.com/frenck",
+      "imageURL": "/img/profile/frenck.png",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Franck Nijhof",
+    "authorURL": "https://twitter.com/frenck",
+    "authorImageURL": "/img/profile/frenck.png",
+    "authorTwitter": "frenck",
+    "title": "Introducing drafting of PRs in our review process"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "The number of decimals used when displaying a sensor state is now configurable",
+    "permalink": "/blog/2023/02/08/sensor_presentation_rounding"
+  },
+  "nextItem": {
+    "title": "Translation files removed from Core repository",
+    "permalink": "/blog/2023/02/06/translations-files-removed-from-core"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/2024/02/26/single-instance-only-manifest-option",
+  "source": "@site/blog/2024-02-26-single-instance-only-manifest-option.md",
+  "title": "New single instance only manifest option",
+  "description": "In Home Assistant 2024.3, we introduced a new singleconfigentry option for the integration manifest file.",
+  "date": "2024-02-26T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.45,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Jan-Philipp Benecke",
+      "url": "https://github.com/jpbede",
+      "imageURL": "https://avatars.githubusercontent.com/u/3989428?s=96&v=4",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Jan-Philipp Benecke",
+    "authorURL": "https://github.com/jpbede",
+    "authorImageURL": "https://avatars.githubusercontent.com/u/3989428?s=96&v=4",
+    "title": "New single instance only manifest option"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Deprecate use of @bind_hass and hass.components",
+    "permalink": "/blog/2024/02/27/deprecate-bind-hass-and-hass-components"
+  },
+  "nextItem": {
+    "title": "New Climate entity toggle method",
+    "permalink": "/blog/2024/02/25/Climate-toggle-service"
+  }
+}

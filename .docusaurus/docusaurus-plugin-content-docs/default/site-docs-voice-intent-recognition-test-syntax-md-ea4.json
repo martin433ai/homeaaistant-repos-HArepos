@@ -1,0 +1,28 @@
+{
+  "id": "voice/intent-recognition/test-syntax",
+  "title": "Intent matching test syntax",
+  "description": "To ensure that the template sentences work as expected, we have an extensive test suite. This test suite is based on YAML files that contain a list of input sentences and the expected matched intent and slots.",
+  "source": "@site/docs/voice/intent-recognition/test-syntax.md",
+  "sourceDirName": "voice/intent-recognition",
+  "slug": "/voice/intent-recognition/test-syntax",
+  "permalink": "/docs/voice/intent-recognition/test-syntax",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/voice/intent-recognition/test-syntax.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Intent matching test syntax",
+    "sidebar_label": "Test syntax"
+  },
+  "sidebar": "Voice",
+  "previous": {
+    "title": "Template sentence syntax",
+    "permalink": "/docs/voice/intent-recognition/template-sentence-syntax"
+  },
+  "next": {
+    "title": "Supported languages",
+    "permalink": "/docs/voice/intent-recognition/supported-languages"
+  }
+}

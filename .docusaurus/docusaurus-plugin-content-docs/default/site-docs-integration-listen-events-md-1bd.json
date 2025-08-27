@@ -1,0 +1,27 @@
+{
+  "id": "integration_listen_events",
+  "title": "Listening for events",
+  "description": "Your integration may need to take action when a specific event happens inside Home Assistant. Home Assistant provides event helpers to listen for particular event types and direct access to the event bus. The helpers are highly optimized to minimize the number of callbacks. If there is already a helper for the specific event you need to listen for, it is preferable to use the helper over listening to the event bus directly.",
+  "source": "@site/docs/integration_listen_events.md",
+  "sourceDirName": ".",
+  "slug": "/integration_listen_events",
+  "permalink": "/docs/integration_listen_events",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/integration_listen_events.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Listening for events"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Firing events",
+    "permalink": "/docs/integration_events"
+  },
+  "next": {
+    "title": "Networking and discovery",
+    "permalink": "/docs/network_discovery"
+  }
+}

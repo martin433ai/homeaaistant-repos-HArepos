@@ -1,0 +1,33 @@
+{
+  "permalink": "/blog/2020/10/02/lazyMoreInfo",
+  "source": "@site/blog/2020-10-02-lazyMoreInfo.md",
+  "title": "Lazy-loading more-info controls",
+  "description": "In 0.115 we converted our more info controls to be lazy-loaded. This was done because the more info dialog is always loaded in an early stage of the page load. Every domain can have its own controls and they can be pretty heavy. We don't need all these elements on page load, so we decided to only load them when they are needed.",
+  "date": "2020-10-02T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 4.645,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Bram Kragten",
+      "url": "https://github.com/bramkragten",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Bram Kragten",
+    "authorURL": "https://github.com/bramkragten",
+    "authorTwitter": "bramkragten",
+    "title": "Lazy-loading more-info controls"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Upcoming changes to add-ons",
+    "permalink": "/blog/2020/10/29/supervisor-update"
+  },
+  "nextItem": {
+    "title": "Lovelace: Custom View Layouts",
+    "permalink": "/blog/2020/09/30/customViewChanges"
+  }
+}

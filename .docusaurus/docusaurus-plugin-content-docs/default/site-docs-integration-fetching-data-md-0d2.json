@@ -1,0 +1,27 @@
+{
+  "id": "integration_fetching_data",
+  "title": "Fetching data",
+  "description": "Your integration will need to fetch data from an API to be able to provide this to Home Assistant. This API can be available over the web (local or cloud), sockets, serial ports exposed via USB sticks, etc.",
+  "source": "@site/docs/integration_fetching_data.md",
+  "sourceDirName": ".",
+  "slug": "/integration_fetching_data",
+  "permalink": "/docs/integration_fetching_data",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/integration_fetching_data.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Fetching data"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Multiple platforms",
+    "permalink": "/docs/creating_component_generic_discovery"
+  },
+  "next": {
+    "title": "Handling setup failures",
+    "permalink": "/docs/integration_setup_failures"
+  }
+}

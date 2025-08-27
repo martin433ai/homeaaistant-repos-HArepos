@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2022/08/15/automation-action-type-deprecation",
+  "source": "@site/blog/2022-08-15-automation-action-type-deprecation.md",
+  "title": "AutomationActionType deprecation for 2022.9",
+  "description": "For Home Assistant Core 2022.9, we have deprecated AutomationActionType, AutomationTriggerInfo,",
+  "date": "2022-08-15T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.32,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Marc Mueller",
+      "url": "https://github.com/cdce8p",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Marc Mueller",
+    "authorURL": "https://github.com/cdce8p",
+    "title": "AutomationActionType deprecation for 2022.9"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "LightEntity no longer supports white_value",
+    "permalink": "/blog/2022/08/18/light_white_value_removed"
+  },
+  "nextItem": {
+    "title": "Bluetooth passive sensor API changes for 2022.9",
+    "permalink": "/blog/2022/08/08/bluetooth-api-changes"
+  }
+}

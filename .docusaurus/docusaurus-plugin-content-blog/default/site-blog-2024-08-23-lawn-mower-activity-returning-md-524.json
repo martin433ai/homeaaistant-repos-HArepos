@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2024/08/23/lawn-mower-activity-returning",
+  "source": "@site/blog/2024-08-23-lawn-mower-activity-returning.md",
+  "title": "New returning type in LawnMowerActivity",
+  "description": "As of Home Assistant Core 2024.9, integrations implementing LawnMowerEntity can indicate that their mower is returning to the dock by using the new LawnMowerActivity.RETURNING state.",
+  "date": "2024-08-23T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.415,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Michael Arthur",
+      "url": "https://github.com/mikey0000",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Michael Arthur",
+    "authorURL": "https://github.com/mikey0000",
+    "title": "New returning type in LawnMowerActivity"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Validation of entity action schemas",
+    "permalink": "/blog/2024/08/27/entity-service-schema-validation"
+  },
+  "nextItem": {
+    "title": "Set up your DataUpdateCoordinator with a setup method",
+    "permalink": "/blog/2024/08/05/coordinator_async_setup"
+  }
+}

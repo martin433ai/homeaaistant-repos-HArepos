@@ -1,0 +1,28 @@
+{
+  "id": "core/entity/climate",
+  "title": "Climate entity",
+  "description": "A climate entity controls temperature, humidity, or fans, such as A/C systems and humidifiers. Derive a platform entity from homeassistant.components.climate.ClimateEntity",
+  "source": "@site/docs/core/entity/climate.md",
+  "sourceDirName": "core/entity",
+  "slug": "/core/entity/climate",
+  "permalink": "/docs/core/entity/climate",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/entity/climate.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Climate entity",
+    "sidebar_label": "Climate"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Camera",
+    "permalink": "/docs/core/entity/camera"
+  },
+  "next": {
+    "title": "Conversation",
+    "permalink": "/docs/core/entity/conversation"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2024/03/13/deprecate_add_run_job",
+  "source": "@site/blog/2024-03-13-deprecate_add_run_job.md",
+  "title": "Deprecating `async_run_job` and `async_add_job`",
+  "description": "asyncrunjob and asyncaddjob are deprecated and will be removed in Home Assistant 2025.4. This deprecation does not apply to the sync API add_job method, which is not planned to be removed.",
+  "date": "2024-03-13T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.47,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "J. Nick Koston",
+      "url": "https://github.com/bdraco",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "J. Nick Koston",
+    "authorURL": "https://github.com/bdraco",
+    "title": "Deprecating `async_run_job` and `async_add_job`"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Raising exceptions with translations",
+    "permalink": "/blog/2024/03/15/exception-translations"
+  },
+  "nextItem": {
+    "title": "Climate entity auxiliary heater is deprecated",
+    "permalink": "/blog/2024/03/10/climate-aux-heater-deprecated"
+  }
+}

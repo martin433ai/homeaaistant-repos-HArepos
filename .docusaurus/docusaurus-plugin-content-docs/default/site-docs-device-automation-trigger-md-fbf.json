@@ -1,0 +1,28 @@
+{
+  "id": "device_automation_trigger",
+  "title": "Device triggers",
+  "description": "Device triggers are automation triggers that are tied to a specific device and an event or state change. Examples are \"light turned on\" or \"water detected\".",
+  "source": "@site/docs/device_automation_trigger.md",
+  "sourceDirName": ".",
+  "slug": "/device_automation_trigger",
+  "permalink": "/docs/device_automation_trigger",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/device_automation_trigger.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Device triggers",
+    "sidebar_label": "Triggers"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/device_automation_index"
+  },
+  "next": {
+    "title": "Conditions",
+    "permalink": "/docs/device_automation_condition"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "misc",
+  "title": "Miscellaneous",
+  "description": "Catch all category. Topics are not related to one another.",
+  "source": "@site/docs/misc.md",
+  "sourceDirName": ".",
+  "slug": "/misc",
+  "permalink": "/docs/misc",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/misc.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Miscellaneous"
+  },
+  "sidebar": "Misc",
+  "next": {
+    "title": "Pull request review process",
+    "permalink": "/docs/review-process"
+  }
+}

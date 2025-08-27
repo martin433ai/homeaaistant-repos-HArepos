@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2024/09/24/climate-set-temp-validation",
+  "source": "@site/blog/2024-09-24-climate-set-temp-validation.md",
+  "title": "Additional validation in Climate set temperature",
+  "description": "As of Home Assistant Core 2024.10, we have added further validation of the parameters passed to the set_temperature method. This means that integrations don't need to implement this validation in their own methods.",
+  "date": "2024-09-24T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.625,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "G Johansson",
+      "url": "https://github.com/gjohansson-ST",
+      "imageURL": "https://avatars.githubusercontent.com/u/62932417?v=4",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "G Johansson",
+    "authorURL": "https://github.com/gjohansson-ST",
+    "authorImageURL": "https://avatars.githubusercontent.com/u/62932417?v=4",
+    "authorTwitter": "GJohansson",
+    "title": "Additional validation in Climate set temperature"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Version compare for Update platform can now be overwritten",
+    "permalink": "/blog/2024/09/28/update-version-compare"
+  },
+  "nextItem": {
+    "title": "Enforce SourceType and add shorthand attributes and EntityDescription to device_tracker",
+    "permalink": "/blog/2024/09/24/device-tracker-entity-description"
+  }
+}

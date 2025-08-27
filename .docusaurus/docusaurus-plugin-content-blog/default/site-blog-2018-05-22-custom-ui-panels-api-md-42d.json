@@ -1,0 +1,31 @@
+{
+  "permalink": "/blog/2018/05/22/custom-ui-panels-api",
+  "source": "@site/blog/2018-05-22-custom-ui-panels-api.md",
+  "title": "Updates for Custom UI and Custom Panels",
+  "description": "With the release of Home Assistant 0.70, we've migrated the build pipeline for our frontend from being based on HTML imports to ES module imports (more on this later). One of the effects of this is that we're no longer using the window object to share classes, data and utilities with other pieces of code.",
+  "date": "2018-05-22T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.735,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Paulus Schoutsen",
+      "url": "https://twitter.com/balloob",
+      "imageURL": "/img/profile/paulus.jpg",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Paulus Schoutsen",
+    "authorURL": "https://twitter.com/balloob",
+    "authorImageURL": "/img/profile/paulus.jpg",
+    "authorTwitter": "balloob",
+    "title": "Updates for Custom UI and Custom Panels"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "0.71: Improved custom panels and minor changes for custom UI",
+    "permalink": "/blog/2018/06/01/071-custom-panels"
+  }
+}

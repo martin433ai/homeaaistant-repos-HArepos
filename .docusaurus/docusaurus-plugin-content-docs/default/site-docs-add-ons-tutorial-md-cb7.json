@@ -1,0 +1,27 @@
+{
+  "id": "add-ons/tutorial",
+  "title": "Tutorial: Making your first add-on",
+  "description": "So you've got Home Assistant going and you've been enjoying the built-in add-ons but you're missing this one application. Time to make your own add-on!",
+  "source": "@site/docs/add-ons/tutorial.md",
+  "sourceDirName": "add-ons",
+  "slug": "/add-ons/tutorial",
+  "permalink": "/docs/add-ons/tutorial",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/add-ons/tutorial.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Tutorial: Making your first add-on"
+  },
+  "sidebar": "Addons",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/add-ons"
+  },
+  "next": {
+    "title": "Add-on configuration",
+    "permalink": "/docs/add-ons/configuration"
+  }
+}

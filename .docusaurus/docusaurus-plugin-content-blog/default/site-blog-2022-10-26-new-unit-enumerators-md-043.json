@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2022/10/26/new-unit-enumerators",
+  "source": "@site/blog/2022-10-26-new-unit-enumerators.md",
+  "title": "Introducing new unit enumerators",
+  "description": "As of Home Assistant Core 2022.11, the following unit constants are deprecated and replaced",
+  "date": "2022-10-26T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.33,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "epenet",
+      "url": "https://github.com/epenet",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "epenet",
+    "authorURL": "https://github.com/epenet",
+    "title": "Introducing new unit enumerators"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Changes to long term statistics APIs",
+    "permalink": "/blog/2022/11/16/statistics_refactoring"
+  },
+  "nextItem": {
+    "title": "Add new precipitation intensity units",
+    "permalink": "/blog/2022/10/25/new-precipitation-intensity-units"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "core/entity/device-tracker",
+  "title": "Device tracker entity",
+  "description": "A device tracker is a read-only entity that provides presence information. There are two types of device tracker entities, a ScannerEntity and a TrackerEntity.",
+  "source": "@site/docs/core/entity/device-tracker.md",
+  "sourceDirName": "core/entity",
+  "slug": "/core/entity/device-tracker",
+  "permalink": "/docs/core/entity/device-tracker",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/entity/device-tracker.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Device tracker entity",
+    "sidebar_label": "Device tracker"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Date/Time",
+    "permalink": "/docs/core/entity/datetime"
+  },
+  "next": {
+    "title": "Event",
+    "permalink": "/docs/core/entity/event"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2022/09/28/new_sensor_device_classes",
+  "source": "@site/blog/2022-09-28-new_sensor_device_classes.md",
+  "title": "New sensor device classes",
+  "description": "Several new sensor device classes have been added:",
+  "date": "2022-09-28T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.77,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Erik Montnemery",
+      "url": "https://github.com/emontnemery",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Erik Montnemery",
+    "authorURL": "https://github.com/emontnemery",
+    "title": "New sensor device classes"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Deprecating unit conversion utilities",
+    "permalink": "/blog/2022/09/28/deprecate-conversion-utilities"
+  },
+  "nextItem": {
+    "title": "Bluetooth async_track_unavailable API changes for 2022.10",
+    "permalink": "/blog/2022/09/16/bluetooth-unavailable-api-changes"
+  }
+}

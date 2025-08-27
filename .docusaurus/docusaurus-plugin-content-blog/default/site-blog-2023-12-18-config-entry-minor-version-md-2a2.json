@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2023/12/18/config-entry-minor-version",
+  "source": "@site/blog/2023-12-18-config-entry-minor-version.md",
+  "title": "Config entry now supports minor versions",
+  "description": "Config entry now supports minor versions.",
+  "date": "2023-12-18T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.945,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Erik Montnémery",
+      "url": "https://github.com/emontnemery",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Erik Montnémery",
+    "authorURL": "https://github.com/emontnemery",
+    "title": "Config entry now supports minor versions"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Deprecated constants create a log entry",
+    "permalink": "/blog/2023/12/19/constant-deprecation"
+  },
+  "nextItem": {
+    "title": "Changes to EntityDescription data classes",
+    "permalink": "/blog/2023/12/11/entity-description-changes"
+  }
+}

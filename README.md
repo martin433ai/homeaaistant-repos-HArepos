@@ -1,87 +1,70 @@
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+# Getting Started with Create React App
 
-# Home Assistant Development Documentation
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This is the source for the [Home Assistant Development documentation](https://developers.home-assistant.io).
+## Available Scripts
 
-## Updating the docs
+In the project directory, you can run:
 
-Documentation is built using [Docusaurus](https://docusaurus.io/).
+### `npm start`
 
-## Editing on GitHub
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-Small changes to text can be made directly on GitHub. At the bottom of each page there is an "Edit This Page" link which will load the document in GitHub ready for changes. This method doesn't easily allow for additional documents or images to be added.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-### Preparing a local environment
+### `npm test`
 
-There are two options for developing the documentation on a local system.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-#### Visual Studio Code and devcontainer
+### `npm run build`
 
-The easiest way to get started with development is to use Visual Studio Code with devcontainers. This approach will create a preconfigured development environment with all the tools you need. This approach is enabled for all Home Assistant repositories.
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-##### Prerequisites
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-- [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-- Docker
-  - For Linux, macOS, or Windows 10 Pro/Enterprise/Education use the [current release version of Docker](https://docs.docker.com/get-docker/)
-  - Windows 10 Home requires [WSL 2](https://learn.microsoft.com/windows/wsl/install) and the current Edge version of Docker Desktop (see instructions [here](https://docs.docker.com/desktop/windows/wsl/)). This can also be used for Windows Pro/Enterprise/Education.
-- [Visual Studio code](https://code.visualstudio.com/)
-- [Remote - Containers (VSC Extension)][extension-link]
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-[More info about requirements and devcontainer in general](https://code.visualstudio.com/docs/devcontainers/containers#_getting-started)
+### `npm run eject`
 
-[extension-link]: https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-##### Getting started
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-1. Fork the repository.
-2. Clone the repository to your computer.
-3. Open the repository using Visual Studio code.
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-When you open this repository with Visual Studio code you are asked to "Reopen in Container", this will start the build of the container.
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-_If you don't see this notification, open the command palette and select `Remote-Containers: Reopen Folder in Container`._
+## Learn More
 
-##### Tasks
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-The devcontainter comes with some useful tasks to help you with development, you can start these tasks by opening the command palette and select `Tasks: Run Task` then select the task you want to run.
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-When a task is currently running (like `Preview` for the docs), it can be restarted by opening the command palette and selecting `Tasks: Restart Running Task`, then select the task you want to restart.
+### Code Splitting
 
-When using devcontainers and starting a preview via `yarn start`, `script/setup` or the Task in Code, a browser window will not be opened automatically, instead you will need to open a browser window to [localhost:3000](http://localhost:3000). If port 3000 was already in use, Docusaurus will use the next available port. You can check the port used in the terminal window of Visual Studio Code. Look for the line `Project is running at http://0.0.0.0:XXXX/` where `XXXX` 3000 or greater, open a browser window to `<http://localhost:XXXX>`.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-#### Setting Up Your Own Environment
+### Analyzing the Bundle Size
 
-Running the documentation locally requires [NodeJS](https://nodejs.org/en/) and [Yarn](https://yarnpkg.com/) to be installed. Inside a cloned fork of this repository, run:
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-```bash
-$ script/setup
-```
+### Making a Progressive Web App
 
-Or in Windows, just run:
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-```bash
-yarn
-```
+### Advanced Configuration
 
-This will install [docusaurus](https://github.com/facebook/docusaurus#readme) amongst other things.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-##### Running docs locally
+### Deployment
 
-```bash
-$ script/server
-```
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-In Windows, just run
+### `npm run build` fails to minify
 
-```bash
-yarn start
-```
-
-It will start a server at [localhost:3000](http://localhost:3000).
-
-### Adding a page
-
-- Create new page in `docs/`
-- Add new doc to `sidebars.js`
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

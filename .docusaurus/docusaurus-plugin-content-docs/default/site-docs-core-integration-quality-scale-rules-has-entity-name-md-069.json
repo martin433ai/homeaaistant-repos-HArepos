@@ -1,0 +1,32 @@
+{
+  "id": "core/integration-quality-scale/rules/has-entity-name",
+  "title": "Entities use has_entity_name = True",
+  "description": "Reasoning",
+  "source": "@site/docs/core/integration-quality-scale/rules/has-entity-name.md",
+  "sourceDirName": "core/integration-quality-scale/rules",
+  "slug": "/core/integration-quality-scale/rules/has-entity-name",
+  "permalink": "/docs/core/integration-quality-scale/rules/has-entity-name",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/integration-quality-scale/rules/has-entity-name.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Entities use has_entity_name = True",
+    "related_rules": [
+      "entity-translations",
+      "entity-device-class",
+      "devices"
+    ]
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Entities have a unique ID",
+    "permalink": "/docs/core/integration-quality-scale/rules/entity-unique-id"
+  },
+  "next": {
+    "title": "Use ConfigEntry.runtime_data to store runtime data",
+    "permalink": "/docs/core/integration-quality-scale/rules/runtime-data"
+  }
+}

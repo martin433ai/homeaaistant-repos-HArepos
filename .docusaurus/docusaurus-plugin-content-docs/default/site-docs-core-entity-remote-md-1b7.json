@@ -1,0 +1,28 @@
+{
+  "id": "core/entity/remote",
+  "title": "Remote entity",
+  "description": "The remote entity can represent two different types of devices:",
+  "source": "@site/docs/core/entity/remote.md",
+  "sourceDirName": "core/entity",
+  "slug": "/core/entity/remote",
+  "permalink": "/docs/core/entity/remote",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/entity/remote.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Remote entity",
+    "sidebar_label": "Remote"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Number",
+    "permalink": "/docs/core/entity/number"
+  },
+  "next": {
+    "title": "Scene",
+    "permalink": "/docs/core/entity/scene"
+  }
+}

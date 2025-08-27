@@ -1,0 +1,28 @@
+{
+  "id": "core/entity/text",
+  "title": "Text entity",
+  "description": "A text entity is an entity that allows the user to input a text value to an integration. Derive entity platforms from homeassistant.components.text.TextEntity",
+  "source": "@site/docs/core/entity/text.md",
+  "sourceDirName": "core/entity",
+  "slug": "/core/entity/text",
+  "permalink": "/docs/core/entity/text",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/entity/text.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Text entity",
+    "sidebar_label": "Text"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Switch",
+    "permalink": "/docs/core/entity/switch"
+  },
+  "next": {
+    "title": "Time",
+    "permalink": "/docs/core/entity/time"
+  }
+}

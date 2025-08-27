@@ -1,0 +1,24 @@
+{
+  "id": "frontend",
+  "title": "Home Assistant Frontend",
+  "description": "The Home Assistant frontend allows users to browse and control the state of their house, manage their automations and configure integrations.",
+  "source": "@site/docs/frontend.md",
+  "sourceDirName": ".",
+  "slug": "/frontend",
+  "permalink": "/docs/frontend",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/frontend.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Home Assistant Frontend",
+    "sidebar_label": "Introduction"
+  },
+  "sidebar": "Frontend",
+  "next": {
+    "title": "Architecture",
+    "permalink": "/docs/frontend/architecture"
+  }
+}

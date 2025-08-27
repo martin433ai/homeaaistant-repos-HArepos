@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2022/04/18/calendar-data-model",
+  "source": "@site/blog/2022-04-18-calendar-data-model.md",
+  "title": "Calendar Data Model improvements and deprecations",
+  "description": "As of Home Assistant Core 2022.5, CalendarDeviceEntity is deprecated and superseded by CalendarEntity. The new entity has a more well defined data model, and a streamlined websocket API. CalendarDeviceEntity will be removed in a future Home Assistant release and custom components are required to migrate to the new APIs. See the new Calendar Entity developer documentation for details.",
+  "date": "2022-04-18T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.29,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Allen Porter",
+      "url": "https://github.com/allenporter",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Allen Porter",
+    "authorURL": "https://github.com/allenporter",
+    "title": "Calendar Data Model improvements and deprecations"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Saying goodbye to the time_changed event",
+    "permalink": "/blog/2022/04/20/saying-goodbye-to-event_time_changed"
+  },
+  "nextItem": {
+    "title": "Local OAuth2 Updates",
+    "permalink": "/blog/2022/04/16/local-oauth2"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "frontend/custom-ui/registering-resources",
+  "title": "Registering resources",
+  "description": "If you want to extend the Home Assistant interface with custom cards, strategies or views you need to load external resources.",
+  "source": "@site/docs/frontend/custom-ui/registering-resources.md",
+  "sourceDirName": "frontend/custom-ui",
+  "slug": "/frontend/custom-ui/registering-resources",
+  "permalink": "/docs/frontend/custom-ui/registering-resources",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/frontend/custom-ui/registering-resources.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Registering resources"
+  },
+  "sidebar": "Frontend",
+  "previous": {
+    "title": "Creating custom panels",
+    "permalink": "/docs/frontend/custom-ui/creating-custom-panels"
+  }
+}

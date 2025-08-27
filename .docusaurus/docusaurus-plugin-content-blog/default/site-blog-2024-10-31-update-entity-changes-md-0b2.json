@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2024/10/31/update-entity-changes",
+  "source": "@site/blog/2024-10-31-update-entity-changes.md",
+  "title": "Changes to the update entity",
+  "description": "Summary of changes",
+  "date": "2024-10-31T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.82,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Erik Montnemery",
+      "url": "https://github.com/emontnemery",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Erik Montnemery",
+    "authorURL": "https://github.com/emontnemery",
+    "title": "Changes to the update entity"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "The core config class has been moved",
+    "permalink": "/blog/2024/10/31/core-config-moved"
+  },
+  "nextItem": {
+    "title": "New alarm control panel state property and state enum",
+    "permalink": "/blog/2024/10/22/new-alarm-state-property"
+  }
+}

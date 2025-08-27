@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2023/01/12/bluetooth-adapters",
+  "source": "@site/blog/2023-01-12-bluetooth-adapters.md",
+  "title": "Bluetooth updates for 2023.2 and later",
+  "description": "Integrations that need to use a Bluetooth adapter should add bluetoothadapters in dependencies in their manifest.json. The manifest.json entry ensures that all supported remote adapters are connected before the integration tries to use them. This replaces the need to add bluetooth in dependencies.",
+  "date": "2023-01-12T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.405,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "J. Nick Koston",
+      "url": "https://github.com/bdraco",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "J. Nick Koston",
+    "authorURL": "https://github.com/bdraco",
+    "title": "Bluetooth updates for 2023.2 and later"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Cover intents deprecated",
+    "permalink": "/blog/2023/01/20/cover-intent-deprecated"
+  },
+  "nextItem": {
+    "title": "Database schema v32 updates",
+    "permalink": "/blog/2023/01/02/db-schema-v32"
+  }
+}

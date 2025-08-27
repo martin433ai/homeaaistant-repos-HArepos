@@ -1,0 +1,28 @@
+{
+  "id": "core/entity/todo",
+  "title": "To-do list entity",
+  "description": "A To-do list entity is an entity that represents a To-do list. A To-do list contains",
+  "source": "@site/docs/core/entity/todo.md",
+  "sourceDirName": "core/entity",
+  "slug": "/core/entity/todo",
+  "permalink": "/docs/core/entity/todo",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/entity/todo.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "To-do list entity",
+    "sidebar_label": "To-do list"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Time",
+    "permalink": "/docs/core/entity/time"
+  },
+  "next": {
+    "title": "Text-to-speech",
+    "permalink": "/docs/core/entity/tts"
+  }
+}

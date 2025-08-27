@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2022/06/07/dataflow-constants-deprecation",
+  "source": "@site/blog/2022-06-07-dataflow-constants-deprecation.md",
+  "title": "Deprecating Data Entry Flow constants",
+  "description": "As of Home Assistant Core 2022.7, all RESULTTYPE* constants for data entry flow result types are deprecated:",
+  "date": "2022-06-07T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.195,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "epenet",
+      "url": "https://github.com/epenet",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "epenet",
+    "authorURL": "https://github.com/epenet",
+    "title": "Deprecating Data Entry Flow constants"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Avoiding reloading config entries while they are setting up",
+    "permalink": "/blog/2022/06/13/unsafe_reloads_during_entry_setup"
+  },
+  "nextItem": {
+    "title": "Support context in update coordinator",
+    "permalink": "/blog/2022/06/02/update_coordinator-context"
+  }
+}

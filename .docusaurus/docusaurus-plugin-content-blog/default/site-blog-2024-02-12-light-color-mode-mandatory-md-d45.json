@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2024/02/12/light-color-mode-mandatory",
+  "source": "@site/blog/2024-02-12-light-color-mode-mandatory.md",
+  "title": "It is now required for lights to set color mode",
+  "description": "Change",
+  "date": "2024-02-12T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.51,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Erik Montnémery",
+      "url": "https://github.com/emontnemery",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Erik Montnémery",
+    "authorURL": "https://github.com/emontnemery",
+    "title": "It is now required for lights to set color mode"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Altering config entries",
+    "permalink": "/blog/2024/02/12/async_update_entry"
+  },
+  "nextItem": {
+    "title": "Properties changes for ha-state-icon",
+    "permalink": "/blog/2024/01/30/ha-state-icon-properties-changes"
+  }
+}

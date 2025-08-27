@@ -1,0 +1,28 @@
+{
+  "id": "operating-system/deployment",
+  "title": "Deployment/Releases",
+  "description": "Home Assistant Operating System releases are built from the release branch. GitHub Actions are used to build all public releases. There is no fixed schedule, builds are triggered as needed by the HAOS maintainer. Changes need to get applied to the development branch first and labeled with the rel-x label. The maintainer will backport those patches onto the release branch before the next release.",
+  "source": "@site/docs/operating-system/deployment.md",
+  "sourceDirName": "operating-system",
+  "slug": "/operating-system/deployment",
+  "permalink": "/docs/operating-system/deployment",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/operating-system/deployment.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Deployment/Releases",
+    "sidebar_label": "Deployment"
+  },
+  "sidebar": "OperatingSystem",
+  "previous": {
+    "title": "Metadata",
+    "permalink": "/docs/operating-system/board-metadata"
+  },
+  "next": {
+    "title": "Update system",
+    "permalink": "/docs/operating-system/update-system"
+  }
+}

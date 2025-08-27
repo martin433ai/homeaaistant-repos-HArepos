@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2022/06/27/weather_entity_refactoring",
+  "source": "@site/blog/2022-06-27-weather_entity_refactoring.md",
+  "title": "Weather entity refactoring to support unit conversions",
+  "description": "WeatherEntity now supports temperature unit conversion following a similar pattern",
+  "date": "2022-06-27T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.705,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Erik Montnemery",
+      "url": "https://github.com/emontnemery",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Erik Montnemery",
+    "authorURL": "https://github.com/emontnemery",
+    "title": "Weather entity refactoring to support unit conversions"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Store is now a Generic class",
+    "permalink": "/blog/2022/07/08/generic-store"
+  },
+  "nextItem": {
+    "title": "Number entity refactoring to support unit conversion",
+    "permalink": "/blog/2022/06/14/number_entity_refactoring"
+  }
+}

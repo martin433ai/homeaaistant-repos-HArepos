@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2021/08/24/supervisor_update",
+  "source": "@site/blog/2021-08-24-supervisor_update.md",
+  "title": "Supervisor update",
+  "description": "It's been a while since we posted about changes to the Supervisor. Here are some highlights from the past year and the future. This information is mainly for add-on developers, but there is little something for everyone in here. If you have not yet seen it, we have posted a blog on the main site that you should read.",
+  "date": "2021-08-24T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 3.75,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Joakim Sørensen",
+      "url": "https://github.com/ludeeus",
+      "imageURL": "/img/profile/ludeeus.jpg",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Joakim Sørensen",
+    "authorURL": "https://github.com/ludeeus",
+    "authorImageURL": "/img/profile/ludeeus.jpg",
+    "authorTwitter": "ludeeus",
+    "title": "Supervisor update"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "New sensor state class: total",
+    "permalink": "/blog/2021/09/20/state_class_total"
+  },
+  "nextItem": {
+    "title": "New sensor state class: total_increasing",
+    "permalink": "/blog/2021/08/16/state_class_total"
+  }
+}

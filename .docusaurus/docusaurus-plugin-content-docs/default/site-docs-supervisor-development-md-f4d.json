@@ -1,0 +1,28 @@
+{
+  "id": "supervisor/development",
+  "title": "Supervisor development",
+  "description": "These instructions are for development of the Supervisor, the Supervisor frontend panel and the hassio integration, by interacting with a development or remote supervisor, this assumes that you are using a development machine to do the development, these instructions will also use devcontainer and other tools that rely on Docker, so if you don't have that setup yet, do that before you continue.",
+  "source": "@site/docs/supervisor/development.md",
+  "sourceDirName": "supervisor",
+  "slug": "/supervisor/development",
+  "permalink": "/docs/supervisor/development",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/supervisor/development.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Supervisor development",
+    "sidebar_label": "Development"
+  },
+  "sidebar": "Supervisor",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/supervisor"
+  },
+  "next": {
+    "title": "Debugging",
+    "permalink": "/docs/supervisor/debugging"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "asyncio_working_with_async",
+  "title": "Working with Async",
+  "description": "Although we have a backwards compatible API, using the async core directly will be a lot faster. Most core components have already been rewritten to leverage the async core. This includes the EntityComponent helper (foundation of light, switch, etc), scripts, groups and automation.",
+  "source": "@site/docs/asyncio_working_with_async.md",
+  "sourceDirName": ".",
+  "slug": "/asyncio_working_with_async",
+  "permalink": "/docs/asyncio_working_with_async",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/asyncio_working_with_async.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Working with Async"
+  },
+  "sidebar": "Misc",
+  "previous": {
+    "title": "Categorizing functions",
+    "permalink": "/docs/asyncio_categorizing_functions"
+  },
+  "next": {
+    "title": "Thread safety with asyncio",
+    "permalink": "/docs/asyncio_thread_safety"
+  }
+}

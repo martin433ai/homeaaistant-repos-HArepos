@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2022/08/24/globally_accessible_hass",
+  "source": "@site/blog/2022-08-24-globally_accessible_hass.md",
+  "title": "Globally available HomeAssistant object (hass)",
+  "description": "It's now possible to get a reference to the HomeAssistant instance by calling core.asyncgethass().",
+  "date": "2022-08-24T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.58,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Erik Montnemery",
+      "url": "https://github.com/emontnemery",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Erik Montnemery",
+    "authorURL": "https://github.com/emontnemery",
+    "title": "Globally available HomeAssistant object (hass)"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "The issue registry has been moved to homeassistant.helpers",
+    "permalink": "/blog/2022/08/25/issue_registry_moved_to_helpers"
+  },
+  "nextItem": {
+    "title": "LightEntity no longer supports white_value",
+    "permalink": "/blog/2022/08/18/light_white_value_removed"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2019/07/19/building-all-the-things",
+  "source": "@site/blog/2019-07-19-building-all-the-things.md",
+  "title": "Building All The Things",
+  "description": "How Home Assistant is using Azure Pipelines to automate all the things.",
+  "date": "2019-07-19T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 7.215,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Paulus Schoutsen",
+      "url": "https://twitter.com/balloob",
+      "imageURL": "/img/profile/paulus.jpg",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Paulus Schoutsen",
+    "authorURL": "https://twitter.com/balloob",
+    "authorImageURL": "/img/profile/paulus.jpg",
+    "authorTwitter": "balloob",
+    "title": "Building All The Things"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Adopting Black",
+    "permalink": "/blog/2019/07/31/black"
+  },
+  "nextItem": {
+    "title": "Climate Cleanup",
+    "permalink": "/blog/2019/07/03/climate-cleanup"
+  }
+}

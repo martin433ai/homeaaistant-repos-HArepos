@@ -1,0 +1,33 @@
+{
+  "permalink": "/blog/2023/04/04/deprecating_polymer",
+  "source": "@site/blog/2023-04-04-deprecating_polymer.md",
+  "title": "Deprecating Polymer",
+  "description": "The Home Assistant frontend used to use the Polymer Library for her web components. Polymer has since been deprecated and superseded by Lit.",
+  "date": "2023-04-04T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.175,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Bram Kragten",
+      "url": "https://twitter.com/bramkragten",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Bram Kragten",
+    "authorURL": "https://twitter.com/bramkragten",
+    "authorTwitter": "bramkragten",
+    "title": "Deprecating Polymer"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "New limits for Supervisor Add-ons",
+    "permalink": "/blog/2023/04/13/new_limits_for_add_ons"
+  },
+  "nextItem": {
+    "title": "Calendar best practices",
+    "permalink": "/blog/2023/03/28/calendar_best_practices"
+  }
+}

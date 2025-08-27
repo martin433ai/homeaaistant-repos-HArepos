@@ -1,0 +1,27 @@
+{
+  "id": "documenting/standards",
+  "title": "Standards",
+  "description": "To ensure that the documentation for Home Assistant is consistent and easy to follow for both novice and expert users, we ask that you follow a very strict set of standards for developing the documentation.",
+  "source": "@site/docs/documenting/standards.md",
+  "sourceDirName": "documenting",
+  "slug": "/documenting/standards",
+  "permalink": "/docs/documenting/standards",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/documenting/standards.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Standards"
+  },
+  "sidebar": "Misc",
+  "previous": {
+    "title": "Documentation",
+    "permalink": "/docs/documenting"
+  },
+  "next": {
+    "title": "YAML Style Guide",
+    "permalink": "/docs/documenting/yaml-style-guide"
+  }
+}

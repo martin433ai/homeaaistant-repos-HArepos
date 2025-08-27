@@ -1,0 +1,30 @@
+{
+  "id": "core/integration-quality-scale/rules/test-before-setup",
+  "title": "Check during integration initialization if we are able to set it up correctly",
+  "description": "Reasoning",
+  "source": "@site/docs/core/integration-quality-scale/rules/test-before-setup.md",
+  "sourceDirName": "core/integration-quality-scale/rules",
+  "slug": "/core/integration-quality-scale/rules/test-before-setup",
+  "permalink": "/docs/core/integration-quality-scale/rules/test-before-setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/integration-quality-scale/rules/test-before-setup.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Check during integration initialization if we are able to set it up correctly",
+    "related_rules": [
+      "runtime-data"
+    ]
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Test a connection in the config flow",
+    "permalink": "/docs/core/integration-quality-scale/rules/test-before-configure"
+  },
+  "next": {
+    "title": "Don't allow the same device or service to be able to be set up twice",
+    "permalink": "/docs/core/integration-quality-scale/rules/unique-config-entry"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2022/09/16/bluetooth-unavailable-api-changes",
+  "source": "@site/blog/2022-09-16-bluetooth-unavailable-api-changes.md",
+  "title": "Bluetooth async_track_unavailable API changes for 2022.10",
+  "description": "For Home Assistant Core 2022.10 we have changed the asynctrackunavailable bluetooth API to send the last BluetoothServiceInfoBleak to the callback instead of the address.",
+  "date": "2022-09-16T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.275,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "J. Nick Koston",
+      "url": "https://github.com/bdraco",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "J. Nick Koston",
+    "authorURL": "https://github.com/bdraco",
+    "title": "Bluetooth async_track_unavailable API changes for 2022.10"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "New sensor device classes",
+    "permalink": "/blog/2022/09/28/new_sensor_device_classes"
+  },
+  "nextItem": {
+    "title": "Deprecating media player constants",
+    "permalink": "/blog/2022/09/06/media-player-repeat-mode-deprecation"
+  }
+}

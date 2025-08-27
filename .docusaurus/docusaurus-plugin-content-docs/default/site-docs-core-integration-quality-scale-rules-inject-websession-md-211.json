@@ -1,0 +1,30 @@
+{
+  "id": "core/integration-quality-scale/rules/inject-websession",
+  "title": "The integration dependency supports passing in a websession",
+  "description": "Reasoning",
+  "source": "@site/docs/core/integration-quality-scale/rules/inject-websession.md",
+  "sourceDirName": "core/integration-quality-scale/rules",
+  "slug": "/core/integration-quality-scale/rules/inject-websession",
+  "permalink": "/docs/core/integration-quality-scale/rules/inject-websession",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/integration-quality-scale/rules/inject-websession.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "The integration dependency supports passing in a websession",
+    "related_rules": [
+      "async-dependency"
+    ]
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Dependency is async",
+    "permalink": "/docs/core/integration-quality-scale/rules/async-dependency"
+  },
+  "next": {
+    "title": "Strict typing",
+    "permalink": "/docs/core/integration-quality-scale/rules/strict-typing"
+  }
+}

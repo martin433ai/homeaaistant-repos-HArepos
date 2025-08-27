@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2024/07/19/fan-fanentityfeatures-turn-on_off",
+  "source": "@site/blog/2024-07-19-fan-fanentityfeatures-turn-on_off.md",
+  "title": "New entity feature flags in FanEntity",
+  "description": "As of Home Assistant Core 2024.8, we have added two new flags to FanEntityFeature: TURNON, TURNOFF.",
+  "date": "2024-07-19T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.795,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "G Johansson",
+      "url": "https://github.com/gjohansson-ST",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "G Johansson",
+    "authorURL": "https://github.com/gjohansson-ST",
+    "title": "New entity feature flags in FanEntity"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Climate entity now validates temperature provided in action calls",
+    "permalink": "/blog/2024/07/24/climate-min-max-temperature-check"
+  },
+  "nextItem": {
+    "title": "model_id added to DeviceInfo",
+    "permalink": "/blog/2024/07/16/device-info-model-id"
+  }
+}

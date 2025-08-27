@@ -1,0 +1,27 @@
+{
+  "id": "core/integration-quality-scale/rules/docs-installation-parameters",
+  "title": "The documentation describes all integration installation parameters",
+  "description": "Reasoning",
+  "source": "@site/docs/core/integration-quality-scale/rules/docs-installation-parameters.md",
+  "sourceDirName": "core/integration-quality-scale/rules",
+  "slug": "/core/integration-quality-scale/rules/docs-installation-parameters",
+  "permalink": "/docs/core/integration-quality-scale/rules/docs-installation-parameters",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/integration-quality-scale/rules/docs-installation-parameters.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "The documentation describes all integration installation parameters"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "The documentation describes all integration configuration options",
+    "permalink": "/docs/core/integration-quality-scale/rules/docs-configuration-parameters"
+  },
+  "next": {
+    "title": "Mark entity unavailable if appropriate",
+    "permalink": "/docs/core/integration-quality-scale/rules/entity-unavailable"
+  }
+}

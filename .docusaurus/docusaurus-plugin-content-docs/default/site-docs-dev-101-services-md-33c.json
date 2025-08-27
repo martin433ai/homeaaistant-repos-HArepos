@@ -1,0 +1,28 @@
+{
+  "id": "dev_101_services",
+  "title": "Integration service actions",
+  "description": "Home Assistant provides ready-made actions for a lot of things, but it doesn't always cover everything. Instead of trying to change Home Assistant, it is preferred to add it as a service action under your own integration first. Once we see a pattern in these service actions, we can talk about generalizing them.",
+  "source": "@site/docs/dev_101_services.md",
+  "sourceDirName": ".",
+  "slug": "/dev_101_services",
+  "permalink": "/docs/dev_101_services",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/dev_101_services.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Integration service actions",
+    "sidebar_label": "Custom actions"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Integration configuration via YAML",
+    "permalink": "/docs/configuration_yaml_index"
+  },
+  "next": {
+    "title": "Platforms",
+    "permalink": "/docs/creating_platform_index"
+  }
+}

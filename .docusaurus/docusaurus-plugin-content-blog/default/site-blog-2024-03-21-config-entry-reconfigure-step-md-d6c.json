@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2024/03/21/config-entry-reconfigure-step",
+  "source": "@site/blog/2024-03-21-config-entry-reconfigure-step.md",
+  "title": "Config Entries can now provide a reconfigure step",
+  "description": "As of Home Assistant Core 2024.4, config entries can now be reconfigured by adding a reconfigure step in their config flows.",
+  "date": "2024-03-21T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.13,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "G Johansson",
+      "url": "https://github.com/gjohansson-ST",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "G Johansson",
+    "authorURL": "https://github.com/gjohansson-ST",
+    "title": "Config Entries can now provide a reconfigure step"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Deprecate hass.helpers usage",
+    "permalink": "/blog/2024/03/30/deprecate-hass-helpers"
+  },
+  "nextItem": {
+    "title": "New state timestamp State.last_reported",
+    "permalink": "/blog/2024/03/20/state_reported_timestamp"
+  }
+}

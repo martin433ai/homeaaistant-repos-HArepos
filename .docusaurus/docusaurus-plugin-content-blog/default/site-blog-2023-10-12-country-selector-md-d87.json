@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2023/10/12/country_selector",
+  "source": "@site/blog/2023-10-12-country_selector.md",
+  "title": "Country selector",
+  "description": "Selectors has been expanded and now also includes a CountrySelector.",
+  "date": "2023-10-12T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.215,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "G Johansson",
+      "url": "https://github.com/gjohansson-ST",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "G Johansson",
+    "authorURL": "https://github.com/gjohansson-ST",
+    "title": "Country selector"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Public Addon Config",
+    "permalink": "/blog/2023/11/06/public-addon-config"
+  },
+  "nextItem": {
+    "title": "Removal of deprecated unit conversion utilities",
+    "permalink": "/blog/2023/10/03/conversion-functions-cleanup"
+  }
+}

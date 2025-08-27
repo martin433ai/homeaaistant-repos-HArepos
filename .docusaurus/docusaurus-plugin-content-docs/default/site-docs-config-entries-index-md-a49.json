@@ -1,0 +1,27 @@
+{
+  "id": "config_entries_index",
+  "title": "Config entries",
+  "description": "Config Entries are configuration data that are persistently stored by Home Assistant. A config entry is created by a user via the UI. The UI flow is powered by a config flow handler as defined by the component. Config entries can also have an extra options flow handler, also defined by the component.",
+  "source": "@site/docs/config_entries_index.md",
+  "sourceDirName": ".",
+  "slug": "/config_entries_index",
+  "permalink": "/docs/config_entries_index",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/config_entries_index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Config entries"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Multi-factor authentication modules",
+    "permalink": "/docs/auth_auth_module"
+  },
+  "next": {
+    "title": "Data entry flow",
+    "permalink": "/docs/data_entry_flow_index"
+  }
+}

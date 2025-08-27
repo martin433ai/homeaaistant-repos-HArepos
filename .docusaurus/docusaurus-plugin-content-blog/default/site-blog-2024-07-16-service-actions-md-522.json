@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2024/07/16/service-actions",
+  "source": "@site/blog/2024-07-16-service-actions.md",
+  "title": "Services are now actions",
+  "description": "The term \"Services\" has been a source of confusion for many users, as it is not immediately clear what it refers to; it could be a web or STT service, but in the context of Home Assistant, it means something entirely different (service calls).",
+  "date": "2024-07-16T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.05,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Franck Nijhof",
+      "url": "https://twitter.com/frenck",
+      "imageURL": "/img/profile/frenck.png",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Franck Nijhof",
+    "authorURL": "https://twitter.com/frenck",
+    "authorImageURL": "/img/profile/frenck.png",
+    "authorTwitter": "frenck",
+    "title": "Services are now actions"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "model_id added to DeviceInfo",
+    "permalink": "/blog/2024/07/16/device-info-model-id"
+  },
+  "nextItem": {
+    "title": "New HVACAction DEFROSTING",
+    "permalink": "/blog/2024/07/07/climate-hvacaction-defrosting"
+  }
+}

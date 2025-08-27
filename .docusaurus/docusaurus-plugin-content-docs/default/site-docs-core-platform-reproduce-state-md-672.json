@@ -1,0 +1,27 @@
+{
+  "id": "core/platform/reproduce_state",
+  "title": "Reproduce state",
+  "description": "Home Assistant has support for scenes. Scenes are a collection of (partial) entity states. When a scene is activated, Home Assistant will try to call the right service actions to get the specified scenes in their specified state.",
+  "source": "@site/docs/core/platform/reproduce_state.md",
+  "sourceDirName": "core/platform",
+  "slug": "/core/platform/reproduce_state",
+  "permalink": "/docs/core/platform/reproduce_state",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/platform/reproduce_state.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Reproduce state"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Repairs",
+    "permalink": "/docs/core/platform/repairs"
+  },
+  "next": {
+    "title": "Significant change",
+    "permalink": "/docs/core/platform/significant_change"
+  }
+}

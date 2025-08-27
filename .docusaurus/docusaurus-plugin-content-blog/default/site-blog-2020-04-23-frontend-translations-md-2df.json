@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2020/04/23/frontend-translations",
+  "source": "@site/blog/2020-04-23-frontend-translations.md",
+  "title": "Translations for custom Lovelace",
+  "description": "If you are the author of a custom Lovelace card and use translations, please pay attention as the state translation keys have changed.",
+  "date": "2020-04-23T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.65,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Paulus Schoutsen",
+      "url": "https://twitter.com/balloob",
+      "imageURL": "/img/profile/paulus.jpg",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Paulus Schoutsen",
+    "authorURL": "https://twitter.com/balloob",
+    "authorImageURL": "/img/profile/paulus.jpg",
+    "authorTwitter": "balloob",
+    "title": "Translations for custom Lovelace"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Logos for custom integrations",
+    "permalink": "/blog/2020/05/08/logos-custom-integrations"
+  },
+  "nextItem": {
+    "title": "Hassfest for custom components",
+    "permalink": "/blog/2020/04/16/hassfest"
+  }
+}

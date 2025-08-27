@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2019/04/12/new-integration-structure",
+  "source": "@site/blog/2019-04-12-new-integration-structure.md",
+  "title": "Introducing Integrations",
+  "description": "We have finished the great migration. The result will be released as part of Home Assistant 0.92. The release has been a bit delayed because we had a lot of things to fix! With the migration done, we now consider components and platforms that share the same name to be part of the same integration. Each integration is either a single Python file, or a folder with an init.py. file. We have updated the documentation and introduced a new section for integrations.",
+  "date": "2019-04-12T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.965,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Paulus Schoutsen",
+      "url": "https://twitter.com/balloob",
+      "imageURL": "/img/profile/paulus.jpg",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Paulus Schoutsen",
+    "authorURL": "https://twitter.com/balloob",
+    "authorImageURL": "/img/profile/paulus.jpg",
+    "authorTwitter": "balloob",
+    "title": "Introducing Integrations"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Internet of Things and the Modern Web",
+    "permalink": "/blog/2019/05/22/internet-of-things-and-the-modern-web"
+  },
+  "nextItem": {
+    "title": "Can I Have User Permissions?",
+    "permalink": "/blog/2019/03/11/user-permissions"
+  }
+}

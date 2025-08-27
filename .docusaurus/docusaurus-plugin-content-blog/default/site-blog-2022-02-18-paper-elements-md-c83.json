@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2022/02/18/paper-elements",
+  "source": "@site/blog/2022-02-18-paper-elements.md",
+  "title": "Paper Elements are being removed",
+  "description": "In the Home Assistant Core 2022.3 release, we are removing all of the paper-dropdown-menu and paper-input elements in the Frontend Repository. This means that any custom card that was previously using these elements in the card or card editor will no longer render correctly and will require updates to its codebase.",
+  "date": "2022-02-18T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.015,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Zack Barett",
+      "url": "https://github.com/zsarnett",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Zack Barett",
+    "authorURL": "https://github.com/zsarnett",
+    "title": "Paper Elements are being removed"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Opt in support to manually remove device",
+    "permalink": "/blog/2022/02/28/opt-in-remove-device"
+  },
+  "nextItem": {
+    "title": "Device configuration URL and entity categories",
+    "permalink": "/blog/2021/10/26/config-entity"
+  }
+}

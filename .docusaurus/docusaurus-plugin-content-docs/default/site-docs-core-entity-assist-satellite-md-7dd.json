@@ -1,0 +1,28 @@
+{
+  "id": "core/entity/assist-satellite",
+  "title": "Assist satellite entity",
+  "description": "An Assist Satellite entity represents the Assist pipeline-powered voice assistant capabilities of a device. Devices with such entities can allow users to control Home Assistant using their voice.",
+  "source": "@site/docs/core/entity/assist-satellite.md",
+  "sourceDirName": "core/entity",
+  "slug": "/core/entity/assist-satellite",
+  "permalink": "/docs/core/entity/assist-satellite",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/entity/assist-satellite.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Assist satellite entity",
+    "sidebar_label": "Assist satellite"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Alarm control panel",
+    "permalink": "/docs/core/entity/alarm-control-panel"
+  },
+  "next": {
+    "title": "Binary sensor",
+    "permalink": "/docs/core/entity/binary-sensor"
+  }
+}

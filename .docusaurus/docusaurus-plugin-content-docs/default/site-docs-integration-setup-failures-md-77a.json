@@ -1,0 +1,27 @@
+{
+  "id": "integration_setup_failures",
+  "title": "Handling setup failures",
+  "description": "Your integration may not be able to be set up for a variety of reasons. The most common cases are because the device or service is offline or the credentials are no longer valid. Your integration must retry setup so it can recover as soon as reasonably possible when the device or service is back online without the user having to restart Home Assistant.",
+  "source": "@site/docs/integration_setup_failures.md",
+  "sourceDirName": ".",
+  "slug": "/integration_setup_failures",
+  "permalink": "/docs/integration_setup_failures",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/integration_setup_failures.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Handling setup failures"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Fetching data",
+    "permalink": "/docs/integration_fetching_data"
+  },
+  "next": {
+    "title": "Firing events",
+    "permalink": "/docs/integration_events"
+  }
+}

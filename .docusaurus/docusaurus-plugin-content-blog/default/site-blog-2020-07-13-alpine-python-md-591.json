@@ -1,0 +1,33 @@
+{
+  "permalink": "/blog/2020/07/13/alpine-python",
+  "source": "@site/blog/2020-07-13-alpine-python.md",
+  "title": "Improving Python's speed by 40% when running Home Assistant",
+  "description": "We use Alpine for most of our Containers. It is the perfect distribution for containers because it is small (BusyBox based), available for a lot of CPU architectures, and the package system is slim. Alpine uses musl as their C library instead of the more commonly used glibc.",
+  "date": "2020-07-13T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 7.31,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Pascal Vizeli",
+      "url": "https://github.com/pvizeli",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Pascal Vizeli",
+    "authorURL": "https://github.com/pvizeli",
+    "authorTwitter": "pvizeli",
+    "title": "Improving Python's speed by 40% when running Home Assistant"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Lovelace: Custom View Layouts",
+    "permalink": "/blog/2020/09/30/customViewChanges"
+  },
+  "nextItem": {
+    "title": "Lovelace: getCardSize can now be async",
+    "permalink": "/blog/2020/06/01/getCardSize"
+  }
+}

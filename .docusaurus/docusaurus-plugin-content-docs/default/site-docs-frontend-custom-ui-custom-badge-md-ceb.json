@@ -1,0 +1,27 @@
+{
+  "id": "frontend/custom-ui/custom-badge",
+  "title": "Custom badge",
+  "description": "Badges are small widgets that sit at the top of a view, above all cards. We offer a built-in badge, the entity badge, but you're not just limited that one. You can build and use your own!",
+  "source": "@site/docs/frontend/custom-ui/custom-badge.md",
+  "sourceDirName": "frontend/custom-ui",
+  "slug": "/frontend/custom-ui/custom-badge",
+  "permalink": "/docs/frontend/custom-ui/custom-badge",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/frontend/custom-ui/custom-badge.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Custom badge"
+  },
+  "sidebar": "Frontend",
+  "previous": {
+    "title": "Custom card feature",
+    "permalink": "/docs/frontend/custom-ui/custom-card-feature"
+  },
+  "next": {
+    "title": "Custom strategies",
+    "permalink": "/docs/frontend/custom-ui/custom-strategy"
+  }
+}

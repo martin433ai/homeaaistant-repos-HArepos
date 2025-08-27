@@ -1,0 +1,28 @@
+{
+  "id": "entity_registry_disabled_by",
+  "title": "Entity registry and disabling entities",
+  "description": "The entity registry tracks all entities with unique IDs. For each entity, the registry keeps track of options that impact how the entity interacts with the core. One of these options is disabled_by.",
+  "source": "@site/docs/entity_registry_disabled_by.md",
+  "sourceDirName": ".",
+  "slug": "/entity_registry_disabled_by",
+  "permalink": "/docs/entity_registry_disabled_by",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/entity_registry_disabled_by.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Entity registry and disabling entities",
+    "sidebar_label": "Disabling entities"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Entity registry",
+    "permalink": "/docs/entity_registry_index"
+  },
+  "next": {
+    "title": "Device registry",
+    "permalink": "/docs/device_registry_index"
+  }
+}

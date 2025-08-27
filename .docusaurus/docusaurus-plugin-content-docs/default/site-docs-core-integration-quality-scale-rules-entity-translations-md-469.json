@@ -1,0 +1,33 @@
+{
+  "id": "core/integration-quality-scale/rules/entity-translations",
+  "title": "Entities have translated names",
+  "description": "Reasoning",
+  "source": "@site/docs/core/integration-quality-scale/rules/entity-translations.md",
+  "sourceDirName": "core/integration-quality-scale/rules",
+  "slug": "/core/integration-quality-scale/rules/entity-translations",
+  "permalink": "/docs/core/integration-quality-scale/rules/entity-translations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/integration-quality-scale/rules/entity-translations.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Entities have translated names",
+    "related_rules": [
+      "has-entity-name",
+      "entity-device-class",
+      "icon-translations",
+      "exception-translations"
+    ]
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Integration disables less popular (or noisy) entities",
+    "permalink": "/docs/core/integration-quality-scale/rules/entity-disabled-by-default"
+  },
+  "next": {
+    "title": "Exception messages are translatable",
+    "permalink": "/docs/core/integration-quality-scale/rules/exception-translations"
+  }
+}

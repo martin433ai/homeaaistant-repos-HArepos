@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2024/09/24/device-tracker-entity-description",
+  "source": "@site/blog/2024-09-24-device-tracker-entity-description.md",
+  "title": "Enforce SourceType and add shorthand attributes and EntityDescription to device_tracker",
+  "description": "The sourcetype property of devicetracker entities is now always expected to be a SourceType enum value. Standard strings are no longer valid.",
+  "date": "2024-09-24T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.56,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "epenet",
+      "url": "https://github.com/epenet",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "epenet",
+    "authorURL": "https://github.com/epenet",
+    "title": "Enforce SourceType and add shorthand attributes and EntityDescription to device_tracker"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Additional validation in Climate set temperature",
+    "permalink": "/blog/2024/09/24/climate-set-temp-validation"
+  },
+  "nextItem": {
+    "title": "Deprecating constants for Media Player",
+    "permalink": "/blog/2024/09/23/constants-media-player-deprecation"
+  }
+}

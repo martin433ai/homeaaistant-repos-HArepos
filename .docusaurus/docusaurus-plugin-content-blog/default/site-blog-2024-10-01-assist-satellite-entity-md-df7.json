@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2024/10/01/assist-satellite-entity",
+  "source": "@site/blog/2024-10-01-assist-satellite-entity.md",
+  "title": "Introducing the Assist satellite entity",
+  "description": "Users typically interact with Assist using remote voice satellites, such as the ESP32-S3-BOX-3 running ESPHome, analog phones running VoIP, and more. The integrations managing these satellites have used ad-hoc binary_sensor and select entities to allow users to configure the satellite's pipeline, automate based on the pipeline state, etc.",
+  "date": "2024-10-01T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.61,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Michael Hansen",
+      "url": "https://github.com/synesthesiam",
+      "imageURL": "/img/profile/mike_hansen.png",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Michael Hansen",
+    "authorURL": "https://github.com/synesthesiam",
+    "authorImageURL": "/img/profile/mike_hansen.png",
+    "authorTwitter": "rhasspy",
+    "title": "Introducing the Assist satellite entity"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Changes to the UnitOfConductivity enum",
+    "permalink": "/blog/2024/10/08/unit-of-conductivity-changes"
+  },
+  "nextItem": {
+    "title": "Version compare for Update platform can now be overwritten",
+    "permalink": "/blog/2024/09/28/update-version-compare"
+  }
+}

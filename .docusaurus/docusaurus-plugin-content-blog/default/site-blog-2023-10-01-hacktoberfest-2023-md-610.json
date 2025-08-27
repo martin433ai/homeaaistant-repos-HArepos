@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2023/10/01/hacktoberfest-2023",
+  "source": "@site/blog/2023-10-01-hacktoberfest-2023.md",
+  "title": "Home Assistant is participating in Hacktoberfest 2023!",
+  "description": "📢 Exciting news for Hacktoberfest 2023 participants! We are participating! 🎉",
+  "date": "2023-10-01T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.51,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Franck Nijhof",
+      "url": "https://twitter.com/frenck",
+      "imageURL": "/img/profile/frenck.png",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Franck Nijhof",
+    "authorURL": "https://twitter.com/frenck",
+    "authorImageURL": "/img/profile/frenck.png",
+    "authorTwitter": "frenck",
+    "title": "Home Assistant is participating in Hacktoberfest 2023!"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Removal of deprecated unit conversion utilities",
+    "permalink": "/blog/2023/10/03/conversion-functions-cleanup"
+  },
+  "nextItem": {
+    "title": "New way of excluding state attributes from recording",
+    "permalink": "/blog/2023/09/20/excluding-state-attributes-from-recording"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "frontend/extending/adding-state-card",
+  "title": "Adding state card",
+  "description": "The main interface of Home Assistant is a list of the current entities and their states. For each entity in the system, a state card will be rendered. State cards will show an icon, the name of the entity, when the state has last changed and the current state or a control to interact with it.",
+  "source": "@site/docs/frontend/extending/adding-state-card.md",
+  "sourceDirName": "frontend/extending",
+  "slug": "/frontend/extending/adding-state-card",
+  "permalink": "/docs/frontend/extending/adding-state-card",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/frontend/extending/adding-state-card.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Adding state card"
+  },
+  "sidebar": "Frontend",
+  "previous": {
+    "title": "External bus",
+    "permalink": "/docs/frontend/external-bus"
+  },
+  "next": {
+    "title": "Adding more info dialogs",
+    "permalink": "/docs/frontend/extending/adding-more-info-dialogs"
+  }
+}

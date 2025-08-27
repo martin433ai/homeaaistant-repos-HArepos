@@ -1,0 +1,27 @@
+{
+  "id": "core/integration-quality-scale/rules/docs-data-update",
+  "title": "The documentation describes how data is updated",
+  "description": "Reasoning",
+  "source": "@site/docs/core/integration-quality-scale/rules/docs-data-update.md",
+  "sourceDirName": "core/integration-quality-scale/rules",
+  "slug": "/core/integration-quality-scale/rules/docs-data-update",
+  "permalink": "/docs/core/integration-quality-scale/rules/docs-data-update",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/integration-quality-scale/rules/docs-data-update.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "The documentation describes how data is updated"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Can be discovered",
+    "permalink": "/docs/core/integration-quality-scale/rules/discovery"
+  },
+  "next": {
+    "title": "The documentation provides automation examples the user can use.",
+    "permalink": "/docs/core/integration-quality-scale/rules/docs-examples"
+  }
+}

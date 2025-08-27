@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/2024/05/10/group-integration",
+  "source": "@site/blog/2024-05-10-group-integration.md",
+  "title": "Changes in setup entity platforms with group integration",
+  "description": "Changes in setup entity platforms with group integration",
+  "date": "2024-05-10T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.685,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Jan Bouwhuis",
+      "url": "https://github.com/jbouwh",
+      "imageURL": "https://avatars.githubusercontent.com/u/7188918?s=96&v=4",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Jan Bouwhuis",
+    "authorURL": "https://github.com/jbouwh",
+    "authorImageURL": "https://avatars.githubusercontent.com/u/7188918?s=96&v=4",
+    "title": "Changes in setup entity platforms with group integration"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Handling time zones without blocking the event loop",
+    "permalink": "/blog/2024/05/19/fix_zoneinfo_blocking_io"
+  },
+  "nextItem": {
+    "title": "LockEntity supports open/opening state",
+    "permalink": "/blog/2024/05/10/lock-supports-open-state"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "operating-system/board-metadata",
+  "title": "Board metadata",
+  "description": "Each supported board has Home Assistant Operating System (HAOS) specific metadata file named meta. This documents the variables and the available options.",
+  "source": "@site/docs/operating-system/board-metadata.md",
+  "sourceDirName": "operating-system",
+  "slug": "/operating-system/board-metadata",
+  "permalink": "/docs/operating-system/board-metadata",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/operating-system/board-metadata.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Board metadata",
+    "sidebar_label": "Metadata"
+  },
+  "sidebar": "OperatingSystem",
+  "previous": {
+    "title": "Partitions",
+    "permalink": "/docs/operating-system/partition"
+  },
+  "next": {
+    "title": "Deployment",
+    "permalink": "/docs/operating-system/deployment"
+  }
+}

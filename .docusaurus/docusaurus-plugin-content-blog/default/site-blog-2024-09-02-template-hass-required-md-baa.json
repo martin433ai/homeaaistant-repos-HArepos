@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2024/09/02/template-hass-required",
+  "source": "@site/blog/2024-09-02-template-hass-required.md",
+  "title": "Template.hass is no longer automatically set when rendering templates",
+  "description": "With the merge of core PR #89242, which landed in Home Assistant Core 2023.4, Template.hass will be set on Template objects created during schema validation.",
+  "date": "2024-09-02T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.7,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Erik Montnemery",
+      "url": "https://github.com/emontnemery",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Erik Montnemery",
+    "authorURL": "https://github.com/emontnemery",
+    "title": "Template.hass is no longer automatically set when rendering templates"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Calories added to energy class sensors",
+    "permalink": "/blog/2024/09/10/calories-units"
+  },
+  "nextItem": {
+    "title": "Changes to the icon translations schema",
+    "permalink": "/blog/2024/08/27/changed-icon-translations-schema"
+  }
+}

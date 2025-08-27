@@ -1,0 +1,30 @@
+{
+  "id": "core/integration-quality-scale/rules/action-setup",
+  "title": "Service actions are registered in async_setup",
+  "description": "Reasoning",
+  "source": "@site/docs/core/integration-quality-scale/rules/action-setup.md",
+  "sourceDirName": "core/integration-quality-scale/rules",
+  "slug": "/core/integration-quality-scale/rules/action-setup",
+  "permalink": "/docs/core/integration-quality-scale/rules/action-setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/integration-quality-scale/rules/action-setup.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Service actions are registered in async_setup",
+    "related_rules": [
+      "action-exceptions"
+    ]
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Checklist",
+    "permalink": "/docs/core/integration-quality-scale/checklist"
+  },
+  "next": {
+    "title": "If it's a polling integration, set an appropriate polling interval",
+    "permalink": "/docs/core/integration-quality-scale/rules/appropriate-polling"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2019/10/05/simple-mode",
+  "source": "@site/blog/2019-10-05-simple-mode.md",
+  "title": "Simple Mode in Home Assistant 1.0",
+  "description": "This blog post references simple and advanced mode. This has since been renamed to standard mode and advanced mode.",
+  "date": "2019-10-05T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 3.94,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Paulus Schoutsen",
+      "url": "https://twitter.com/balloob",
+      "imageURL": "/img/profile/paulus.jpg",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Paulus Schoutsen",
+    "authorURL": "https://twitter.com/balloob",
+    "authorImageURL": "/img/profile/paulus.jpg",
+    "authorTwitter": "balloob",
+    "title": "Simple Mode in Home Assistant 1.0"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Update on the Z-Wave integration",
+    "permalink": "/blog/2020/02/04/new-zwave"
+  },
+  "nextItem": {
+    "title": "Hacktoberfest 2019",
+    "permalink": "/blog/2019/09/27/hacktoberfest"
+  }
+}

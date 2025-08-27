@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2022/04/16/local-oauth2",
+  "source": "@site/blog/2022-04-16-local-oauth2.md",
+  "title": "Local OAuth2 Updates",
+  "description": "As of Home Assistant Core 2022.5, integrations that register a configentryoauth2flow.LocalOAuth2Implementation must have a manifest dependency on the auth component.",
+  "date": "2022-04-16T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.23,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Allen Porter",
+      "url": "https://github.com/allenporter",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Allen Porter",
+    "authorURL": "https://github.com/allenporter",
+    "title": "Local OAuth2 Updates"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Calendar Data Model improvements and deprecations",
+    "permalink": "/blog/2022/04/18/calendar-data-model"
+  },
+  "nextItem": {
+    "title": "Deprecating all SUPPORT_* constants",
+    "permalink": "/blog/2022/04/02/support-constants-deprecation"
+  }
+}

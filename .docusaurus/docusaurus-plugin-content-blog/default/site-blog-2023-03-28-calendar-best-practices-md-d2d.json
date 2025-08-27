@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2023/03/28/calendar_best_practices",
+  "source": "@site/blog/2023-03-28-calendar_best_practices.md",
+  "title": "Calendar best practices",
+  "description": "Home Assistant has improved best practices for Calendar entities to ensure",
+  "date": "2023-03-28T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.74,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Allen Porter",
+      "url": "https://github.com/allenporter",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Allen Porter",
+    "authorURL": "https://github.com/allenporter",
+    "title": "Calendar best practices"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Deprecating Polymer",
+    "permalink": "/blog/2023/04/04/deprecating_polymer"
+  },
+  "nextItem": {
+    "title": "Translating the name and attributes of entities",
+    "permalink": "/blog/2023/03/27/entity_name_translations"
+  }
+}

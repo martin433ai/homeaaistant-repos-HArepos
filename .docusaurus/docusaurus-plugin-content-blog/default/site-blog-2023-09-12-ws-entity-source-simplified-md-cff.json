@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2023/09/12/ws-entity-source-simplified",
+  "source": "@site/blog/2023-09-12-ws-entity-source-simplified.md",
+  "title": "The websocket command entity/source has been modified",
+  "description": "The websocket command entity/source has been greatly simplified:",
+  "date": "2023-09-12T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.465,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Erik Montnémery",
+      "url": "https://github.com/emontnemery",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Erik Montnémery",
+    "authorURL": "https://github.com/emontnemery",
+    "title": "The websocket command entity/source has been modified"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "New way of excluding state attributes from recording",
+    "permalink": "/blog/2023/09/20/excluding-state-attributes-from-recording"
+  },
+  "nextItem": {
+    "title": "Entity state formatting",
+    "permalink": "/blog/2023/08/29/hass-format-state"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "configuration_yaml_index",
+  "title": "Integration configuration via YAML",
+  "description": "configuration.yaml is a configuration file defined by the user. It is automatically created by Home Assistant on first launch. It defines which components to load.",
+  "source": "@site/docs/configuration_yaml_index.md",
+  "sourceDirName": ".",
+  "slug": "/configuration_yaml_index",
+  "permalink": "/docs/configuration_yaml_index",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/configuration_yaml_index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Integration configuration via YAML"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "System health",
+    "permalink": "/docs/core/integration_system_health"
+  },
+  "next": {
+    "title": "Custom actions",
+    "permalink": "/docs/dev_101_services"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "core/integration-quality-scale/rules/docs-troubleshooting",
+  "title": "The documentation provides troubleshooting information",
+  "description": "Reasoning",
+  "source": "@site/docs/core/integration-quality-scale/rules/docs-troubleshooting.md",
+  "sourceDirName": "core/integration-quality-scale/rules",
+  "slug": "/core/integration-quality-scale/rules/docs-troubleshooting",
+  "permalink": "/docs/core/integration-quality-scale/rules/docs-troubleshooting",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/integration-quality-scale/rules/docs-troubleshooting.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "The documentation provides troubleshooting information"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "The documentation describes the supported functionality, including entities, and platforms",
+    "permalink": "/docs/core/integration-quality-scale/rules/docs-supported-functions"
+  },
+  "next": {
+    "title": "The documentation describes use cases to illustrate how this integration can be used",
+    "permalink": "/docs/core/integration-quality-scale/rules/docs-use-cases"
+  }
+}

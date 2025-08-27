@@ -1,0 +1,28 @@
+{
+  "id": "auth_api",
+  "title": "Authentication API",
+  "description": "This page will describe the steps required for your application to authorize against and integrate with Home Assistant instances. See a demo powered by our helper lib home-assistant-js-websocket.",
+  "source": "@site/docs/auth_api.md",
+  "sourceDirName": ".",
+  "slug": "/auth_api",
+  "permalink": "/docs/auth_api",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/auth_api.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Authentication API",
+    "sidebar_label": "API"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Permissions",
+    "permalink": "/docs/auth_permissions"
+  },
+  "next": {
+    "title": "Authentication providers",
+    "permalink": "/docs/auth_auth_provider"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "permalink": "/blog/2022/03/20/update-entity",
+  "source": "@site/blog/2022-03-20-update-entity.md",
+  "title": "Introducing the update entity",
+  "description": "Home Assistant 2022.4 will provide a brand new entity platform:",
+  "date": "2022-03-20T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.01,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Franck Nijhof",
+      "url": "https://twitter.com/frenck",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Franck Nijhof",
+    "authorURL": "https://twitter.com/frenck",
+    "authorTwitter": "frenck",
+    "title": "Introducing the update entity"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "New features for developers in 2022.4",
+    "permalink": "/blog/2022/03/30/2022.4-new-dev-features"
+  },
+  "nextItem": {
+    "title": "Opt in support to manually remove device",
+    "permalink": "/blog/2022/02/28/opt-in-remove-device"
+  }
+}

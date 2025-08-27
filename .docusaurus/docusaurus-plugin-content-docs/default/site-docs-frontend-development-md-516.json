@@ -1,0 +1,28 @@
+{
+  "id": "frontend/development",
+  "title": "Frontend development",
+  "description": "The Home Assistant frontend is built using web components. For more background about our technology choices, see this blog post.",
+  "source": "@site/docs/frontend/development.md",
+  "sourceDirName": "frontend",
+  "slug": "/frontend/development",
+  "permalink": "/docs/frontend/development",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/frontend/development.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Frontend development",
+    "sidebar_label": "Development"
+  },
+  "sidebar": "Frontend",
+  "previous": {
+    "title": "Design",
+    "permalink": "/docs/frontend/design"
+  },
+  "next": {
+    "title": "Data",
+    "permalink": "/docs/frontend/data"
+  }
+}

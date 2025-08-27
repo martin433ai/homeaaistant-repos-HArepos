@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2023/08/29/homeassistant-changed-signature",
+  "source": "@site/blog/2023-08-29-homeassistant-changed-signature.md",
+  "title": "HomeAssistant.__init__ requires passing a string to it",
+  "description": "The signature of HomeAssistant.init has been changed from no arguments to require the configuration directory as a string to be passed to it. Scripts, tests etc. outside of the HomeAssistant core repo which create HomeAssistant objects will need to be updated.",
+  "date": "2023-08-29T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.385,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Erik Montnémery",
+      "url": "https://github.com/emontnemery",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Erik Montnémery",
+    "authorURL": "https://github.com/emontnemery",
+    "title": "HomeAssistant.__init__ requires passing a string to it"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Entity state formatting",
+    "permalink": "/blog/2023/08/29/hass-format-state"
+  },
+  "nextItem": {
+    "title": "Numerical sensors are no longer allowed to set their state to NaN or inf",
+    "permalink": "/blog/2023/08/23/sensor-updates"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2024/01/22/async_services_for_domain",
+  "source": "@site/blog/2024-01-22-async_services_for_domain.md",
+  "title": "Enumerating services",
+  "description": "In Home Assistant 2024.2, we will introduce hass.services.asyncservicesfor_domain(), which is a new way to enumerate services by domain, allowing integrations to inspect which services are available without having to obtain all the services on the system. We found that most integrations are only interested in the services they provide, and it was expensive to enumerate all the services in the system when an integration was only interested in their services.",
+  "date": "2024-01-22T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.435,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "J. Nick Koston",
+      "url": "https://github.com/bdraco",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "J. Nick Koston",
+    "authorURL": "https://github.com/bdraco",
+    "title": "Enumerating services"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Changes to light color mode when lights display an effect",
+    "permalink": "/blog/2024/01/23/light-color-mode-changes"
+  },
+  "nextItem": {
+    "title": "Introducing entity translation placeholders",
+    "permalink": "/blog/2024/01/19/entity-translations-placeholders"
+  }
+}

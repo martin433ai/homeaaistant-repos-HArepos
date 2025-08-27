@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2024/05/22/alarm_control_panel_validation",
+  "source": "@site/blog/2024-05-22-alarm_control_panel_validation.md",
+  "title": "Alarm Control Panel Entity code validation",
+  "description": "The AlarmControlPanelEntity is now enforcing validation of code for alarm control panel entities, which set codearmrequired to True (default behavior). Service calls fail if no code is provided when a code is required.",
+  "date": "2024-05-22T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.54,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "G Johansson",
+      "url": "https://github.com/gjohansson-ST",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "G Johansson",
+    "authorURL": "https://github.com/gjohansson-ST",
+    "title": "Alarm Control Panel Entity code validation"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Forwarding setup to config entry platforms",
+    "permalink": "/blog/2024/06/12/async_forward_entry_setups"
+  },
+  "nextItem": {
+    "title": "Exposing Home Assistant API to LLMs",
+    "permalink": "/blog/2024/05/20/llm-api"
+  }
+}

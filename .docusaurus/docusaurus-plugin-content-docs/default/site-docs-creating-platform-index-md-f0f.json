@@ -1,0 +1,28 @@
+{
+  "id": "creating_platform_index",
+  "title": "Integration platforms",
+  "description": "Home Assistant has various built-in integrations that abstract device types. There are lights, switches, covers, climate devices, and many more. Your integration can hook into these integrations by creating a platform. You will need a platform for each integration that you are integrating with.",
+  "source": "@site/docs/creating_platform_index.md",
+  "sourceDirName": ".",
+  "slug": "/creating_platform_index",
+  "permalink": "/docs/creating_platform_index",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/creating_platform_index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Integration platforms",
+    "sidebar_label": "Platforms"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Custom actions",
+    "permalink": "/docs/dev_101_services"
+  },
+  "next": {
+    "title": "Multiple platforms",
+    "permalink": "/docs/creating_component_generic_discovery"
+  }
+}

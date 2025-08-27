@@ -1,0 +1,27 @@
+{
+  "id": "core/integration-quality-scale/rules/docs-examples",
+  "title": "The documentation provides automation examples the user can use.",
+  "description": "Reasoning",
+  "source": "@site/docs/core/integration-quality-scale/rules/docs-examples.md",
+  "sourceDirName": "core/integration-quality-scale/rules",
+  "slug": "/core/integration-quality-scale/rules/docs-examples",
+  "permalink": "/docs/core/integration-quality-scale/rules/docs-examples",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/core/integration-quality-scale/rules/docs-examples.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "The documentation provides automation examples the user can use."
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "The documentation describes how data is updated",
+    "permalink": "/docs/core/integration-quality-scale/rules/docs-data-update"
+  },
+  "next": {
+    "title": "The documentation describes known limitations of the integration (not to be confused with bugs)",
+    "permalink": "/docs/core/integration-quality-scale/rules/docs-known-limitations"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2022/03/30/2022.4-new-dev-features",
+  "source": "@site/blog/2022-03-30-2022.4-new-dev-features.md",
+  "title": "New features for developers in 2022.4",
+  "description": "There are a handful of new features for developers in 2022.4.",
+  "date": "2022-03-30T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.61,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Paulus Schoutsen",
+      "url": "https://twitter.com/balloob",
+      "imageURL": "/img/profile/paulus.jpg",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Paulus Schoutsen",
+    "authorURL": "https://twitter.com/balloob",
+    "authorImageURL": "/img/profile/paulus.jpg",
+    "authorTwitter": "balloob",
+    "title": "New features for developers in 2022.4"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Deprecating all SUPPORT_* constants",
+    "permalink": "/blog/2022/04/02/support-constants-deprecation"
+  },
+  "nextItem": {
+    "title": "Introducing the update entity",
+    "permalink": "/blog/2022/03/20/update-entity"
+  }
+}

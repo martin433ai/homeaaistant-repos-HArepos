@@ -1,0 +1,27 @@
+{
+  "id": "device_registry_index",
+  "title": "Device registry",
+  "description": "The device registry is a registry where Home Assistant keeps track of devices. A device is represented in Home Assistant via one or more entities. For example, a battery-powered temperature and humidity sensor might expose entities for temperature, humidity and battery level.",
+  "source": "@site/docs/device_registry_index.md",
+  "sourceDirName": ".",
+  "slug": "/device_registry_index",
+  "permalink": "/docs/device_registry_index",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/device_registry_index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Device registry"
+  },
+  "sidebar": "Core",
+  "previous": {
+    "title": "Disabling entities",
+    "permalink": "/docs/entity_registry_disabled_by"
+  },
+  "next": {
+    "title": "Area registry",
+    "permalink": "/docs/area_registry_index"
+  }
+}

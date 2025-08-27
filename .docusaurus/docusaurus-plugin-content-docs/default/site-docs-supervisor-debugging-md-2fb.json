@@ -1,0 +1,28 @@
+{
+  "id": "supervisor/debugging",
+  "title": "Debugging the Home Assistant Supervisor",
+  "description": "The following debug tips and tricks are for developers who are running the Home Assistant image and are working on the base image. If you use the generic Linux installer script, you should be able to access your host and logs as per your host.",
+  "source": "@site/docs/supervisor/debugging.md",
+  "sourceDirName": "supervisor",
+  "slug": "/supervisor/debugging",
+  "permalink": "/docs/supervisor/debugging",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/supervisor/debugging.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Debugging the Home Assistant Supervisor",
+    "sidebar_label": "Debugging"
+  },
+  "sidebar": "Supervisor",
+  "previous": {
+    "title": "Development",
+    "permalink": "/docs/supervisor/development"
+  },
+  "next": {
+    "title": "Endpoints",
+    "permalink": "/docs/api/supervisor/endpoints"
+  }
+}

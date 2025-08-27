@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2023/02/20/snapshot-testing",
+  "source": "@site/blog/2023-02-20-snapshot-testing.md",
+  "title": "Added support for snapshot testing",
+  "description": "Home Assistant now supports snapshot testing",
+  "date": "2023-02-20T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.46,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Franck Nijhof",
+      "url": "https://twitter.com/frenck",
+      "imageURL": "/img/profile/frenck.png",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "Franck Nijhof",
+    "authorURL": "https://twitter.com/frenck",
+    "authorImageURL": "/img/profile/frenck.png",
+    "authorTwitter": "frenck",
+    "title": "Added support for snapshot testing"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Deprecated callback signatures for MQTT subscribe removed",
+    "permalink": "/blog/2023/02/21/deprecated-callback-removed"
+  },
+  "nextItem": {
+    "title": "Refactor json helper and utility",
+    "permalink": "/blog/2023/02/15/json"
+  }
+}

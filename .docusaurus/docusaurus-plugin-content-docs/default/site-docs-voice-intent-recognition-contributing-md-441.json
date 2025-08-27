@@ -1,0 +1,28 @@
+{
+  "id": "voice/intent-recognition/contributing",
+  "title": "Contributing template sentences",
+  "description": "Template sentences need to be contributed to our Intents repository on GitHub. The sentences will be reviewed by the language leaders and merged if they are correct. You can either contribute new sentences or improve existing ones.",
+  "source": "@site/docs/voice/intent-recognition/contributing.md",
+  "sourceDirName": "voice/intent-recognition",
+  "slug": "/voice/intent-recognition/contributing",
+  "permalink": "/docs/voice/intent-recognition/contributing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/voice/intent-recognition/contributing.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Contributing template sentences",
+    "sidebar_label": "Contributing sentences"
+  },
+  "sidebar": "Voice",
+  "previous": {
+    "title": "Supported languages",
+    "permalink": "/docs/voice/intent-recognition/supported-languages"
+  },
+  "next": {
+    "title": "Response Style Guide",
+    "permalink": "/docs/voice/intent-recognition/style-guide"
+  }
+}

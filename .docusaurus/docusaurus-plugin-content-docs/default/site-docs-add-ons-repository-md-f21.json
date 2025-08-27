@@ -1,0 +1,27 @@
+{
+  "id": "add-ons/repository",
+  "title": "Create an add-on repository",
+  "description": "An add-on repository can contain one or more add-ons. Each add-on is stored in its own unique folder. To be identified as a repository, the repository must contain a configuration file.",
+  "source": "@site/docs/add-ons/repository.md",
+  "sourceDirName": "add-ons",
+  "slug": "/add-ons/repository",
+  "permalink": "/docs/add-ons/repository",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/home-assistant/developers.home-assistant/edit/master/docs/add-ons/repository.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Create an add-on repository"
+  },
+  "sidebar": "Addons",
+  "previous": {
+    "title": "Presenting your addon",
+    "permalink": "/docs/add-ons/presentation"
+  },
+  "next": {
+    "title": "Add-on security",
+    "permalink": "/docs/add-ons/security"
+  }
+}

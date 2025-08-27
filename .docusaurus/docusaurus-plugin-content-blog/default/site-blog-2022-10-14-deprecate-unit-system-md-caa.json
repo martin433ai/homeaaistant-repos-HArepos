@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/2022/10/14/deprecate-unit-system",
+  "source": "@site/blog/2022-10-14-deprecate-unit-system.md",
+  "title": "Deprecate IMPERIAL_SYSTEM unit system and linked constants and properties",
+  "description": "As of Home Assistant Core 2022.11, the IMPERIALSYSTEM is deprecated, replaced by USCUSTOMARY_SYSTEM.",
+  "date": "2022-10-14T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.59,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "epenet",
+      "url": "https://github.com/epenet",
+      "key": null,
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "author": "epenet",
+    "authorURL": "https://github.com/epenet",
+    "title": "Deprecate IMPERIAL_SYSTEM unit system and linked constants and properties"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "GitHub Commands for Code Owners",
+    "permalink": "/blog/2022/10/21/code-owner-commands"
+  },
+  "nextItem": {
+    "title": "Add options to SelectEntityDescription",
+    "permalink": "/blog/2022/10/10/add-options-to-SelectEntityDescription"
+  }
+}
