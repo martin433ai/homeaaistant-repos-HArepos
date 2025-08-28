@@ -54,7 +54,7 @@
     "@rollup/plugin-terser": "^0.4.4",
     "@svgr/plugin-svgo": "^8.1.0",
     "@svgr/webpack": "^8.1.0",
-    "css-select": "^5.1.0",
+    "css-select": "^6.0.0",
     "npm-force-resolutions": "^0.0.10",
     "nth-check": "^2.1.1",
     "postcss": "^8.5.3",
