@@ -1,0 +1,14 @@
+{
+  "domain": "openh264_video",
+  "name": "OpenH264 Video Processing",
+  "version": "1.0.0",
+  "documentation": "https://github.com/martin433ai/homeaaistant-repos-HArepos",
+  "requirements": [],
+  "codeowners": ["@martin433ai"],
+  "config_flow": true,
+  "dependencies": [],
+  "after_dependencies": ["camera"],
+  "iot_class": "local_push",
+  "quality_scale": "gold",
+  "integration_type": "service"
+}

@@ -1,0 +1,134 @@
+encode_frame:
+  name: Encode Frame
+  description: Encode a single video frame using H.264 compression
+  fields:
+    frame_data:
+      name: Frame Data
+      description: Base64 encoded frame data (YUV420, RGB24, etc.)
+      required: true
+      selector:
+        text:
+    width:
+      name: Width
+      description: Frame width in pixels
+      required: true
+      selector:
+        number:
+          min: 128
+          max: 3840
+          step: 1
+    height:
+      name: Height
+      description: Frame height in pixels
+      required: true
+      selector:
+        number:
+          min: 96
+          max: 2160
+          step: 1
+    format:
+      name: Input Format
+      description: Input frame format
+      default: yuv420
+      selector:
+        select:
+          options:
+            - yuv420
+            - rgb24
+            - bgr24
+            - rgba
+            - bgra
+    quality:
+      name: Quality
+      description: Encoding quality (1-51, lower is better quality)
+      selector:
+        number:
+          min: 1
+          max: 51
+          step: 1
+
+decode_frame:
+  name: Decode Frame
+  description: Decode H.264 bitstream to raw frame data
+  fields:
+    bitstream_data:
+      name: Bitstream Data
+      description: Base64 encoded H.264 bitstream data
+      required: true
+      selector:
+        text:
+    output_format:
+      name: Output Format
+      description: Output frame format
+      default: yuv420
+      selector:
+        select:
+          options:
+            - yuv420
+            - rgb24
+            - bgr24
+            - rgba
+            - bgra
+
+transcode_stream:
+  name: Transcode Stream
+  description: Transcode video stream with different parameters
+  fields:
+    input_stream:
+      name: Input Stream
+      description: Input stream URL (RTSP, HTTP, file path, etc.)
+      required: true
+      selector:
+        text:
+    output_stream:
+      name: Output Stream
+      description: Output stream URL or file path
+      required: true
+      selector:
+        text:
+    target_bitrate:
+      name: Target Bitrate
+      description: Target bitrate in bits per second
+      selector:
+        number:
+          min: 100000
+          max: 50000000
+          step: 100000
+    target_resolution:
+      name: Target Resolution
+      description: Target resolution (e.g., 1920x1080)
+      selector:
+        select:
+          options:
+            - "640x480"
+            - "800x600"
+            - "1024x768"
+            - "1280x720"
+            - "1920x1080"
+            - "2560x1440"
+            - "3840x2160"
+
+adjust_bitrate:
+  name: Adjust Bitrate
+  description: Dynamically adjust bitrate for camera entities
+  fields:
+    entity_id:
+      name: Entity ID
+      description: Camera entity or entities to adjust
+      required: true
+      selector:
+        entity:
+          domain: camera
+    bitrate:
+      name: New Bitrate
+      description: New target bitrate in bits per second
+      required: true
+      selector:
+        number:
+          min: 100000
+          max: 50000000
+          step: 100000
+
+get_stats:
+  name: Get Statistics
+  description: Retrieve encoding and decoding statistics
