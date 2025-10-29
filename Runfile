@@ -1,0 +1,30 @@
+#!/usr/bin/env bash
+
+# Home Assistant App Runfile
+
+# Bootstrap and setup tasks
+bootstrap:
+  ./script/bootstrap
+
+setup:
+  ./script/setup
+
+# Development server
+start:
+  yarn start
+
+server:
+  ./script/server
+
+# Build and test
+build:
+  yarn build
+
+test:
+  yarn test
+
+# Post-kick task - configure ethernet interface
+postkick:
+  echo "Configuring ethernet interface en5 for direct connection..."
+  # Add your ethernet configuration commands here
+  # Example: sudo ifconfig en5 192.168.1.100 netmask 255.255.255.0

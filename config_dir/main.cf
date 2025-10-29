@@ -1,0 +1,20 @@
+# Postfix main configuration file
+# Minimal configuration for postkick testing
+
+# Queue directories
+queue_directory = /var/spool/postfix
+command_directory = /usr/sbin
+daemon_directory = /usr/libexec/postfix
+
+# Basic identity
+myhostname = localhost
+mydomain = localdomain
+myorigin = $mydomain
+
+# Network settings
+inet_interfaces = localhost
+inet_protocols = ipv4
+
+# Mail delivery
+mydestination = $myhostname, localhost.$mydomain, localhost
+relayhost =
